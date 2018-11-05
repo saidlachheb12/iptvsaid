@@ -1,5 +1,49 @@
 # iptvsaid
 #EXTM3U
+#EXTINF:-1,--------MAROC--------
+http://rb-group-server.com:25461/yassine/yassine/2793
+#EXTINF:-1,2M Maroc
+http://rb-group-server.com:25461/yassine/yassine/2791
+#EXTINF:-1,Medi1 TV HD
+http://rb-group-server.com:25461/yassine/yassine/2785
+#EXTINF:-1,Al Aoula Inter
+http://rb-group-server.com:25461/yassine/yassine/2792
+#EXTINF:-1,Al Maghribia
+http://rb-group-server.com:25461/yassine/yassine/9316
+#EXTINF:-1,Al Magharibia News
+http://rb-group-server.com:25461/yassine/yassine/2758
+#EXTINF:-1,Al Magharibia Two
+http://rb-group-server.com:25461/yassine/yassine/2757
+#EXTINF:-1,Maroc Tamazight
+http://rb-group-server.com:25461/yassine/yassine/2786
+#EXTINF:-1,Arrabiaa
+http://rb-group-server.com:25461/yassine/yassine/2789
+#EXTINF:-1,Assadissa
+http://rb-group-server.com:25461/yassine/yassine/2787
+#EXTINF:-1,Aflam7
+http://rb-group-server.com:25461/yassine/yassine/7977
+#EXTINF:-1,CHADA
+http://rb-group-server.com:25461/yassine/yassine/4405
+#EXTINF:-1,Beur TV
+http://rb-group-server.com:25461/yassine/yassine/2764
+#EXTINF:-1,Arryadia Live HD
+http://rb-group-server.com:25461/yassine/yassine/2790
+#EXTINF:-1,GM Movies HD
+http://rb-group-server.com:25461/yassine/yassine/8620
+#EXTINF:-1,GM Alwan
+http://rb-group-server.com:25461/yassine/yassine/8611
+#EXTINF:-1,GM Comedia TV
+http://rb-group-server.com:25461/yassine/yassine/8597
+#EXTINF:-1,GM Muzicana
+http://rb-group-server.com:25461/yassine/yassine/8606
+#EXTINF:-1,GM Chaabi TV
+http://rb-group-server.com:25461/yassine/yassine/8601
+#EXTINF:-1,GM Music TV
+http://rb-group-server.com:25461/yassine/yassine/8602
+#EXTINF:-1,GM OFIVE
+http://rb-group-server.com:25461/yassine/yassine/9254
+#EXTINF:-1,GM Bizim TV
+http://rb-group-server.com:25461/yassine/yassine/8617
 #EXTINF:-1,My- MBC1 HD
 http://194.88.107.101:6204/live/jian/jian/46.ts
 #EXTINF:-1,My- MBC2 HD
