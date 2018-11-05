@@ -1,5 +1,352 @@
 # iptvsaid
 #EXTM3U
+
+#EXTINF:-1,--------FRENCH--------
+http://rb-group-server.com:25461/yassine/yassine/3386
+#EXTINF:-1,TF1
+http://rb-group-server.com:25461/yassine/yassine/5520
+#EXTINF:-1,TF1 Series Films
+http://rb-group-server.com:25461/yassine/yassine/5502
+#EXTINF:-1,TFX
+http://rb-group-server.com:25461/yassine/yassine/5510
+#EXTINF:-1,M6
+http://rb-group-server.com:25461/yassine/yassine/5519
+#EXTINF:-1,6TER
+http://rb-group-server.com:25461/yassine/yassine/5503
+#EXTINF:-1,W9
+http://rb-group-server.com:25461/yassine/yassine/5512
+#EXTINF:-1,C8
+http://rb-group-server.com:25461/yassine/yassine/5504
+#EXTINF:-1,FRANCE 2
+http://rb-group-server.com:25461/yassine/yassine/5518
+#EXTINF:-1,FRANCE 3
+http://rb-group-server.com:25461/yassine/yassine/5517
+#EXTINF:-1,FRANCE 4
+http://rb-group-server.com:25461/yassine/yassine/5516
+#EXTINF:-1,FRANCE 5
+http://rb-group-server.com:25461/yassine/yassine/5515
+#EXTINF:-1,FRANCE O
+http://rb-group-server.com:25461/yassine/yassine/5514
+#EXTINF:-1,FRANCE INFO
+http://rb-group-server.com:25461/yassine/yassine/5513
+#EXTINF:-1,Euronews
+http://rb-group-server.com:25461/yassine/yassine/3324
+#EXTINF:-1,TV5 MONDE
+http://rb-group-server.com:25461/yassine/yassine/3325
+#EXTINF:-1,CANAL NEWS
+http://rb-group-server.com:25461/yassine/yassine/5431
+#EXTINF:-1,LCP
+http://rb-group-server.com:25461/yassine/yassine/3373
+#EXTINF:-1,LCI
+http://rb-group-server.com:25461/yassine/yassine/9432
+#EXTINF:-1,Arte
+http://rb-group-server.com:25461/yassine/yassine/5507
+#EXTINF:-1,BFM TV
+http://rb-group-server.com:25461/yassine/yassine/5432
+#EXTINF:-1,BFM Business
+http://rb-group-server.com:25461/yassine/yassine/5433
+#EXTINF:-1,Paris Premiere
+http://rb-group-server.com:25461/yassine/yassine/3320
+#EXTINF:-1,13ème RUE
+http://rb-group-server.com:25461/yassine/yassine/5479
+#EXTINF:-1,RMC Story
+http://rb-group-server.com:25461/yassine/yassine/5508
+#EXTINF:-1,TV Breizh
+http://rb-group-server.com:25461/yassine/yassine/5419
+#EXTINF:-1,Comédie
+http://rb-group-server.com:25461/yassine/yassine/5430
+#EXTINF:-1,Elle Girl
+http://rb-group-server.com:25461/yassine/yassine/5428
+#EXTINF:-1,Série Club
+http://rb-group-server.com:25461/yassine/yassine/5482
+#EXTINF:-1,Syfy
+http://rb-group-server.com:25461/yassine/yassine/3316
+#EXTINF:-1,Teva
+http://rb-group-server.com:25461/yassine/yassine/6282
+#EXTINF:-1,Chérie 25
+http://rb-group-server.com:25461/yassine/yassine/5505
+#EXTINF:-1,TMC
+http://rb-group-server.com:25461/yassine/yassine/5511
+#EXTINF:-1,TCM Cinéma
+http://rb-group-server.com:25461/yassine/yassine/5477
+#EXTINF:-1,Paramount Channel
+http://rb-group-server.com:25461/yassine/yassine/5484
+#EXTINF:-1,Action
+http://rb-group-server.com:25461/yassine/yassine/5481
+#EXTINF:-1,Canal+
+http://rb-group-server.com:25461/yassine/yassine/12071
+#EXTINF:-1,Canal+ Cinéma
+http://rb-group-server.com:25461/yassine/yassine/12073
+#EXTINF:-1,Canal+ Séries
+http://rb-group-server.com:25461/yassine/yassine/12066
+#EXTINF:-1,Canal+ Décalé
+http://rb-group-server.com:25461/yassine/yassine/5495
+#EXTINF:-1,Canal+ Family
+http://rb-group-server.com:25461/yassine/yassine/5494
+#EXTINF:-1,Ciné+ Frisson
+http://rb-group-server.com:25461/yassine/yassine/5487
+#EXTINF:-1,Ciné+ Emotion
+http://rb-group-server.com:25461/yassine/yassine/5489
+#EXTINF:-1,Ciné+ Classic
+http://rb-group-server.com:25461/yassine/yassine/5491
+#EXTINF:-1,Ciné+ Premier
+http://rb-group-server.com:25461/yassine/yassine/5492
+#EXTINF:-1,Ciné+ Famiz
+http://rb-group-server.com:25461/yassine/yassine/5488
+#EXTINF:-1,Cine Club
+http://rb-group-server.com:25461/yassine/yassine/8590
+#EXTINF:-1,OCS City
+http://rb-group-server.com:25461/yassine/yassine/3347
+#EXTINF:-1,OCS MAX
+http://rb-group-server.com:25461/yassine/yassine/3348
+#EXTINF:-1,OCS CHOC
+http://rb-group-server.com:25461/yassine/yassine/3346
+#EXTINF:-1,OCS Geants
+http://rb-group-server.com:25461/yassine/yassine/3345
+#EXTINF:-1,SFR Action
+http://rb-group-server.com:25461/yassine/yassine/8705
+#EXTINF:-1,SFR_Horror
+http://rb-group-server.com:25461/yassine/yassine/8708
+#EXTINF:-1,SFR Comedy
+http://rb-group-server.com:25461/yassine/yassine/8706
+#EXTINF:-1,SFR SCI-FI
+http://rb-group-server.com:25461/yassine/yassine/8707
+#EXTINF:-1,altice STUDIO
+http://rb-group-server.com:25461/yassine/yassine/9470
+#EXTINF:-1,Sundance TV
+http://rb-group-server.com:25461/yassine/yassine/8712
+#EXTINF:-1,RTL9
+http://rb-group-server.com:25461/yassine/yassine/5478
+#EXTINF:-1,AB1
+http://rb-group-server.com:25461/yassine/yassine/5480
+#EXTINF:-1,RMC Découverte
+http://rb-group-server.com:25461/yassine/yassine/5501
+#EXTINF:-1,Chasse et Peche
+http://rb-group-server.com:25461/yassine/yassine/3333
+#EXTINF:-1,Ushuaïa
+http://rb-group-server.com:25461/yassine/yassine/5457
+#EXTINF:-1,Animaux
+http://rb-group-server.com:25461/yassine/yassine/5455
+#EXTINF:-1,Seasons
+http://rb-group-server.com:25461/yassine/yassine/5456
+#EXTINF:-1,My Cuisine
+http://rb-group-server.com:25461/yassine/yassine/9389
+#EXTINF:-1,Voyage
+http://rb-group-server.com:25461/yassine/yassine/5450
+#EXTINF:-1,TREK
+http://rb-group-server.com:25461/yassine/yassine/5420
+#EXTINF:-1,E!
+http://rb-group-server.com:25461/yassine/yassine/3274
+#EXTINF:-1,Planète+
+http://rb-group-server.com:25461/yassine/yassine/5462
+#EXTINF:-1,Planète+ CI
+http://rb-group-server.com:25461/yassine/yassine/5460
+#EXTINF:-1,Planète+ A&E
+http://rb-group-server.com:25461/yassine/yassine/5461
+#EXTINF:-1,Science & Vie
+http://rb-group-server.com:25461/yassine/yassine/5454
+#EXTINF:-1,Crime District
+http://rb-group-server.com:25461/yassine/yassine/9415
+#EXTINF:-1,Histoire
+http://rb-group-server.com:25461/yassine/yassine/5453
+#EXTINF:-1,Toute.l'histoire
+http://rb-group-server.com:25461/yassine/yassine/3330
+#EXTINF:-1,Discovery
+http://rb-group-server.com:25461/yassine/yassine/5452
+#EXTINF:-1,Discovery Science
+http://rb-group-server.com:25461/yassine/yassine/5451
+#EXTINF:-1,Discovery Investigation
+http://rb-group-server.com:25461/yassine/yassine/3303
+#EXTINF:-1,NatGeo Wild
+http://rb-group-server.com:25461/yassine/yassine/5459
+#EXTINF:-1,National Geographic
+http://rb-group-server.com:25461/yassine/yassine/5458
+#EXTINF:-1,Weo
+http://rb-group-server.com:25461/yassine/yassine/3315
+#EXTINF:-1,Canal+ Sport
+http://rb-group-server.com:25461/yassine/yassine/12072
+#EXTINF:-1,RMC Sport 1
+http://rb-group-server.com:25461/yassine/yassine/12069
+#EXTINF:-1,RMC Sport 2
+http://rb-group-server.com:25461/yassine/yassine/5472
+#EXTINF:-1,RMC Sport 3
+http://rb-group-server.com:25461/yassine/yassine/5471
+#EXTINF:-1,RMC Sport 5
+http://rb-group-server.com:25461/yassine/yassine/5470
+#EXTINF:-1,Bein Sport HD 1
+http://rb-group-server.com:25461/yassine/yassine/12070
+#EXTINF:-1,Bein Sport HD 2
+http://rb-group-server.com:25461/yassine/yassine/12074
+#EXTINF:-1,Bein Sport HD 3
+http://rb-group-server.com:25461/yassine/yassine/12065
+#EXTINF:-1,beIN Sports max 4 HD
+http://rb-group-server.com:25461/yassine/yassine/3285
+#EXTINF:-1,beIN Sports max 5 HD
+http://rb-group-server.com:25461/yassine/yassine/3284
+#EXTINF:-1,beIN Sports max 6 HD
+http://rb-group-server.com:25461/yassine/yassine/3286
+#EXTINF:-1,beIN Sports max 7 HD
+http://rb-group-server.com:25461/yassine/yassine/3283
+#EXTINF:-1,beIN Sports max 8 HD
+http://rb-group-server.com:25461/yassine/yassine/3282
+#EXTINF:-1,beIN Sports max 9 HD
+http://rb-group-server.com:25461/yassine/yassine/11454
+#EXTINF:-1,beIN Sports max 10 HD
+http://rb-group-server.com:25461/yassine/yassine/11455
+#EXTINF:-1,Infosport
+http://rb-group-server.com:25461/yassine/yassine/5466
+#EXTINF:-1,Foot 24
+http://rb-group-server.com:25461/yassine/yassine/3278
+#EXTINF:-1,Eurosport 1
+http://rb-group-server.com:25461/yassine/yassine/3277
+#EXTINF:-1,Eurosport 2
+http://rb-group-server.com:25461/yassine/yassine/3276
+#EXTINF:-1,Equidia Live
+http://rb-group-server.com:25461/yassine/yassine/5467
+#EXTINF:-1,L'équipe 21
+http://rb-group-server.com:25461/yassine/yassine/5465
+#EXTINF:-1,AB Moteurs
+http://rb-group-server.com:25461/yassine/yassine/3335
+#EXTINF:-1,Golf
+http://rb-group-server.com:25461/yassine/yassine/5464
+#EXTINF:-1,Trace Urban
+http://rb-group-server.com:25461/yassine/yassine/5421
+#EXTINF:-1,M6 MUSIC
+http://rb-group-server.com:25461/yassine/yassine/3290
+#EXTINF:-1,CSTAR
+http://rb-group-server.com:25461/yassine/yassine/5506
+#EXTINF:-1,NRJ12
+http://rb-group-server.com:25461/yassine/yassine/5509
+#EXTINF:-1,MCM
+http://rb-group-server.com:25461/yassine/yassine/5427
+#EXTINF:-1,MCM  TOP
+http://rb-group-server.com:25461/yassine/yassine/5426
+#EXTINF:-1,MEZZO LIVE.
+http://rb-group-server.com:25461/yassine/yassine/5425
+#EXTINF:-1,MTV FRANCE.
+http://rb-group-server.com:25461/yassine/yassine/5424
+#EXTINF:-1,A LA CARTE 1
+http://rb-group-server.com:25461/yassine/yassine/3273
+#EXTINF:-1,A LA CARTE 2
+http://rb-group-server.com:25461/yassine/yassine/3272
+#EXTINF:-1,A LA CARTE 3
+http://rb-group-server.com:25461/yassine/yassine/3271
+#EXTINF:-1,A LA CARTE 4
+http://rb-group-server.com:25461/yassine/yassine/3270
+#EXTINF:-1,A LA CARTE 5
+http://rb-group-server.com:25461/yassine/yassine/3269
+#EXTINF:-1,A LA CARTE 6
+http://rb-group-server.com:25461/yassine/yassine/3268
+#EXTINF:-1,A LA CARTE 7
+http://rb-group-server.com:25461/yassine/yassine/3267
+#EXTINF:-1,--------USA--------
+http://rb-group-server.com:25461/yassine/yassine/4886
+#EXTINF:-1,USA HBO Signature
+http://rb-group-server.com:25461/yassine/yassine/3711
+#EXTINF:-1,USA HBO
+http://rb-group-server.com:25461/yassine/yassine/3710
+#EXTINF:-1,USA HBO FAMILY
+http://rb-group-server.com:25461/yassine/yassine/3709
+#EXTINF:-1,USA HBO ZONE
+http://rb-group-server.com:25461/yassine/yassine/3708
+#EXTINF:-1,USA A&E
+http://rb-group-server.com:25461/yassine/yassine/3704
+#EXTINF:-1,ABC
+http://rb-group-server.com:25461/yassine/yassine/3719
+#EXTINF:-1,NBCSN
+http://rb-group-server.com:25461/yassine/yassine/3723
+#EXTINF:-1,USA ABC NEWS
+http://rb-group-server.com:25461/yassine/yassine/3720
+#EXTINF:-1,USA CBS
+http://rb-group-server.com:25461/yassine/yassine/3721
+#EXTINF:-1,USA NBC
+http://rb-group-server.com:25461/yassine/yassine/3724
+#EXTINF:-1,USA AFN Movie
+http://rb-group-server.com:25461/yassine/yassine/3696
+#EXTINF:-1,USA CineMax
+http://rb-group-server.com:25461/yassine/yassine/3699
+#EXTINF:-1,USA Bloomberg
+http://rb-group-server.com:25461/yassine/yassine/3694
+#EXTINF:-1,USA Bravo
+http://rb-group-server.com:25461/yassine/yassine/3693
+#EXTINF:-1,USA CNBC
+http://rb-group-server.com:25461/yassine/yassine/3722
+#EXTINF:-1,USA CW
+http://rb-group-server.com:25461/yassine/yassine/3706
+#EXTINF:-1,USA ESPN
+http://rb-group-server.com:25461/yassine/yassine/3692
+#EXTINF:-1,USA ESPN 2
+http://rb-group-server.com:25461/yassine/yassine/3691
+#EXTINF:-1,USA FOX
+http://rb-group-server.com:25461/yassine/yassine/3718
+#EXTINF:-1,USA Fox News
+http://rb-group-server.com:25461/yassine/yassine/3717
+#EXTINF:-1,USA FoxSports 1
+http://rb-group-server.com:25461/yassine/yassine/3716
+#EXTINF:-1,USA Fox Sports 2 HD
+http://rb-group-server.com:25461/yassine/yassine/3715
+#EXTINF:-1,USA FX
+http://rb-group-server.com:25461/yassine/yassine/3697
+#EXTINF:-1,USA Hallmark
+http://rb-group-server.com:25461/yassine/yassine/3698
+#EXTINF:-1,USA HISTORY
+http://rb-group-server.com:25461/yassine/yassine/3686
+#EXTINF:-1,USA MTV Live
+http://rb-group-server.com:25461/yassine/yassine/3687
+#EXTINF:-1,USA NBA TV
+http://rb-group-server.com:25461/yassine/yassine/3690
+#EXTINF:-1,USA NFL NETWORK
+http://rb-group-server.com:25461/yassine/yassine/3689
+#EXTINF:-1,USA NHL NETWORK
+http://rb-group-server.com:25461/yassine/yassine/3688
+#EXTINF:-1,USA Showtime
+http://rb-group-server.com:25461/yassine/yassine/3714
+#EXTINF:-1,USA SHOWTIME SHOWCASE
+http://rb-group-server.com:25461/yassine/yassine/3713
+#EXTINF:-1,USA STARZ CINEMA
+http://rb-group-server.com:25461/yassine/yassine/3703
+#EXTINF:-1,USA STARZ COMEDY
+http://rb-group-server.com:25461/yassine/yassine/3702
+#EXTINF:-1,USA NETWORK
+http://rb-group-server.com:25461/yassine/yassine/3705
+#EXTINF:-1,USA STARZ ENCORE
+http://rb-group-server.com:25461/yassine/yassine/3701
+#EXTINF:-1,USA SYFY
+http://rb-group-server.com:25461/yassine/yassine/3700
+#EXTINF:-1,USA WWEHD
+http://rb-group-server.com:25461/yassine/yassine/3695
+#EXTINF:-1,CA-TSN1
+http://rb-group-server.com:25461/yassine/yassine/3684
+#EXTINF:-1,CA-TSN2
+http://rb-group-server.com:25461/yassine/yassine/3683
+#EXTINF:-1,CA-TSN3
+http://rb-group-server.com:25461/yassine/yassine/3682
+#EXTINF:-1,CA-TSN4
+http://rb-group-server.com:25461/yassine/yassine/3681
+#EXTINF:-1,CA-TSN5
+http://rb-group-server.com:25461/yassine/yassine/3680
+#EXTINF:-1,CA-FOX EAST
+http://rb-group-server.com:25461/yassine/yassine/6800
+#EXTINF:-1,CA-ABC WEST
+http://rb-group-server.com:25461/yassine/yassine/6790
+#EXTINF:-1,CA-AMC
+http://rb-group-server.com:25461/yassine/yassine/6791
+#EXTINF:-1,CA-NBC WEST
+http://rb-group-server.com:25461/yassine/yassine/6806
+#EXTINF:-1,CA-MSNBC
+http://rb-group-server.com:25461/yassine/yassine/6803
+#EXTINF:-1,CA-Animal Planet
+http://rb-group-server.com:25461/yassine/yassine/6792
+#EXTINF:-1,CA-HISTORY
+http://rb-group-server.com:25461/yassine/yassine/6801
+#EXTINF:-1,CA-Sportsnet One
+http://rb-group-server.com:25461/yassine/yassine/6808
+#EXTINF:-1,CA-Sportsnet 360
+http://rb-group-server.com:25461/yassine/yassine/6807
+#EXTINF:-1,CA-Sportsnet World
+http://rb-group-server.com:25461/yassine/yassine/6810
+#EXTINF:-1,CA-Sportsnet Ontario
+http://rb-group-server.com:25461/yassine/yassine/6809
 #EXTINF:-1,--------MAROC--------
 http://rb-group-server.com:25461/yassine/yassine/2793
 #EXTINF:-1,2M Maroc
