@@ -1,5 +1,21 @@
 # iptvsaid
 #EXTM3U
+#EXTINF:-1,My- MBC1 HD
+http://194.88.107.101:6204/live/jian/jian/46.ts
+#EXTINF:-1,My- MBC2 HD
+http://194.88.107.101:6204/live/jian/jian/26.ts
+#EXTINF:-1,My- MBC3 HD
+http://194.88.107.101:6204/live/jian/jian/47.ts
+#EXTINF:-1,My- MBC4 HD
+http://194.88.107.101:6204/live/jian/jian/27.ts
+#EXTINF:-1,My- MBC Drama HD
+http://194.88.107.101:6204/live/jian/jian/48.ts
+#EXTINF:-1,My- MBC Action HD
+http://194.88.107.101:6204/live/jian/jian/24.ts
+#EXTINF:-1,My- MBC Max HD
+http://194.88.107.101:6204/live/jian/jian/29.ts
+#EXTINF:-1,My- MBC Variety HD
+http://194.88.107.101:6204/live/jian/jian/2001.ts
 #EXTINF:-1,AR_AlJazeera
 http://217.23.7.160:5475/live/iptv2016/5622295666745/65.ts
 #EXTINF:-1,AR_AlJazeera-Mubasher
