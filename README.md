@@ -1,6 +1,57 @@
 # iptvsaid
 #EXTM3U
-
+#EXTINF:-1,[AR]BEIN_SPORTS_1HD
+http://world-ipsat.com:1155/live/iptvbox/iptvbox/1788.ts
+#EXTINF:-1,[AR]BEIN_SPORTS.1.SD
+http://world-ipsat.com:1155/live/iptvbox/iptvbox/2048.ts
+#EXTINF:-1,[AR]BEIN_SPORTS_2HD
+http://world-ipsat.com:1155/live/iptvbox/iptvbox/1787.ts
+#EXTINF:-1,[AR]BEIN_SPORTS_3HD
+http://world-ipsat.com:1155/live/iptvbox/iptvbox/1786.ts
+#EXTINF:-1,[AR]BEIN_SPORTS.3.SD
+http://world-ipsat.com:1155/live/iptvbox/iptvbox/2050.ts
+#EXTINF:-1,[AR]BEIN_SPORTS_4HD
+http://world-ipsat.com:1155/live/iptvbox/iptvbox/1785.ts
+#EXTINF:-1,[AR]BEIN_SPORTS.4.SD
+http://world-ipsat.com:1155/live/iptvbox/iptvbox/2051.ts
+#EXTINF:-1,[AR]BEIN_SPORTS_5HD
+http://world-ipsat.com:1155/live/iptvbox/iptvbox/1784.ts
+#EXTINF:-1,[AR]BEIN_SPORTS.5.SD
+http://world-ipsat.com:1155/live/iptvbox/iptvbox/2052.ts
+#EXTINF:-1,[AR]BEIN_SPORTS_6HD
+http://world-ipsat.com:1155/live/iptvbox/iptvbox/1783.ts
+#EXTINF:-1,[AR]BEIN_SPORTS.6.SD
+http://world-ipsat.com:1155/live/iptvbox/iptvbox/2053.ts
+#EXTINF:-1,[AR]BEIN_SPORTS_7HD
+http://world-ipsat.com:1155/live/iptvbox/iptvbox/1782.ts
+#EXTINF:-1,[AR]BEIN_SPORTS.7.SD
+http://world-ipsat.com:1155/live/iptvbox/iptvbox/2054.ts
+#EXTINF:-1,[AR] BEIN_SPORTS_8HD
+http://world-ipsat.com:1155/live/iptvbox/iptvbox/1781.ts
+#EXTINF:-1,[AR]BEIN_SPORTS.8.SD
+http://world-ipsat.com:1155/live/iptvbox/iptvbox/2055.ts
+#EXTINF:-1,[AR] BEIN_SPORTS_9HD
+http://world-ipsat.com:1155/live/iptvbox/iptvbox/1780.ts
+#EXTINF:-1,[AR]BEIN_SPORTS.9.SD
+http://world-ipsat.com:1155/live/iptvbox/iptvbox/2056.ts
+#EXTINF:-1,[AR] BEIN_SPORTS_10HD
+http://world-ipsat.com:1155/live/iptvbox/iptvbox/1779.ts
+#EXTINF:-1,[AR]BEIN_SPORTS.10.SD
+http://world-ipsat.com:1155/live/iptvbox/iptvbox/2057.ts
+#EXTINF:-1,[AR] BEIN_SPORTS_11HD
+http://world-ipsat.com:1155/live/iptvbox/iptvbox/1778.ts
+#EXTINF:-1,[AR] BEIN_SPORTS_12HD
+http://world-ipsat.com:1155/live/iptvbox/iptvbox/1777.ts
+#EXTINF:-1,[AR]BEIN_SPORTS_13HD
+http://world-ipsat.com:1155/live/iptvbox/iptvbox/4649.ts
+#EXTINF:-1,[AR]BEIN_SPORTS_14HD
+http://world-ipsat.com:1155/live/iptvbox/iptvbox/4657.ts
+#EXTINF:-1,[AR]BEIN_SPORTS_15HD
+http://world-ipsat.com:1155/live/iptvbox/iptvbox/4656.ts
+#EXTINF:-1,[AR]BEIN_SPORTS_16HD
+http://world-ipsat.com:1155/live/iptvbox/iptvbox/4655.ts
+#EXTINF:-1,[AR]BEIN_SPORTS_17HD ES
+http://world-ipsat.com:1155/live/iptvbox/iptvbox/4654.ts
 #EXTINF:-1,--------FRENCH--------
 http://rb-group-server.com:25461/yassine/yassine/3386
 #EXTINF:-1,TF1
