@@ -1,5 +1,90 @@
 # iptvsaid
 #EXTM3U
+france channels
+#EXTINF:0 group-title="FR: _",FR: 24 IN ARABIC HD
+http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2329.m3u8
+#EXTINF:0 group-title="FR: _",FR: 24 OPT 1 
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
+#EXTINF:0 group-title="FR: _",FR: ALSACE 20 
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:0 group-title="FR: _",FR: BBLACK! AFRICA 
+http://ec.playmedia.fr/beblack/africa/playlist.m3u8
+#EXTINF:0 group-title="FR: _",FR: BBLACK! CARIBBEAN 
+http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
+#EXTINF:0 group-title="FR: _",FR: BFM PARIS 
+http://bfmparishdslive-lh.akamaihd.net/i/DVMR_PARIS@429747/master.m3u8
+#EXTINF:0 group-title="FR: _",FR: CANAL D 
+http://link.softclientarea.com:9100/live/gaston/gaston/39807.ts
+#EXTINF:0 group-title="FR: _",FR: CPAC 
+http://bcoveliveios-i.akamaihd.net/hls/live/248520/1242843915001_2/master.m3u8
+#EXTINF:0 group-title="FR: _",FR: DJING CLASSICS 
+https://www.djing.com/tv/classics.ts
+#EXTINF:0 group-title="FR: _",FR: DJING CLASSICS (1+) 
+https://www.djing.com/tv/classics.m3u8
+#EXTINF:0 group-title="FR: _",FR: DJING DANCEFLOOR 
+https://www.djing.com/tv/dancefloor.ts
+#EXTINF:0 group-title="FR: _",FR: DJING DANCEFLOOR (1+) 
+https://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:0 group-title="FR: _",FR: DJING ELECTRO ROCK 
+https://www.djing.com/tv/session_electro-rock.ts
+#EXTINF:0 group-title="FR: _",FR: DJING ELECTRO ROCK (1+) 
+https://www.djing.com/tv/session_electro-rock.m3u8
+#EXTINF:0 group-title="FR: _",FR: DJING HITS 
+https://www.djing.com/tv/hits.ts
+#EXTINF:0 group-title="FR: _",FR: DJING HITS (1+) 
+https://www.djing.com/tv/hits.m3u8
+#EXTINF:0 group-title="FR: _",FR: DJING KARAOKE 
+https://www.djing.com/tv/karaoke.ts
+#EXTINF:0 group-title="FR: _",FR: DJING KARAOKE (1+) 
+https://www.djing.com/tv/karaoke.m3u8
+#EXTINF:0 group-title="FR: _",FR: DJING LIVE 
+https://www.djing.com/tv/live.ts
+#EXTINF:0 group-title="FR: _",FR: DJING LIVE (1+) 
+https://www.djing.com/tv/live.m3u8
+#EXTINF:0 group-title="FR: _",FR: DJING SUMMER VIBES 
+https://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:0 group-title="FR: _",FR: DJING TOUCH 
+https://www.djing.com/tv/session_french-touch.ts
+#EXTINF:0 group-title="FR: _",FR: DJING TOUCH (1+) 
+https://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF:0 group-title="FR: _",FR: DJING UNDERGROUND 
+https://www.djing.com/tv/underground.ts
+#EXTINF:0 group-title="FR: _",FR: DJING UNDERGROUND (1+) 
+https://www.djing.com/tv/underground.m3u8
+#EXTINF:0 group-title="FR: _",FR: FASHION TV 
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_fmen_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8
+#EXTINF:0 group-title="FR: _",FR: FASHION TV (1+) 
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_f-men_ad_dbn_27047_fmen_104_hls.smil/playlist.m3u8
+#EXTINF:0 group-title="FR: _",FR: FRANCOPHONIE 24 
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+#EXTINF:0 group-title="FR: _",FR: GONG 
+http://ec.playmedia.fr/gong-base/live/playlist.m3u8
+#EXTINF:0 group-title="FR: _",FR: GONG MAX 
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+#EXTINF:0 group-title="FR: _",FR: INDEX2500 M3U8 
+http://secure-streams.akamaized.net/rt-fr/index2500.m3u8
+#EXTINF:0 group-title="FR: _",FR: KINGDOM SAT 
+http://digital.ios.internapcdn.net/digital/live_1/kingdomtvlive/kingdomtvlive.m3u8
+#EXTINF:0 group-title="FR: _",FR: KTO 
+http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
+#EXTINF:0 group-title="FR: _",FR: LA CHAINE NORMANDE 
+http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
+#EXTINF:0 group-title="FR: _",FR: RTL 2 
+http://live01.rtl.lu/channel2/smil:channel2/playlist.m3u8
+#EXTINF:0 group-title="FR: Normal",FR: TF1 
+http://195.154.30.45:2626/live/tf1.ts
+#EXTINF:0 group-title="FR: _",FR: TV5 MONDE INFO 
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:0 group-title="FR: _",FR: TV7 
+http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
+#EXTINF:0 group-title="FR: _",FR: TVA GATINEAU 
+http://link.softclientarea.com:9100/live/gaston/gaston/39776.ts
+#EXTINF:0 group-title="FR: _",FR: TVA MONTREAL 
+http://link.softclientarea.com:9100/live/gaston/gaston/39775.ts
+#EXTINF:0 group-title="FR: _",FR: TVPI 
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
+#EXTINF:0 group-title="FR: _",FR: UNIS TV 
+http://link.softclientarea.com:9100/live/gaston/gaston/39772.ts
 #EXTINF:-1,|AR|_ABU_DHABI_TV
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/53.ts
 #EXTINF:-1,|AR|_SAUDI_1_HD
