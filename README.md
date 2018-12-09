@@ -1,309 +1,2396 @@
-#EXTINF:-1,FR: Chasse & peche
-http://m-iptv.net:6204/lawa2/erde/7589
+#EXTM3U
+------------------------------------USA-channels------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.talkinglifestyle.com.au/wp-content/uploads/sites/3/2016/09/logo.jpg" group-title="Independent IPTV",2UE Sydney
+http://syd2uevid-lh.akamaihd.net/i/sydneyuevid_1@110994/index_500_av-p.m3u8
 
-#EXTINF:-1,FR: Trek My
-http://m-iptv.net:6204/lawa2/erde/7593
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/3awlogo.jpg" group-title="Independent IPTV",3AW Melbourne
+http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
 
-#EXTINF:-1,Fr: Canal    Décalé HD
-http://m-iptv.net:6204/lawa2/erde/8073
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/4bc_brisbane.png" group-title="Independent IPTV",4BC Brisbane
+http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8
 
-#EXTINF:-1,Fr: Canal    Sport HD
-http://m-iptv.net:6204/lawa2/erde/8072
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CFHtVxO.png" group-title="Independent IPTV",360 North
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
 
-#EXTINF:-1,Fr: Canal   Cinema HD
-http://m-iptv.net:6204/lawa2/erde/8071
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/developer_channels/prod/ce03bcd0975942929a2cef7daced1a01474dd7f441b691ceaa2a9dba454b4cdb.png"group-title="Independent IPTV",AKC TV
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 
-#EXTINF:-1,Fr: Canal   HD
-http://m-iptv.net:6204/lawa2/erde/8070
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://50.204.222.53/Cablecast/WebFiles/873/channel%2019.fw.png" group-title="Independent IPTV",Access 19 Montgomery County
+http://reflect-ch19-mcmedia.cablecast.tv/live/CELL-496k-270p/CELL-496k-270p.m3u8
 
-#EXTINF:-1,Fr: Canal  Family HD
-http://m-iptv.net:6204/lawa2/erde/8069
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HeIDQpc.jpg" group-title="Independent IPTV",ACTV
+http://granicusliveus12-a.akamaihd.net/azleg/G0247_012/chunklist.m3u8
 
-#EXTINF:-1,Fr: Canal  serie HD
-http://m-iptv.net:6204/lawa2/erde/8068
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.akaku.org/akakulogo-white.png" group-title="Independent IPTV",Akaku 53 Hawaii
+https://akaku.vod.castus.tv/live/ch1.m3u8
 
-#EXTINF:-1,Fr: Canal J
-http://m-iptv.net:6204/lawa2/erde/8067
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.akaku.org/akakulogo-white.png" group-title="Independent IPTV",Akaku 54 Hawaii
+https://akaku.vod.castus.tv/live/ch2.m3u8
 
-#EXTINF:-1,Fr: Cartoon network  Fr
-http://m-iptv.net:6204/lawa2/erde/8066
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.akaku.org/akakulogo-white.png" group-title="Independent IPTV",Akaku 55 Hawaii
+https://akaku.vod.castus.tv/live/ch3.m3u8
 
-#EXTINF:-1,Fr: Chérie 25 HD
-http://m-iptv.net:6204/lawa2/erde/8065
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hSYez3V.png" group-title="Independent IPTV",Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
 
-#EXTINF:-1,Fr: Cine   Frisson
-http://m-iptv.net:6204/lawa2/erde/8064
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YajfXJ1.png" group-title="Independent IPTV",Beach TV - 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 
-#EXTINF:-1,Fr: Cine   Premier
-http://m-iptv.net:6204/lawa2/erde/8063
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YajfXJ1.png" group-title="Independent IPTV",Beach TV - Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
 
-#EXTINF:-1,Fr: Cine  Classic HD
-http://m-iptv.net:6204/lawa2/erde/8062
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YajfXJ1.png" group-title="Independent IPTV",Beach TV - Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 
-#EXTINF:-1,Fr: Cine  emotion HD
-http://m-iptv.net:6204/lawa2/erde/8061
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MyRpTRc.jpg" group-title="Independent IPTV",Benicia TV
+https://granicusliveus6-a.akamaihd.net/benicia/G1750_002/chunklist.m3u8
 
-#EXTINF:-1,Fr: Cine  Famiz HD
-http://m-iptv.net:6204/lawa2/erde/8060
+#EXTINF:-1 tvg-logo="https://uploads-ssl.webflow.com/5ad7a242e6f07458301b7e6d/5ad7b1a9e6f07495d11b8ffd_btv-logo.png" group-title="Independent IPTV",Bloomington TV
+http://granicusliveus2-a.akamaihd.net/bloomingtonmn/G1223_002/chunklist.m3u8?thebestfreeenglishchannels.m3u8
 
-#EXTINF:-1,Fr: Cine FX
-http://m-iptv.net:6204/lawa2/erde/8059
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nSMaujc.png" group-title="Independent IPTV",Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
 
-#EXTINF:-1,Fr: Cine Polar
-http://m-iptv.net:6204/lawa2/erde/8058
+#EXTINF:-1 tvg-logo="https://bkat.viebit.com/custom/live_poster/BKATlogo16x9-720.jpg" group-title="Independent IPTV",Bremerton Kitsap Access TV
+https://na-us-se13.secdn.net/pegstream3-live/play/5f28e301-8ef0-4650-a176-c3c6a5575b44/chunklist_w708136738.m3u8
 
-#EXTINF:-1,Fr: France 2
-http://m-iptv.net:6204/lawa2/erde/8044
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/f5ZtDhj.png" group-title="Independent IPTV",Buffalo TV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
 
-#EXTINF:-1,Fr: France 3
-http://m-iptv.net:6204/lawa2/erde/8042
+#EXTINF:-1 tvg-logo="http://www.butv10.com/wp-content/themes/butv10/_images/favicon.png" group-title="Independent IPTV",BUTV10 - Boston University
+http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 
-#EXTINF:-1,Fr: France 4
-http://m-iptv.net:6204/lawa2/erde/8041
+#EXTINF:-1 tvg-logo="https://www.cbtv17.com/images/iwtv-logo.png" group-title="Independent IPTV",CBTV 17 - Iowa Western Community College
+https://streaminglibrary.iwcc.edu/iwtv/iwtv/chunklist_w526205618.m3u8
 
-#EXTINF:-1,Fr: France 5
-http://m-iptv.net:6204/lawa2/erde/8040
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ueq1ifs.jpg" group-title="Independent IPTV",Central Valley Talk
+http://1-fss29-s0.streamhoster.com/lv_cvtalkf1/_definst_/broadcast1/chunklist.m3u8?thebestfreeenglishchannels.m3u8
 
-#EXTINF:-1,Fr: France O
-http://m-iptv.net:6204/lawa2/erde/8039
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-cerritos-tv3.jpg" group-title="Independent IPTV",Cerritos TV3
+http://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8?thebestfreeenglishchannels.m3u8
 
-#EXTINF:-1,Fr: A la carte 1 HD
-http://m-iptv.net:6204/lawa2/erde/8090
+#EXTINF:-1 tvg-logo="http://champaignil.gov/wp-content/uploads/2016/04/CityLogoSquareBlue2-1-300x282.png" group-title="Independent IPTV",CGTV - City of Champaign
+http://reflect-live-champaign.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8
 
-#EXTINF:-1,Fr: A la carte 2 HD
-http://m-iptv.net:6204/lawa2/erde/8089
+#EXTINF:-1 tvg-logo="https://www.chandleraz.gov/sites/default/files/inline-images/footer-logo.png" group-title="Independent IPTV",Chandler Channel
+https://granicusliveus5-a.akamaihd.net/chandleraz/G0987_002/chunklist.m3u8
 
-#EXTINF:-1,Fr: A la carte 3 HD
-http://m-iptv.net:6204/lawa2/erde/8088
+#EXTINF:-1 tvg-logo="https://www.csudh.edu/Assets/templates/header/CSUDH-RGB-Logo-Burgundy-Background.png" group-title="Independent IPTV",CSU Dominguez Hills
+http://dhtv5.csudh.edu:1935/live/myStream/playlist.m3u8
 
-#EXTINF:-1,Fr: A la carte 5 HD
-http://m-iptv.net:6204/lawa2/erde/8086
+#EXTINF:-1 tvg-logo="https://i.imgur.com/He6Ugfn.jpg" group-title="Independent IPTV",CT-N Streaming Media
+http://video.ct-n.com/live/ctnstream/chunklist_w1534354198_DVR.m3u8
 
-#EXTINF:-1,Fr: Berbere Jeunesse
-http://m-iptv.net:6204/lawa2/erde/8083
+#EXTINF:-1 tvg-logo="https://i.imgur.com/He6Ugfn.jpg" group-title="Independent IPTV",CT-N Court Feed
+http://video.ct-n.com/live/ctnSupreme/chunklist_w538335829_DVR.m3u8
 
-#EXTINF:-1,Fr: Berbere Music
-http://m-iptv.net:6204/lawa2/erde/8082
+#EXTINF:-1 tvg-logo="https://i.imgur.com/He6Ugfn.jpg" group-title="Independent IPTV",CT-N Instant
+http://video.ct-n.com/live/ctnspare/chunklist_w252238746_DVR.m3u8
 
-#EXTINF:-1,Fr: Berbere Television
-http://m-iptv.net:6204/lawa2/erde/8081
+#EXTINF:-1 tvg-logo="https://i.imgur.com/He6Ugfn.jpg" group-title="Independent IPTV",CT-N Live Stream 1
+http://video.ct-n.com/live/web1stream/chunklist_w1992415243_DVR.m3u8
 
-#EXTINF:-1,Fr: BFM TV
-http://m-iptv.net:6204/lawa2/erde/8079
+#EXTINF:-1 tvg-logo="https://i.imgur.com/He6Ugfn.jpg" group-title="Independent IPTV",CT-N Live Stream 2
+http://video.ct-n.com/live/web2stream/chunklist_w1202315245_DVR.m3u8
 
-#EXTINF:-1,Fr: Arte HD
-http://m-iptv.net:6204/lawa2/erde/8085
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aPGyO9l.png" group-title="Independent IPTV",Daytona Beach TV
+http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
 
-#EXTINF:-1,Fr: 13eme Rue HD
-http://m-iptv.net:6204/lawa2/erde/8092
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pY66Xjp.png" group-title="Independent IPTV",DC Council Channel
+http://video.oct.dc.gov/out/u/15_12.m3u8
 
-#EXTINF:-1,Fr: 6TER HD
-http://m-iptv.net:6204/lawa2/erde/8091
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q66RMSc.png" group-title="Independent IPTV",Denver 8 TV
+http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
 
-#EXTINF:-1,Fr: C 8 HD
-http://m-iptv.net:6204/lawa2/erde/8076
+#EXTINF:-1 tvg-logo="https://astronlogia.com/wp-content/uploads/2011/04/56.png" group-title="Independent IPTV",Denver Open Media 56
+https://dkp8rf3nn2n8j.cloudfront.net/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
 
-#EXTINF:-1,Fr: C News
-http://m-iptv.net:6204/lawa2/erde/8075
+#EXTINF:-1 tvg-logo="http://arcadiawindber.com/wp-content/uploads/2018/09/57.jpg" group-title="Independent IPTV",Denver Open Media 57
+https://d2amg57no8tp11.cloudfront.net/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
 
-#EXTINF:-1,Fr: C Star HD
-http://m-iptv.net:6204/lawa2/erde/8074
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xGjchpW.png" group-title="Independent IPTV",District of Columbia Network
+http://video.oct.dc.gov/out/u/DCN.m3u8
 
-#EXTINF:-1,Fr: Comédie   HD
-http://m-iptv.net:6204/lawa2/erde/8057
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aQpCSh8.png" group-title="Independent IPTV",District Knowledge Network
+http://video.oct.dc.gov/out/u/96_4.m3u8
 
-#EXTINF:-1,Fr: E! Entertainment HD
-http://m-iptv.net:6204/lawa2/erde/8049
+#EXTINF:-1 tvg-logo="https://myescambia.com/favicon.png" group-title="Independent IPTV",Escambia County TV
+http://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/chunklist_w1496843195.m3u8
 
-#EXTINF:-1,Fr: Equidia Live HD
-http://m-iptv.net:6204/lawa2/erde/8048
+#EXTINF:-1 tvg-logo="https://www.fitchburgwi.gov/ImageRepository/Document?documentID=15218" group-title="Independent IPTV",FACTv Community
+http://69.147.212.188:8083/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
 
-#EXTINF:-1,Fr: Euronews Fr
-http://m-iptv.net:6204/lawa2/erde/8047
+#EXTINF:-1 tvg-logo="https://www.fitchburgwi.gov/ImageRepository/Document?documentID=15217" group-title="Independent IPTV",FACTv Government
+http://69.147.212.188:8082/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
 
-#EXTINF:-1,Fr: FRANCE 24 NEWS FR
-http://m-iptv.net:6204/lawa2/erde/8043
+#EXTINF:-1 tvg-logo="https://www.fcac.org/sites/all/themes/fcac_base/images/logo-icon.png" group-title="Independent IPTV",Fairfax Public Access
+http://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8?thebestfreeenglishchannels.m3u8
 
-#EXTINF:-1,Fr: Game One HD
-http://m-iptv.net:6204/lawa2/erde/8038
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KfsVNlB.png" group-title="Independent IPTV",Garland TV
+http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
 
-#EXTINF:-1,Fr: Golf   HD
-http://m-iptv.net:6204/lawa2/erde/8037
+#EXTINF:-1 tvg-logo="https://www.glendaleaz.com/images/City-Logo-Text.png" group-title="Independent IPTV",Glendale 11
+https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8
 
-#EXTINF:-1,Fr: Gulli
-http://m-iptv.net:6204/lawa2/erde/8036
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/globesville/head.png" group-title="Independent IPTV",Globesville - New York Institute of Technology
+http://live-h1.frontlayer.net/fl592468/live/chunks.m3u8
 
-#EXTINF:-1,Fr: HD1 HD
-http://m-iptv.net:6204/lawa2/erde/8035
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uxUqIVT.png" group-title="Independent IPTV",Greenbelt TV
+http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
 
-#EXTINF:-1,Fr: Histoire
-http://m-iptv.net:6204/lawa2/erde/8034
+#EXTINF:-1 tvg-logo="https://surveymonkey-assets.s3.amazonaws.com/survey/131345529/f51b5b8d-209e-43ab-b2b8-59ea73158b19.png" group-title="Independent IPTV",Greensboro TV Network
+http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
 
-#EXTINF:-1,Fr: LCI
-http://m-iptv.net:6204/lawa2/erde/8030
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0oRXnzz.png" group-title="Independent IPTV",KBVR TV
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
 
-#EXTINF:-1,Fr: M6 HD
-http://m-iptv.net:6204/lawa2/erde/8029
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/96POFOB.png" group-title="Independent IPTV",Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
 
-#EXTINF:-1,Fr: NRJ 12 HD
-http://m-iptv.net:6204/lawa2/erde/8024
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DMQFY0I.jpg" group-title="Independent IPTV",LA36
+http://granicusliveus6-a.akamaihd.net/la36/G0019_002/chunklist_w1442089063.m3u8?thebestfreeenglishchannels.m3u8
 
-#EXTINF:-1,Fr: Numéro 23
-http://m-iptv.net:6204/lawa2/erde/8023
+#EXTINF:-1 tvg-logo="https://www.lhcaz.gov/images/default-source/topics/cvb.png" group-title="Independent IPTV",Lake Havasu City 4
+https://granicusliveus3-a.akamaihd.net/lakehavasucity/G0643_002/chunklist.m3u8
 
-#EXTINF:-1,Fr: OCS CHOC HD
-http://m-iptv.net:6204/lawa2/erde/8022
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wgJlnVh.png" group-title="Independent IPTV",Landscape TV
+http://130.88.20.237:1235/monitor.flv?thebestfreeenglishchannels
 
-#EXTINF:-1,Fr: OCS City HD
-http://m-iptv.net:6204/lawa2/erde/8021
+#EXTINF:-1 tvg-logo="http://www.leominster.tv/SiteAssets/LATV%20Black%20and%20Gold.png" group-title="Independent IPTV",Leominster TV Government
+http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8?thebestfreeenglishchannels.m3u8
 
-#EXTINF:-1,Fr: OCS Geant HD
-http://m-iptv.net:6204/lawa2/erde/8020
+#EXTINF:-1 tvg-logo="http://www.leominster.tv/SiteAssets/LATV%20Black%20and%20Gold.png" group-title="Independent IPTV",Leominster TV Educational
+http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8?thebestfreeenglishchannels.m3u8
 
-#EXTINF:-1,Fr: OCS Max HD
-http://m-iptv.net:6204/lawa2/erde/8019
+#EXTINF:-1 tvg-logo="http://www.leominster.tv/SiteAssets/LATV%20Black%20and%20Gold.png" group-title="Independent IPTV",Leominster TV Public
+http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8?thebestfreeenglishchannels.m3u8
 
-#EXTINF:-1,Fr: Paramount Channel HD
-http://m-iptv.net:6204/lawa2/erde/8018
+#EXTINF:-1 tvg-logo="http://www.kyforward.com/wp-content/uploads/2017/11/City-Logo-Files_Web_Horse_Blue_1.png" group-title="Independent IPTV",Lex TV
+http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8?thebestfreeenglishchannels.m3u8
 
-#EXTINF:-1,Fr: Paris Premiere HD
-http://m-iptv.net:6204/lawa2/erde/8017
+#EXTINF:-1 tvg-logo="http://lincoln.ne.gov/city/mayor/communications/LNKTV/images/LNKTV-city-logo.png" group-title="Independent IPTV",LNKTV City
+http://5tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?thebestfreeenglishchannels.m3u8
 
-#EXTINF:-1,Fr: RMC Découverte
-http://m-iptv.net:6204/lawa2/erde/8013
+#EXTINF:-1 tvg-logo="http://lincoln.ne.gov/city/mayor/communications/LNKTV/images/LNKTV-health-logo.png" group-title="Independent IPTV",LNKTV Health
+http://10tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?thebestfreeenglishchannels.m3u8
 
-#EXTINF:-1,Fr: RTL 9 HD
-http://m-iptv.net:6204/lawa2/erde/8012
+#EXTINF:-1 tvg-logo="http://lincoln.ne.gov/city/mayor/communications/LNKTV/images/LNKTV-edu-logo.png" group-title="Independent IPTV",LNKTV Education
+http://80tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?thebestfreeenglishchannels.m3u8
 
-#EXTINF:-1,Fr: RTS Deux HD
-http://m-iptv.net:6204/lawa2/erde/8011
+#EXTINF:-1 tvg-logo="https://www.sidewalkstv.com/wp-content/uploads/2018/09/LVTV.jpg" group-title="Independent IPTV",LVTV-3 La Verne Community TV
+https://na-us-se13.secdn.net/pegstream3-live/play/d6af6526-5e48-4f8d-aa2c-ed1c270f20d0/chunklist_w2046155663.m3u8
 
-#EXTINF:-1,Fr: RTS Un HD
-http://m-iptv.net:6204/lawa2/erde/8010
+#EXTINF:-1 tvg-logo="http://75.146.183.54:2080/Cablecast/Public/Logos/1/MCN-Vimeo-Logo.png" group-title="Independent IPTV",Metro Cable Network
+http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8
 
-#EXTINF:-1,Fr: Serie Club HD
-http://m-iptv.net:6204/lawa2/erde/8009
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HuFEXXs.png" group-title="Independent IPTV",Miami TV
+http://oflash.dfw.swagit.com/live/miamibeachfl/smil:std-16x9-1-a/chunklist_w1459206316_b878000.m3u8
 
-#EXTINF:-1,Fr: Syfy HD
-http://m-iptv.net:6204/lawa2/erde/8005
+#EXTINF:-1 tvg-logo="http://static1.squarespace.com/static/58ae1e47e58c626fff277e73/t/58b61da420099e5456244539/1488330150325/FB+logo.png" group-title="Independent IPTV",MUCM-TV - McMinnville
+http://reflect-live-mcm11.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8
 
-#EXTINF:-1,Fr: TCM Cinema HD
-http://m-iptv.net:6204/lawa2/erde/8004
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.destinationnetwork.com/images/channel_logos/notv_logo.png" group-title="Independent IPTV",New Orleans TV
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 
-#EXTINF:-1,Fr: Téva HD
-http://m-iptv.net:6204/lawa2/erde/8002
+#EXTINF:-1 tvg-logo="http://naleo.tv/wp-content/uploads/fbrfg/apple-touch-icon.png" group-title="Independent IPTV",NLTV 54 Hawaii
+http://reflect-live2-naleo.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8
 
-#EXTINF:-1,Fr: TMC HD
-http://m-iptv.net:6204/lawa2/erde/8000
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SC5nyyL.png" group-title="Independent IPTV",NWCT 12 Minnesota
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?thebestfreeenglishchannels.m3u8
 
-#EXTINF:-1,Fr: TV5 Europe
-http://m-iptv.net:6204/lawa2/erde/7999
+#EXTINF:-1 tvg-logo="http://olelo.org/wp-content/uploads/2017/03/cropped-site-icon-180x180.png" group-title="Independent IPTV",Olelo Community Media 49
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_009/chunklist.m3u8
 
-#EXTINF:-1,Fr: Voyage
-http://m-iptv.net:6204/lawa2/erde/7997
+#EXTINF:-1 tvg-logo="http://olelo.org/wp-content/uploads/2017/03/cropped-site-icon-180x180.png" group-title="Independent IPTV",Olelo Community Media 53
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_011/chunklist.m3u8
 
-#EXTINF:-1,Fr: W9 HD
-http://m-iptv.net:6204/lawa2/erde/7996
+#EXTINF:-1 tvg-logo="http://olelo.org/wp-content/uploads/2017/03/cropped-site-icon-180x180.png" group-title="Independent IPTV",Olelo Community Media 54
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8
 
-#EXTINF:-1,Fr: Planet   A&E HD
-http://m-iptv.net:6204/lawa2/erde/8015
+#EXTINF:-1 tvg-logo="http://olelo.org/wp-content/uploads/2017/03/cropped-site-icon-180x180.png" group-title="Independent IPTV",Olelo Community Media 55
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8
 
-#EXTINF:-1,Fr: Planete  CI HD
-http://m-iptv.net:6204/lawa2/erde/8014
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Z918C34.png" group-title="Independent IPTV",Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
 
-#EXTINF:-1,Fr: Ushuaia HD
-http://m-iptv.net:6204/lawa2/erde/7998
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s10.postimg.org/pfqoq4kkp/noi0mj.png" group-title="Independent IPTV",Parliament TV (OPT-2)
+http://streaming.kordia.net.nz/out/u/ptv_houseaudio.m3u8
 
-#EXTINF:-1,Fr: Discovery channel HD
-http://m-iptv.net:6204/lawa2/erde/8056
+#EXTINF:-1 tvg-logo="http://patv.org/images/PATVtemplateLOGO.gif" group-title="Independent IPTV",PATV
+http://47.23.7.30:8080/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
 
-#EXTINF:-1,Fr: Discovery Investigation HD
-http://m-iptv.net:6204/lawa2/erde/8055
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IZj3H1x.png" group-title="Independent IPTV",PGCPS
+http://reflect.live.pgcps.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
 
-#EXTINF:-1,Fr: Discovery Science HD
-http://m-iptv.net:6204/lawa2/erde/8054
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1iszbIx.jpg" group-title="Independent IPTV",Raleigh Television Network
+http://granicusliveus2-a.akamaihd.net/raleigh/G0224_002/chunklist_w716725136.m3u8?thebestfreeenglishchannels.m3u8
 
-#EXTINF:-1,Fr: National Geo HD
-http://m-iptv.net:6204/lawa2/erde/8028
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZJW0Dwj.png" group-title="Independent IPTV",RyeTV
+http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
 
-#EXTINF:-1,Fr: National Geo Wild HD
-http://m-iptv.net:6204/lawa2/erde/8027
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G4C6z9h.jpg" group-title="Independent IPTV",SafeTV4U2
+http://18.191.91.130:1935/live/safetv/playlist.m3u8
 
-#EXTINF:-1,Fr: Nickelodeon HD FR
-http://m-iptv.net:6204/lawa2/erde/8026
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xz5bm8f.png" group-title="Independent IPTV",Seminole TV
+http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
 
-#EXTINF:-1,Fr: Disney Channel FR
-http://m-iptv.net:6204/lawa2/erde/8053
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/BP3oCHckmMY/maxresdefault.jpg" group-title="Independent IPTV",SCP-TV - St. Charles Parish
+http://66.210.225.230/live/CELL-496k-270p/CELL-496k-270p.m3u8
 
-#EXTINF:-1,Fr: Disney Cinema Fr HD
-http://m-iptv.net:6204/lawa2/erde/8052
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gzLFN7L.png" group-title="Independent IPTV",Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
 
-#EXTINF:-1,Fr: Disney Junior FR
-http://m-iptv.net:6204/lawa2/erde/8051
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2XKjSpy.gif" group-title="Independent IPTV",Tempe 11
+http://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8
 
-#EXTINF:-1,Fr: Disney XD FR
-http://m-iptv.net:6204/lawa2/erde/8050
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YchkfWy.png" group-title="Independent IPTV",Temple TV
+http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
 
-#EXTINF:-1,Fr: Boomerang France HD
-http://m-iptv.net:6204/lawa2/erde/8077
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3QAaaZj.png" group-title="Independent IPTV",TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 
-#EXTINF:-1,Fr: Piwi
-http://m-iptv.net:6204/lawa2/erde/8016
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/152nsYA.png" group-title="Independent IPTV",TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
 
-#EXTINF:-1,Fr: TF1 HD
-http://m-iptv.net:6204/lawa2/erde/8001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/152nsYA.png" group-title="Independent IPTV",TVW-2
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
 
-#EXTINF:-1,Fr: Eurosport 1 Fr
-http://m-iptv.net:6204/lawa2/erde/8046
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/TWiT.svg/130px-TWiT.svg.png" group-title="Independent IPTV",TWiT
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1,Fr: InfoSport
-http://m-iptv.net:6204/lawa2/erde/8033
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ualr.edu/tv/files/2006/10/NEW_Channel_Icon_Text.png" group-title="Independent IPTV",UALR University TV
+http://na-all23.secdn.net/pegstream3-live/play/65ea794b-dd82-41ce-8e98-a9177289a063/master.m3u8
 
-#EXTINF:-1,Fr- SFR SPORT 1 FHD
-http://m-iptv.net:6204/lawa2/erde/14046
+#EXTINF:-1 tvg-logo="https://publicadministration.un.org/wsis10/Portals/5/WSIS%2010%20GA/eASrbxSk_400x400.jpg" group-title="Independent IPTV",UN Web TV
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_1@575439/master.m3u8
 
-#EXTINF:-1,Fr- SFR SPORT 2 FHD
-http://m-iptv.net:6204/lawa2/erde/14045
+#EXTINF:-1 tvg-logo="http://uwwtv.org/wp-content/uploads/2013/07/UWW-TV-Logo-Square-2018_NO-OUTLINE-4.png" group-title="Independent IPTV",UWW-TV - University of Wisconsin Whitewater
+http://vanadium.uww.edu:1935/uwwlive/smil:uwwtv.smil/chunklist_w2102626622_b300000.m3u8
 
-#EXTINF:-1,Fr- SFR SPORT 3 FHD
-http://m-iptv.net:6204/lawa2/erde/14044
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/648868667615133696/kPvB4ye4.png" group-title="Independent IPTV",VTV Channel 6 Colorado
+http://hls.ksl.com/t/strata/playlist.m3u8
 
-#EXTINF:-1,Fr- SFR SPORT 4 FHD
-http://m-iptv.net:6204/lawa2/erde/14043
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.matthuisman.nz/nz/images/freeviewnz.60.png" group-title="Independent IPTV",Wairarapa TV
+http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
 
-#EXTINF:-1,Fr- SFR SPORT 5 FHD
-http://m-iptv.net:6204/lawa2/erde/14042
+#EXTINF:-1 tvg-logo="https://worcester.vod.castus.tv/wccalive.png" group-title="Independent IPTV",WCCA TV Worcester
+http://worcester.vod.castus.tv/live/ch1.m3u8?thebestfreeenglishchannels.m3u8
 
-#EXTINF:-1,Fr- BEIN SPORT 1 HD
-http://m-iptv.net:6204/lawa2/erde/14041
+#EXTINF:-1 tvg-logo="http://wpcommunitymedia.org/images/city-of-white-plains.png" group-title="Independent IPTV",White Plains Community Media
+http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8
 
-#EXTINF:-1,Fr- BEIN SPORT 2 HD
-http://m-iptv.net:6204/lawa2/erde/14040
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oTHXLf8.png" group-title="Independent IPTV",WHOH TV
+http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
 
-#EXTINF:-1,Fr- BEIN SPORT 3 HD
-http://m-iptv.net:6204/lawa2/erde/14039
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/WSVI_Logo.png" group-title="Independent IPTV",WSVI-TV
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8?thebestfreeenglishchannels.m3u8
 
-#EXTINF:-1,Fr- BEIN MAX 4 HD
-http://m-iptv.net:6204/lawa2/erde/14038
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/NBC_Weather_Plus_logo.svg/800px-NBC_Weather_Plus_logo.svg.png" group-title="Local",NBC Weather Plus
+http://atlas.its.virginia.edu:8088/hls/m3u8/NBCW.m3u8?thebestfreeenglishchannels.m3u8
 
-#EXTINF:-1,Fr- BEIN MAX 5 HD
-http://m-iptv.net:6204/lawa2/erde/14037
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.its.virginia.edu/sites/iptv.virginia.edu/files/styles/channel_icon/public/weathernow_0.png" group-title="Local",Weather NOW
+http://atlas.its.virginia.edu:8088/hls/m3u8/19NOW.m3u8?thebestfreeenglishchannels.m3u8
 
-#EXTINF:-1,Fr- BEIN MAX 6 HD
-http://m-iptv.net:6204/lawa2/erde/14036
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14551.jpg" group-title="Local",NBC 11 News (Bay Area)
+http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
 
-#EXTINF:-1,Fr- BEIN MAX 7 HD
-http://m-iptv.net:6204/lawa2/erde/14035
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="Local",News 12 (The Bronx)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
 
-#EXTINF:-1,Fr- BEIN MAX 8 HD
-http://m-iptv.net:6204/lawa2/erde/14034
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890454.1464300091!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="Local",News 12 (Brooklyn)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
 
-#EXTINF:-1,Fr- BEIN MAX 9 HD
-http://m-iptv.net:6204/lawa2/erde/14033
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="Local",News 12 (Long Island - Traffic)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_LI
 
-#EXTINF:-1,Fr- BEIN MAX 10 HD
-http://m-iptv.net:6204/lawa2/erde/14032
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="Local",News 12 (Long Island - News)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="Local",News 12 (Connecticut)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12CT_WEST
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="Local",News 12 (Connecticut - Traffic)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_CT
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="Local",News 12 (New York City - Traffic)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NYC
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="Local",News 12 (New Jersey - Traffic)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NJ
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="Local",News 12 (New Jersey)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12NJ_CENTRAL
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="Local",News 12 (Hudson Valley)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12HV
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="Local",News 12 (Westchester)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12WH_WESTCHESTER
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/WCCB_CW_logo.png" group-title="Local",WCCB News (Charlotte)
+http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6XYQtyN.png" group-title="Local",CTV News Live 1
+http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6XYQtyN.png" group-title="Local",CTV News Live 2
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6XYQtyN.png" group-title="Local",CTV News Live 3
+http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6XYQtyN.png" group-title="Local",CTV News Live 4
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.myfoxbostoncom.cmgdigital.com/photo/2018/07/19/placeholder-16x9_1532051234409_12382778_ver1.0_320_180.png" group-title="Local",Boston 25 News (Massachusetts)
+http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/WMAQ_Logo_2012.png" group-title="Local",NBC 5 News (Chicago)
+http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.tribtv.com/slates/wgntv.png" group-title="Local",WGN 9 News (Chicago)
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_750_av-b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/WBRZ_Logo_2013.png" group-title="Local",WBRZ-TV (Baton Rouge)
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mycitykitchen.org/wp-content/uploads/2013/02/WVIT_NBC30.png" group-title="Local",WVIT 30 News (Hartford)
+http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/9/9a/News_12_Hudson_Valley_Logo_From_December_2010.jpg" group-title="Local",News 12 (Hudson Valley)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_WC
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tribwttv.files.wordpress.com/2017/03/cropped-cbs4512.png" group-title="Local",CBS 4 News (Indianapolis)
+http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://localtvwhotv.files.wordpress.com/2012/01/13_weather_400x225.jpg" group-title="Local",WHO 13 Weather (Iowa)
+http://whotribune-lh.akamaihd.net/i/WHOTribune_1@198423/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/developer_channels/prod/08461d1960ae46d64b6d02c4741db3001e25ea5465c16de15bee08ff8ca2f0cf.png" group-title="Local",Channel 11 News WPXI (Pittsburgh)
+http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/disney/images/1/1e/Abc7_logo_rgb_color.png" group-title="Local",ABC 7 News (Sarasota)
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/Komo%2B4%2BNEWS%2Blogo%2BRENDERED2.jpg" group-title="Local",KOMO 4 News (Seattle)
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/G/01/DeveloperBlogs/AmazonDeveloperBlogs/legacy/KIRO7_NEWS_blu_text._CB520201523_.png" group-title="Local",KIRO 7 News (Seattle)
+http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livenewsmag.com/wp-content/uploads/2017/03/WHIO-TV-Channel-7-Ohio.jpg" group-title="Local",News Center 7 (Ohio)
+http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https" group-title="Local",CBS 4 (Boston)
+http://cbslocaltv-i.akamaihd.net/hls/live/221461/WBZTV/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https" group-title="Local",WXXV 25 (Mississipi)
+http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https" group-title="Local",News Channel 21 (Oregon)
+http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https" group-title="Local",ABC 7 (Denver)
+https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https" group-title="Local",CW - CT Pennsylvania
+https://content.uplynk.com/channel/aa92b664ac5941de81cd410803329da2.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/91/BBC_Four_HD_Logo.svg.png" group-title="TESTING CHANNELS",BBC 4
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/26.ch
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",VOA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",France 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",CGTN America
+http://api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",WSJ Live
+http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",CBS News
+http://www.cbsnews.com/common/video/dai_prod.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",ABC News 4
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",CNN Test
+http://cnn-lh.akamaihd.net/i/cnndebates_1@352100/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",WeatherNation TV
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",Adult Swim
+http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",Toonami
+http://amd.cdn.turner.com/adultswim/big/streams/playlists/toonami.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",PBS Kids
+http://live-cdn.pbskids.org/out/u/est.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",7 News (WDHH-TV)
+http://bcoveliveios-i.akamaihd.net/hls/live/246496/4744899807001/livestream/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",Fox 5 Washington DC (WTTG-TV)
+http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",NBC Bay Area (KNTV-TV)
+http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",NBC Bay Area Traffic Cam (KNTV-TV)
+http://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",NBC4 News (KNBC-TV)
+http://knbclive-f.akamaihd.net/i/knbca1_1@13988/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",NBC5 KFYR-TV
+http://ad-playlistserver.aws.syncbak.com/playlist/898796/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjY5MTksImlzcyI6IldMUyIsIm1kNSI6IjUxNjkxOGMwODc3NDYzYzFhMWRmYzMwNGI2MWRkMDM3IiwibWlkIjoiODk4Nzk2In0.Vx7F9dBhtYzKs8GIhWg2CcEIRLjVA5548AT9KqIhM2w
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",NBC5 KFYR-TV alt
+http://playlistserver.aws.syncbak.com/playlist/13353639/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTA1NDQ3MjIsImlzcyI6IldMUyIsIm1kNSI6IjlmZGUxN2VjY2IwNjg3ZDE4ZWZmMmYwNzkxNzkxMzlhIiwibWlkIjoiMTMzNTM2MzkifQ.JZ9ihQrHoiiQsFfQJ3cuyrEHAEWUktyrawJyVLsyQRo
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",WUSA9 Breaking News
+http://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",Fox News Talk
+http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",CBN News
+http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",KHZTV
+http://rbc.streamguys.com/khztv/khztv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",JUCE TV
+http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",Christian Hip Hop Television
+http://telvuehls_t01997-i.akamaihd.net/hls/live/218552/T01997-2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",Hillsong Channel
+http://acaooyalahd2-lh.akamaihd.net/i/TBN02_delivery@186240/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",NRB Network
+http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",TBN
+http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",CBN
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://betterlifetv.tv/media/Images/Stream%20Better%20Heatlh%20TV%204.png" group-title="TESTING CHANNELS",Better Health
+http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://betterlifetv.tv/media/Images/Stream%20Better%20Life%20TV%204.png" group-title="TESTING CHANNELS",Better Life
+http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://betterlifetv.tv/media/Images/Stream%20Nature%20Channel%204.png" group-title="TESTING CHANNELS",Better Nature
+http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.absatellite.net/channel-img/ABS2-ABS6/bible_explorations_tv.png" group-title="TESTING CHANNELS",Bible Explorations
+http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/CatholicTV_logo.png" group-title="TESTING CHANNELS",Catholic TV
+http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/avatars/catholiclifetv_1382561352_280.jpg" group-title="TESTING CHANNELS",Catholic Life TV
+http://origin5-edge1.ord.yourstreamlive.com:1935/live/yourstreamlive/out_657_198vbyhi/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://89rrj5puz31fk9l54floftjs-wpengine.netdna-ssl.com/wp-content/uploads/2017/07/cornerstone.jpg" group-title="TESTING CHANNELS",Cornerstone TV
+http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/chunklist_w1852678767_b2328000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.wp.com/zubifun.net/wp-content/uploads/2017/01/Divine-Vision-Network-Live-TV.jpg" group-title="TESTING CHANNELS",Divine Vision Network
+http://divineplayout-us2.tulix.tv/live/Stream1/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1131290789/fnlLogo_400x400.png" group-title="TESTING CHANNELS",Faith and Life TV
+http://na-all9.secdn.net/logos-channel/live/faithlifetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/GLC_USA.jpg" group-title="TESTING CHANNELS",God's Learning Channel
+http://fss27.streamhoster.com/lv_glc/_definst_/broadcast3/chuck.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/channels/images/b7b87e8c8abd4ac5b39e5cce15ced5de-hd.jpg" group-title="TESTING CHANNELS",GOD TV
+http://ooyalahd2-f.akamaihd.net/i/godtv01_delivery@17341/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://hischannel.com/Pictures/Picon/1000P410.jpg" group-title="TESTING CHANNELS",HisChannel
+http://www1.hischannel.com/Box-Tv-Live/BoxTvLive.isml/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.yahweh.com/wp-content/uploads/2015/10/MG_0444.jpg" group-title="TESTING CHANNELS",House of Yahweh
+http://198.57.164.156:1935/live/SermonLoop/chunklist_w1535326969.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ini.tv/wp-content/uploads/2014/09/inspiration_tv_logo_2c.jpg" group-title="TESTING CHANNELS",Inspiration TV
+http://inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/JBS_Shalom_TV_Logo.jpg" group-title="TESTING CHANNELS",JBS Shalom TV
+http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iptvcristiano.com/uploads/channels/76/logo_thumb.jpg" group-title="TESTING CHANNELS",LBN
+http://media1.lesea.com:1935/live/leseaorigin.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.wp.com/www.rokuchannels.tv/wp-content/uploads/2013/10/lifevisiontv.jpg" group-title="TESTING CHANNELS",Lifevision TV
+http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/wNcqCeY.jpg" group-title="TESTING CHANNELS",MTA
+http://ooyalahd2-f.akamaihd.net:80/i/mtaorigin_delivery@353498/index_1100_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channels.roku.com/images/75c1c6f4ae854328b5788a154d005e9f-hd.jpg" group-title="TESTING CHANNELS",Salt and Light TV
+http://livestream.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y6UakZb.jpg" group-title="TESTING CHANNELS",Scientology Network
+https://stream.scientology.org/stream/index_8.m3u8?offset=0
+
+#EXTINF:-1 tvg-logo="https://www.tbnuk.org/images/TBN-UK-Avatar.png" group-title="TESTING CHANNELS",TBN
+https://acaooyalahd2-lh.akamaihd.net/i/TBN10_delivery@332891/index_2528_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pathmegazine.com/wp-content/uploads/2013/03/the-word-network-logo.jpeg" group-title="TESTING CHANNELS",The Word Network
+http://thewordhls-i.akamaihd.net/hls/live/217932-b/thewordhls/iOS/stream1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/n8dWVEM.png" group-title="TESTING CHANNELS",TIN
+http://162.244.81.145:2215/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.ibb.co/nzpYrk/VTN_logo_1080x720.png" group-title="TESTING CHANNELS",Victory TV Network
+http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/fyji9.jpg" group-title="TESTING CHANNELS",TRT World
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/301zk28.jpg" group-title="TESTING CHANNELS",NDTV 24/7
+http://ndtvstream-lh.akamaihd.net/i/ndtv_24x7_1@300633/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/2nv9dvs.jpg" group-title="TESTING CHANNELS",ABC News
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FN2j2GV.jpg" group-title="TESTING CHANNELS",ABC News 24 (OPT-1)
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/w7beol.jpg" group-title="TESTING CHANNELS",Al Jazeera
+https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.talkinglifestyle.com.au/wp-content/uploads/sites/3/2016/09/logo.jpg" group-title="Independent IPTV",2UE Sydney
+http://syd2uevid-lh.akamaihd.net/i/sydneyuevid_1@110994/index_500_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/3awlogo.jpg" group-title="Independent IPTV",3AW Melbourne
+http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/4bc_brisbane.png" group-title="Independent IPTV",4BC Brisbane
+http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CFHtVxO.png" group-title="Independent IPTV",360 North
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/developer_channels/prod/ce03bcd0975942929a2cef7daced1a01474dd7f441b691ceaa2a9dba454b4cdb.png"group-title="Independent IPTV",AKC TV
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://50.204.222.53/Cablecast/WebFiles/873/channel%2019.fw.png" group-title="Independent IPTV",Access 19 Montgomery County
+http://reflect-ch19-mcmedia.cablecast.tv/live/CELL-496k-270p/CELL-496k-270p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HeIDQpc.jpg" group-title="Independent IPTV",ACTV
+http://granicusliveus12-a.akamaihd.net/azleg/G0247_012/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.akaku.org/akakulogo-white.png" group-title="Independent IPTV",Akaku 53 Hawaii
+https://akaku.vod.castus.tv/live/ch1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.akaku.org/akakulogo-white.png" group-title="Independent IPTV",Akaku 54 Hawaii
+https://akaku.vod.castus.tv/live/ch2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.akaku.org/akakulogo-white.png" group-title="Independent IPTV",Akaku 55 Hawaii
+https://akaku.vod.castus.tv/live/ch3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hSYez3V.png" group-title="Independent IPTV",Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YajfXJ1.png" group-title="Independent IPTV",Beach TV - 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YajfXJ1.png" group-title="Independent IPTV",Beach TV - Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YajfXJ1.png" group-title="Independent IPTV",Beach TV - Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MyRpTRc.jpg" group-title="Independent IPTV",Benicia TV
+https://granicusliveus6-a.akamaihd.net/benicia/G1750_002/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://uploads-ssl.webflow.com/5ad7a242e6f07458301b7e6d/5ad7b1a9e6f07495d11b8ffd_btv-logo.png" group-title="Independent IPTV",Bloomington TV
+http://granicusliveus2-a.akamaihd.net/bloomingtonmn/G1223_002/chunklist.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nSMaujc.png" group-title="Independent IPTV",Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bkat.viebit.com/custom/live_poster/BKATlogo16x9-720.jpg" group-title="Independent IPTV",Bremerton Kitsap Access TV
+https://na-us-se13.secdn.net/pegstream3-live/play/5f28e301-8ef0-4650-a176-c3c6a5575b44/chunklist_w708136738.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/f5ZtDhj.png" group-title="Independent IPTV",Buffalo TV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.butv10.com/wp-content/themes/butv10/_images/favicon.png" group-title="Independent IPTV",BUTV10 - Boston University
+http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cbtv17.com/images/iwtv-logo.png" group-title="Independent IPTV",CBTV 17 - Iowa Western Community College
+https://streaminglibrary.iwcc.edu/iwtv/iwtv/chunklist_w526205618.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ueq1ifs.jpg" group-title="Independent IPTV",Central Valley Talk
+http://1-fss29-s0.streamhoster.com/lv_cvtalkf1/_definst_/broadcast1/chunklist.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-cerritos-tv3.jpg" group-title="Independent IPTV",Cerritos TV3
+http://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-logo="http://champaignil.gov/wp-content/uploads/2016/04/CityLogoSquareBlue2-1-300x282.png" group-title="Independent IPTV",CGTV - City of Champaign
+http://reflect-live-champaign.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.chandleraz.gov/sites/default/files/inline-images/footer-logo.png" group-title="Independent IPTV",Chandler Channel
+https://granicusliveus5-a.akamaihd.net/chandleraz/G0987_002/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.csudh.edu/Assets/templates/header/CSUDH-RGB-Logo-Burgundy-Background.png" group-title="Independent IPTV",CSU Dominguez Hills
+http://dhtv5.csudh.edu:1935/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/He6Ugfn.jpg" group-title="Independent IPTV",CT-N Streaming Media
+http://video.ct-n.com/live/ctnstream/chunklist_w1534354198_DVR.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/He6Ugfn.jpg" group-title="Independent IPTV",CT-N Court Feed
+http://video.ct-n.com/live/ctnSupreme/chunklist_w538335829_DVR.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/He6Ugfn.jpg" group-title="Independent IPTV",CT-N Instant
+http://video.ct-n.com/live/ctnspare/chunklist_w252238746_DVR.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/He6Ugfn.jpg" group-title="Independent IPTV",CT-N Live Stream 1
+http://video.ct-n.com/live/web1stream/chunklist_w1992415243_DVR.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/He6Ugfn.jpg" group-title="Independent IPTV",CT-N Live Stream 2
+http://video.ct-n.com/live/web2stream/chunklist_w1202315245_DVR.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aPGyO9l.png" group-title="Independent IPTV",Daytona Beach TV
+http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pY66Xjp.png" group-title="Independent IPTV",DC Council Channel
+http://video.oct.dc.gov/out/u/15_12.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q66RMSc.png" group-title="Independent IPTV",Denver 8 TV
+http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://astronlogia.com/wp-content/uploads/2011/04/56.png" group-title="Independent IPTV",Denver Open Media 56
+https://dkp8rf3nn2n8j.cloudfront.net/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
+
+#EXTINF:-1 tvg-logo="http://arcadiawindber.com/wp-content/uploads/2018/09/57.jpg" group-title="Independent IPTV",Denver Open Media 57
+https://d2amg57no8tp11.cloudfront.net/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xGjchpW.png" group-title="Independent IPTV",District of Columbia Network
+http://video.oct.dc.gov/out/u/DCN.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aQpCSh8.png" group-title="Independent IPTV",District Knowledge Network
+http://video.oct.dc.gov/out/u/96_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://myescambia.com/favicon.png" group-title="Independent IPTV",Escambia County TV
+http://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/chunklist_w1496843195.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fitchburgwi.gov/ImageRepository/Document?documentID=15218" group-title="Independent IPTV",FACTv Community
+http://69.147.212.188:8083/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fitchburgwi.gov/ImageRepository/Document?documentID=15217" group-title="Independent IPTV",FACTv Government
+http://69.147.212.188:8082/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fcac.org/sites/all/themes/fcac_base/images/logo-icon.png" group-title="Independent IPTV",Fairfax Public Access
+http://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KfsVNlB.png" group-title="Independent IPTV",Garland TV
+http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.glendaleaz.com/images/City-Logo-Text.png" group-title="Independent IPTV",Glendale 11
+https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/globesville/head.png" group-title="Independent IPTV",Globesville - New York Institute of Technology
+http://live-h1.frontlayer.net/fl592468/live/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uxUqIVT.png" group-title="Independent IPTV",Greenbelt TV
+http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://surveymonkey-assets.s3.amazonaws.com/survey/131345529/f51b5b8d-209e-43ab-b2b8-59ea73158b19.png" group-title="Independent IPTV",Greensboro TV Network
+http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0oRXnzz.png" group-title="Independent IPTV",KBVR TV
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/96POFOB.png" group-title="Independent IPTV",Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DMQFY0I.jpg" group-title="Independent IPTV",LA36
+http://granicusliveus6-a.akamaihd.net/la36/G0019_002/chunklist_w1442089063.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lhcaz.gov/images/default-source/topics/cvb.png" group-title="Independent IPTV",Lake Havasu City 4
+https://granicusliveus3-a.akamaihd.net/lakehavasucity/G0643_002/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wgJlnVh.png" group-title="Independent IPTV",Landscape TV
+http://130.88.20.237:1235/monitor.flv?thebestfreeenglishchannels
+
+#EXTINF:-1 tvg-logo="http://www.leominster.tv/SiteAssets/LATV%20Black%20and%20Gold.png" group-title="Independent IPTV",Leominster TV Government
+http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.leominster.tv/SiteAssets/LATV%20Black%20and%20Gold.png" group-title="Independent IPTV",Leominster TV Educational
+http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.leominster.tv/SiteAssets/LATV%20Black%20and%20Gold.png" group-title="Independent IPTV",Leominster TV Public
+http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.kyforward.com/wp-content/uploads/2017/11/City-Logo-Files_Web_Horse_Blue_1.png" group-title="Independent IPTV",Lex TV
+http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-logo="http://lincoln.ne.gov/city/mayor/communications/LNKTV/images/LNKTV-city-logo.png" group-title="Independent IPTV",LNKTV City
+http://5tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-logo="http://lincoln.ne.gov/city/mayor/communications/LNKTV/images/LNKTV-health-logo.png" group-title="Independent IPTV",LNKTV Health
+http://10tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-logo="http://lincoln.ne.gov/city/mayor/communications/LNKTV/images/LNKTV-edu-logo.png" group-title="Independent IPTV",LNKTV Education
+http://80tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sidewalkstv.com/wp-content/uploads/2018/09/LVTV.jpg" group-title="Independent IPTV",LVTV-3 La Verne Community TV
+https://na-us-se13.secdn.net/pegstream3-live/play/d6af6526-5e48-4f8d-aa2c-ed1c270f20d0/chunklist_w2046155663.m3u8
+
+#EXTINF:-1 tvg-logo="http://75.146.183.54:2080/Cablecast/Public/Logos/1/MCN-Vimeo-Logo.png" group-title="Independent IPTV",Metro Cable Network
+http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8
+
+#EXTINF:-1 tvg-logo="http://static1.squarespace.com/static/58ae1e47e58c626fff277e73/t/58b61da420099e5456244539/1488330150325/FB+logo.png" group-title="Independent IPTV",MUCM-TV - McMinnville
+http://reflect-live-mcm11.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.destinationnetwork.com/images/channel_logos/notv_logo.png" group-title="Independent IPTV",New Orleans TV
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://naleo.tv/wp-content/uploads/fbrfg/apple-touch-icon.png" group-title="Independent IPTV",NLTV 54 Hawaii
+http://reflect-live2-naleo.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SC5nyyL.png" group-title="Independent IPTV",NWCT 12 Minnesota
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-logo="http://olelo.org/wp-content/uploads/2017/03/cropped-site-icon-180x180.png" group-title="Independent IPTV",Olelo Community Media 49
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_009/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://olelo.org/wp-content/uploads/2017/03/cropped-site-icon-180x180.png" group-title="Independent IPTV",Olelo Community Media 53
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_011/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://olelo.org/wp-content/uploads/2017/03/cropped-site-icon-180x180.png" group-title="Independent IPTV",Olelo Community Media 54
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://olelo.org/wp-content/uploads/2017/03/cropped-site-icon-180x180.png" group-title="Independent IPTV",Olelo Community Media 55
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Z918C34.png" group-title="Independent IPTV",Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s10.postimg.org/pfqoq4kkp/noi0mj.png" group-title="Independent IPTV",Parliament TV (OPT-2)
+http://streaming.kordia.net.nz/out/u/ptv_houseaudio.m3u8
+
+#EXTINF:-1 tvg-logo="http://patv.org/images/PATVtemplateLOGO.gif" group-title="Independent IPTV",PATV
+http://47.23.7.30:8080/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IZj3H1x.png" group-title="Independent IPTV",PGCPS
+http://reflect.live.pgcps.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1iszbIx.jpg" group-title="Independent IPTV",Raleigh Television Network
+http://granicusliveus2-a.akamaihd.net/raleigh/G0224_002/chunklist_w716725136.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZJW0Dwj.png" group-title="Independent IPTV",RyeTV
+http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G4C6z9h.jpg" group-title="Independent IPTV",SafeTV4U2
+http://18.191.91.130:1935/live/safetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xz5bm8f.png" group-title="Independent IPTV",Seminole TV
+http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/BP3oCHckmMY/maxresdefault.jpg" group-title="Independent IPTV",SCP-TV - St. Charles Parish
+http://66.210.225.230/live/CELL-496k-270p/CELL-496k-270p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gzLFN7L.png" group-title="Independent IPTV",Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2XKjSpy.gif" group-title="Independent IPTV",Tempe 11
+http://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YchkfWy.png" group-title="Independent IPTV",Temple TV
+http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3QAaaZj.png" group-title="Independent IPTV",TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/152nsYA.png" group-title="Independent IPTV",TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/152nsYA.png" group-title="Independent IPTV",TVW-2
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/TWiT.svg/130px-TWiT.svg.png" group-title="Independent IPTV",TWiT
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ualr.edu/tv/files/2006/10/NEW_Channel_Icon_Text.png" group-title="Independent IPTV",UALR University TV
+http://na-all23.secdn.net/pegstream3-live/play/65ea794b-dd82-41ce-8e98-a9177289a063/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://publicadministration.un.org/wsis10/Portals/5/WSIS%2010%20GA/eASrbxSk_400x400.jpg" group-title="Independent IPTV",UN Web TV
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_1@575439/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://uwwtv.org/wp-content/uploads/2013/07/UWW-TV-Logo-Square-2018_NO-OUTLINE-4.png" group-title="Independent IPTV",UWW-TV - University of Wisconsin Whitewater
+http://vanadium.uww.edu:1935/uwwlive/smil:uwwtv.smil/chunklist_w2102626622_b300000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/648868667615133696/kPvB4ye4.png" group-title="Independent IPTV",VTV Channel 6 Colorado
+http://hls.ksl.com/t/strata/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.matthuisman.nz/nz/images/freeviewnz.60.png" group-title="Independent IPTV",Wairarapa TV
+http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://worcester.vod.castus.tv/wccalive.png" group-title="Independent IPTV",WCCA TV Worcester
+http://worcester.vod.castus.tv/live/ch1.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-logo="http://wpcommunitymedia.org/images/city-of-white-plains.png" group-title="Independent IPTV",White Plains Community Media
+http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oTHXLf8.png" group-title="Independent IPTV",WHOH TV
+http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/WSVI_Logo.png" group-title="Independent IPTV",WSVI-TV
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/NBC_Weather_Plus_logo.svg/800px-NBC_Weather_Plus_logo.svg.png" group-title="Local",NBC Weather Plus
+http://atlas.its.virginia.edu:8088/hls/m3u8/NBCW.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.its.virginia.edu/sites/iptv.virginia.edu/files/styles/channel_icon/public/weathernow_0.png" group-title="Local",Weather NOW
+http://atlas.its.virginia.edu:8088/hls/m3u8/19NOW.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14551.jpg" group-title="Local",NBC 11 News (Bay Area)
+http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="Local",News 12 (The Bronx)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890454.1464300091!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="Local",News 12 (Brooklyn)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="Local",News 12 (Long Island - Traffic)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_LI
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="Local",News 12 (Long Island - News)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="Local",News 12 (Connecticut)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12CT_WEST
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="Local",News 12 (Connecticut - Traffic)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_CT
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="Local",News 12 (New York City - Traffic)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NYC
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="Local",News 12 (New Jersey - Traffic)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NJ
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="Local",News 12 (New Jersey)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12NJ_CENTRAL
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="Local",News 12 (Hudson Valley)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12HV
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="Local",News 12 (Westchester)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12WH_WESTCHESTER
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/WCCB_CW_logo.png" group-title="Local",WCCB News (Charlotte)
+http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6XYQtyN.png" group-title="Local",CTV News Live 1
+http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6XYQtyN.png" group-title="Local",CTV News Live 2
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6XYQtyN.png" group-title="Local",CTV News Live 3
+http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6XYQtyN.png" group-title="Local",CTV News Live 4
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.myfoxbostoncom.cmgdigital.com/photo/2018/07/19/placeholder-16x9_1532051234409_12382778_ver1.0_320_180.png" group-title="Local",Boston 25 News (Massachusetts)
+http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/WMAQ_Logo_2012.png" group-title="Local",NBC 5 News (Chicago)
+http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.tribtv.com/slates/wgntv.png" group-title="Local",WGN 9 News (Chicago)
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_750_av-b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/WBRZ_Logo_2013.png" group-title="Local",WBRZ-TV (Baton Rouge)
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mycitykitchen.org/wp-content/uploads/2013/02/WVIT_NBC30.png" group-title="Local",WVIT 30 News (Hartford)
+http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/9/9a/News_12_Hudson_Valley_Logo_From_December_2010.jpg" group-title="Local",News 12 (Hudson Valley)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_WC
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tribwttv.files.wordpress.com/2017/03/cropped-cbs4512.png" group-title="Local",CBS 4 News (Indianapolis)
+http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://localtvwhotv.files.wordpress.com/2012/01/13_weather_400x225.jpg" group-title="Local",WHO 13 Weather (Iowa)
+http://whotribune-lh.akamaihd.net/i/WHOTribune_1@198423/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/developer_channels/prod/08461d1960ae46d64b6d02c4741db3001e25ea5465c16de15bee08ff8ca2f0cf.png" group-title="Local",Channel 11 News WPXI (Pittsburgh)
+http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/disney/images/1/1e/Abc7_logo_rgb_color.png" group-title="Local",ABC 7 News (Sarasota)
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/Komo%2B4%2BNEWS%2Blogo%2BRENDERED2.jpg" group-title="Local",KOMO 4 News (Seattle)
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/G/01/DeveloperBlogs/AmazonDeveloperBlogs/legacy/KIRO7_NEWS_blu_text._CB520201523_.png" group-title="Local",KIRO 7 News (Seattle)
+http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livenewsmag.com/wp-content/uploads/2017/03/WHIO-TV-Channel-7-Ohio.jpg" group-title="Local",News Center 7 (Ohio)
+http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https" group-title="Local",CBS 4 (Boston)
+http://cbslocaltv-i.akamaihd.net/hls/live/221461/WBZTV/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https" group-title="Local",WXXV 25 (Mississipi)
+http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https" group-title="Local",News Channel 21 (Oregon)
+http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https" group-title="Local",ABC 7 (Denver)
+https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https" group-title="Local",CW - CT Pennsylvania
+https://content.uplynk.com/channel/aa92b664ac5941de81cd410803329da2.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/91/BBC_Four_HD_Logo.svg.png" group-title="TESTING CHANNELS",BBC 4
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/26.ch
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",VOA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",France 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",CGTN America
+http://api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",WSJ Live
+http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",CBS News
+http://www.cbsnews.com/common/video/dai_prod.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",ABC News 4
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",CNN Test
+http://cnn-lh.akamaihd.net/i/cnndebates_1@352100/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",WeatherNation TV
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",Adult Swim
+http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",Toonami
+http://amd.cdn.turner.com/adultswim/big/streams/playlists/toonami.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",PBS Kids
+http://live-cdn.pbskids.org/out/u/est.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",7 News (WDHH-TV)
+http://bcoveliveios-i.akamaihd.net/hls/live/246496/4744899807001/livestream/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",Fox 5 Washington DC (WTTG-TV)
+http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",NBC Bay Area (KNTV-TV)
+http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",NBC Bay Area Traffic Cam (KNTV-TV)
+http://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",NBC5 KFYR-TV
+http://ad-playlistserver.aws.syncbak.com/playlist/898796/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjY5MTksImlzcyI6IldMUyIsIm1kNSI6IjUxNjkxOGMwODc3NDYzYzFhMWRmYzMwNGI2MWRkMDM3IiwibWlkIjoiODk4Nzk2In0.Vx7F9dBhtYzKs8GIhWg2CcEIRLjVA5548AT9KqIhM2w
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",NBC5 KFYR-TV alt
+http://playlistserver.aws.syncbak.com/playlist/13353639/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTA1NDQ3MjIsImlzcyI6IldMUyIsIm1kNSI6IjlmZGUxN2VjY2IwNjg3ZDE4ZWZmMmYwNzkxNzkxMzlhIiwibWlkIjoiMTMzNTM2MzkifQ.JZ9ihQrHoiiQsFfQJ3cuyrEHAEWUktyrawJyVLsyQRo
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",WUSA9 Breaking News
+http://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",Fox News Talk
+http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",CBN News
+http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",KHZTV
+http://rbc.streamguys.com/khztv/khztv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",JUCE TV
+http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",Christian Hip Hop Television
+http://telvuehls_t01997-i.akamaihd.net/hls/live/218552/T01997-2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",Hillsong Channel
+http://acaooyalahd2-lh.akamaihd.net/i/TBN02_delivery@186240/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",NRB Network
+http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",TBN
+http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://" group-title="TESTING CHANNELS",CBN
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://betterlifetv.tv/media/Images/Stream%20Better%20Heatlh%20TV%204.png" group-title="TESTING CHANNELS",Better Health
+http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://betterlifetv.tv/media/Images/Stream%20Better%20Life%20TV%204.png" group-title="TESTING CHANNELS",Better Life
+http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://betterlifetv.tv/media/Images/Stream%20Nature%20Channel%204.png" group-title="TESTING CHANNELS",Better Nature
+http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.absatellite.net/channel-img/ABS2-ABS6/bible_explorations_tv.png" group-title="TESTING CHANNELS",Bible Explorations
+http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/CatholicTV_logo.png" group-title="TESTING CHANNELS",Catholic TV
+http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/avatars/catholiclifetv_1382561352_280.jpg" group-title="TESTING CHANNELS",Catholic Life TV
+http://origin5-edge1.ord.yourstreamlive.com:1935/live/yourstreamlive/out_657_198vbyhi/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://89rrj5puz31fk9l54floftjs-wpengine.netdna-ssl.com/wp-content/uploads/2017/07/cornerstone.jpg" group-title="TESTING CHANNELS",Cornerstone TV
+http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/chunklist_w1852678767_b2328000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.wp.com/zubifun.net/wp-content/uploads/2017/01/Divine-Vision-Network-Live-TV.jpg" group-title="TESTING CHANNELS",Divine Vision Network
+http://divineplayout-us2.tulix.tv/live/Stream1/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1131290789/fnlLogo_400x400.png" group-title="TESTING CHANNELS",Faith and Life TV
+http://na-all9.secdn.net/logos-channel/live/faithlifetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/GLC_USA.jpg" group-title="TESTING CHANNELS",God's Learning Channel
+http://fss27.streamhoster.com/lv_glc/_definst_/broadcast3/chuck.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/channels/images/b7b87e8c8abd4ac5b39e5cce15ced5de-hd.jpg" group-title="TESTING CHANNELS",GOD TV
+http://ooyalahd2-f.akamaihd.net/i/godtv01_delivery@17341/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://hischannel.com/Pictures/Picon/1000P410.jpg" group-title="TESTING CHANNELS",HisChannel
+http://www1.hischannel.com/Box-Tv-Live/BoxTvLive.isml/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.yahweh.com/wp-content/uploads/2015/10/MG_0444.jpg" group-title="TESTING CHANNELS",House of Yahweh
+http://198.57.164.156:1935/live/SermonLoop/chunklist_w1535326969.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ini.tv/wp-content/uploads/2014/09/inspiration_tv_logo_2c.jpg" group-title="TESTING CHANNELS",Inspiration TV
+http://inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/JBS_Shalom_TV_Logo.jpg" group-title="TESTING CHANNELS",JBS Shalom TV
+http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iptvcristiano.com/uploads/channels/76/logo_thumb.jpg" group-title="TESTING CHANNELS",LBN
+http://media1.lesea.com:1935/live/leseaorigin.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.wp.com/www.rokuchannels.tv/wp-content/uploads/2013/10/lifevisiontv.jpg" group-title="TESTING CHANNELS",Lifevision TV
+http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/wNcqCeY.jpg" group-title="TESTING CHANNELS",MTA
+http://ooyalahd2-f.akamaihd.net:80/i/mtaorigin_delivery@353498/index_1100_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channels.roku.com/images/75c1c6f4ae854328b5788a154d005e9f-hd.jpg" group-title="TESTING CHANNELS",Salt and Light TV
+http://livestream.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y6UakZb.jpg" group-title="TESTING CHANNELS",Scientology Network
+https://stream.scientology.org/stream/index_8.m3u8?offset=0
+
+#EXTINF:-1 tvg-logo="https://www.tbnuk.org/images/TBN-UK-Avatar.png" group-title="TESTING CHANNELS",TBN
+https://acaooyalahd2-lh.akamaihd.net/i/TBN10_delivery@332891/index_2528_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pathmegazine.com/wp-content/uploads/2013/03/the-word-network-logo.jpeg" group-title="TESTING CHANNELS",The Word Network
+http://thewordhls-i.akamaihd.net/hls/live/217932-b/thewordhls/iOS/stream1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/n8dWVEM.png" group-title="TESTING CHANNELS",TIN
+http://162.244.81.145:2215/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.ibb.co/nzpYrk/VTN_logo_1080x720.png" group-title="TESTING CHANNELS",Victory TV Network
+http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/fyji9.jpg" group-title="TESTING CHANNELS",TRT World
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/301zk28.jpg" group-title="TESTING CHANNELS",NDTV 24/7
+http://ndtvstream-lh.akamaihd.net/i/ndtv_24x7_1@300633/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/2nv9dvs.jpg" group-title="TESTING CHANNELS",ABC News
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FN2j2GV.jpg" group-title="TESTING CHANNELS",ABC News 24 (OPT-1)
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/w7beol.jpg" group-title="TESTING CHANNELS",Al Jazeera
+https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
+#EXTM3U
+#EXTM3U
+----------------------------------spain-channels-------------------------------------
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15216012621.png" group-title="Chileiptv" , Locomotion
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+
+#EXTINF:-1,Sevilla FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,Pinguino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
+
+#EXTINF:-1,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xsxgroC.png" group-title="MUSICA",La Mega Mundial (EU)
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/K52brqr.png" group-title="MUSICA",Melody Channel (EU)
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hWMFLTh.png" group-title="MUSICA",Music Top (Argentina)
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1,ARGENTINA:Canal 26
+http://200.115.193.177/live/26hd-720/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/734190291620667392/hxLk95y3_400x400.jpg" group-title="DEPORTES",CDO (Chile)
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2daf50_fbcac3e81cb04000a0a6ca2702f72b22~mv2.jpg" group-title="ENTRETENIMIENTO",UMAG TV (Chile)
+http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.carolina.cl/carolina-tv/img/ogimage.png" group-title="MUSICA",Carolina TV (Chile)
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+
+#EXTINF:-1,Holvoet TV Chile
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg" group-title="ENTRETENIMIENTO",Telenord 12 (Rep. Dominicana)
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0028&mode=12
+
+#EXTINF:-1,Latinos:TV Chile
+http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/_NkxplKALmA8/TEzauMuNqNI/AAAAAAAAAPI/OgWgg0qB9go/s600-c/chv+2006.jpg" group-title="ENTRETENIMIENTO",Chilevision (Chile)
+http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
+
+#EXTINF:-1,CNN (Chile)
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+
+#EXTINF:-1,NOTICIAS:CNN Chile
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s172053q.png" group-title="MUSICA", PortalFoxMix Tv
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8?JoCaRoIPTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Radio_5_Logo.svg/2000px-Radio_5_Logo.svg.png" group-title="MUSICA", RADIO 105 TV
+http://fms.105.net:1935/live/105Test1/livestream.m3u8?JoCaRoIPTV.m3u8
+
+#EXTINF:-1,TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
+
+#EXTINF:-1 tvg-logo="http://www.pazarlama30.com/wp-content/uploads/2016/04/2d5407b0a92d1b2e_600x400.jpg" tvg-group="MÚSICA", Virgin TV
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8?JoCaRoIPTV.m3u8
+
+#EXTINF:-1,Real Madrid TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/ee8804e48dea5d942f5bfa7f373e2b38.jpeg",Sevilla Futbol Club TV
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+
+#EXTINF:-1,SAT
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8
+
+#EXTINF:-1, HDFashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
+
+#EXTINF:-1 tvg-logo="" group-title="ESPAÑA" , Canal 13 TV
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+
+#EXTINF:-1,ETB Sat
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
+
+#EXTINF:-1,MILENIO TV
+http://bcoveliveios-i.akamaihd.net:80/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1,EFECTO TV
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_4_av-p.m3u8
+
+#EXTINF:-1,Ocho TV
+http://bcliveuniv-lh.akamaihd.net:80/i/Live_1@170324/index_2200_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/TeleceibaCanal7.png" group-title="HONDURAS",Teleceiba Canal 7
+http://190.11.224.14:8134/liveevent.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4_4lQS5_e0g/VmfAAPjGsgI/AAAAAAAAAjY/QCMhrAcZUYE/s1600/TEN.jpg" group-title="HONDURAS",TEN 10
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1248000.m3u8
+
+#EXTINF:-1 tvg-name="Aprende TV" tvg-logo="https://i.imgur.com/CkGoWvx.png" group-title="MEXICO",Aprende TV Mexico City
+http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EUkatRJ.png" group-title="ENTRETENIMIENTO",OchoTV (Mexico)
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6xKwAuc.png" group-title="MEXICO",Capital 21 Mexico City
+http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TSi_Honduras.png" group-title="HONDURAS",TSi
+https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ec/Canal_5_Honduras.png/revision/latest?cb=20180502195430" group-title="HONDURAS", Canal 5
+https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
+
+#EXTINF:-1,MTV (AZ)
+http://85.132.78.6:1935/live/muztv.stream/index.m3u8
+
+#EXTINF:-1,Music Choice Play
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+
+#EXTINF:-1,TV3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+
+#EXTINF:0,Super 3
+http://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:c33_web/chunklist_b1296000.m3u8
+
+#EXTINF:-1,3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+
+#EXTINF:-1,Andorra TV (Andorra)
+http://194.158.80.31:443/live/rtva/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/hn_si-tv_m.png" group-title="HONDURAS",Si TV
+http://st2.worldkast.com/8030/8030/Sitv-Honduras.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfGRniDsHkP8V0Q55uSLUjNHh4h-coBtHS9Pfg=s900-mo-c-c0xffffffff-rj-k-no" group-title="HONDURAS", EBENEZER HD
+http://hds4.worldkast.com:1935/ebenezertv2/ebenezertv2/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/f3JMNQ5VkadQ9RKEAfor0GqT215e5bN6HEi8Zzf5bvKbrP_PMZ0b2IgYjX0tJDCofAgc=s180" group-title="HONDURAS", VICTORY CHANNEL
+http://hls1.livestreamingcdn.com/livecdn780/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1,TVMas Veracruz
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
+
+#EXTINF:-1,TVMas Veracruz HD
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8
+
+#EXTINF:-1,MEXICO:15TV Sabinas | SD
+http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
+
+#EXTINF:-1,CINE Y SERIES:Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1,Canal 10 Chetumal
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1,324 Cataluña | SD
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+
+#EXTINF:-1,Telemicro Canal 5 OPCION HD RD
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0005&mode=12
+
+#EXTINF:-1,Digital 15 RD
+http://bit.ly/2CLgJ6u
+
+#EXTINF:-1,Digital 15 RD Opcion 2
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0011&mode=12
+
+#EXTINF:-1,TV Más G67
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u
+
+#EXTINF:-1,15 TV
+http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
+
+#EXTINF:-1,Bolivia 2 FTA
+http://streamer1.streamhost.org:1935/salive/GMIalfam/playlist.m3u8
+
+#EXTINF:-1,ENTRETENIMIENTO:Bolivia TV (Bolivia)
+http://api.new.livestream.com/accounts/10468276/events/3485826/live.m3u8
+
+#EXTINF:-1,DOMINICANA:CANAL 5
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0005&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESREPDOM.png
+
+#EXTINF:-1,Music Top (ARG)
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1,Canal 26 1
+http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,Canal 26 2
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,Canal 26 3
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,Nacional:Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:-1,Nacional:Televisión Rionegrina
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+
+#EXTINF:-1,Nacional:Canal 4 Posadas
+http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
+
+#EXTINF:-1,Nacional:Aire de Santa Fe
+http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u8
+
+#EXTINF:-1,UCSG
+http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+
+#EXTINF:-1,BHTV
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8
+
+#EXTINF:-1,Congreso TV
+http://uvodscp-lh.akamaihd.net/i/exitosartmp_1@504435/master.m3u8
+
+#EXTINF:-1,Digital TV CH-1
+http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,News 12 NJ
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12NJ_CENTRAL
+
+#EXTINF:-1,News 12 Weather & Traffic
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NJ
+
+#EXTINF:-1,RBC TV
+http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
+
+#EXTINF:-1,SOL TV
+http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
+
+#EXTINF:-1,TV Noticias
+http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+
+#EXTINF:-1,ENTRETENIMIENTO:Telered (Costa Rica)
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+
+#EXTINF:-1,ENTRETENIMIENTO:Digital TV (Peru)
+http://uvodscp-lh.akamaihd.net:80/i/ped001rtmp_1@460473/master.m3u8
+
+#EXTINF:-1,NOTICIAS:TV Noticias 7.3 (Peru)
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
+
+#EXTINF:-1,Canal BHtv
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,ENTRETENIMIENTO:Eco TV (Panama)
+http://cdnlive.medcom.com.pa/medcom-livestream/eco-live/eco-live/streamout-480p/chunks.m3u8
+
+#EXTINF:-1,ENTRETENIMIENTO:TEN Canal 10 (Honduras)
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+
+#EXTINF:-1,CANAL 6
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
+
+#EXTINF:-1,MUSICA:Portal Foxmix (Chile)
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1,MUSICA:Power HD (Argentina)
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+
+#EXTINF:-1,RTE News Now
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+
+#EXTINF:-1,Hit Music Channel
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+
+#EXTINF:-1,MUSICA:PortalFoxMix Tv
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,MUSICA:Music Top Argentina
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,MUSICA:Radio Italia Vision
+http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+
+#EXTINF:-1,MUSICA:California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+
+#EXTINF:-1,MUSICA:Dream Tv
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,PYC TELEVISIÓN
+http://video.usatelk.com:1935/canal15/canal15/playlist.m3u8
+
+#EXTINF:-1,TELEVER
+http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8
+
+#EXTINF:-1,TV CAMPECHE
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+
+#EXTINF:-1,MILENIO TV
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1,TV Más
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?tecnotv.info?iptv.m3u8?hermoso.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF:-1,TOREON MEXICO
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+
+#EXTINF:-1,TELEMAR CAMPECHE
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
+
+#EXTINF:-1,TC HD COLOMBIA
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
+
+#EXTINF:-1,TC HD
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+
+#EXTINF:-1,CILENCE TV
+http://109.236.85.100:8081/sipTV/live/playlist.m3u8?www.tecnotv.info
+
+#EXTINF:-1,TRAVEL HD
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+
+#EXTINF:-1,RETRO MUCIC TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1,RETRO MUSIC TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1652320907.m3u8
+
+#EXTINF:-1,SON POPULAR
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8
+
+#EXTINF:-1,CULTURA:Silence TV
+http://109.236.85.100:8081/sipTV/live/playlist.m3u8
+
+#EXTINF:-1,NOTICIAS:CGTN 1
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1,CHILE:Tv Senado 1 HD
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
+
+#EXTINF:-1,CHILE:Tv Senado 2 SD
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd
+
+#EXTINF:-1,ARGENTINA:TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,ARGENTINA:Canal Provincial
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+
+#EXTINF:-1,COLOMBIA:Canal Capital HD
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+
+#EXTINF:-1,PERU:Canal Capital
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,MEXICO:Tlaxcala Television
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+
+#EXTINF:-1,MUSICA:M2o Tv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,MUSICA:Xite
+http://highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8
+
+#EXTINF:-1,MUSICA:CHAU Tv
+http://video.chaula.tv/hls/live/high/playlist_high.m3u8
+
+#EXTINF:-1,MUSICA:FS1
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+
+#EXTINF:-1,LOGOS TV
+http://streamer1.streamhost.org:1935/salive/GMIalfah/livestream.m3u8
+
+#EXTINF:-1,M2OTV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,CANAL 10 CHIAPAS
+http://klive-a.akamaihd.net/dc-0/live/hls/p/290412/e/0_es0kdjdz/sd/10000/t/bj1DqoE8O0tNhHgd6BvqXQ/index-s32.m3u8
+
+#EXTINF:-1,MLB TV
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8
+
+#EXTINF:-1,group-title="Canales Italianos" Sky TG24 | SD
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
+
+#EXTINF:-1,telenord 8
+http://newyorkstreamss2.ddns.net:28987/telenord8/telenord8/chunklist_w588013183.m3u8
+
+#EXTINF:-1,BLOOMBERG
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+
+#EXTINF:-1,TELEMICRO
+http://2.bp.blogspot.com/-f7WYgLyTPZo/VZQWilXAw9I/AAAAAAAALv0/zKc8sNAkREw/s1600/telemicro%2Bviva.png",TELEMICRO
+
+#EXTINF:-1,telemundo
+http://freevectorlogo.net/wp-content/uploads/2011/06/telemundo-logo-vector-200x200.png"
+
+#EXTINF:-1,Telemundo
+http://vignette1.wikia.nocookie.net/inciclopedia/images/7/7a/Telemundo_tv_logo.png/revision/latest?cb=20071120204626,Telemundo
+
+#EXTINF:-1,TeleSafor
+http://video.telesafor.com/hls/video_low.m3u8
+
+#EXTINF:-1,TeleSafor | HD
+http://video.telesafor.com/hls/video_high.m3u8
+
+#EXTINF:-1,TeleValencia
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
+
+#EXTINF:-1,TG4
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+
+#EXTINF:-1,TGRT Belgesel
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
+
+#EXTINF:-1,The Blaze
+http://theblaze.global.ssl.fastly.net/live/blaze-dvr/master.m3u8
+
+#EXTINF:-1,The Country Network
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+
+#EXTINF:-1,The Travel Channel
+http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8
+
+#EXTINF:-1,Three
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
+
+#EXTINF:-1,Throwback
+http://i.imgur.com/BTiGp2B.png?tecnotv",Throwback
+
+#EXTINF:-1,Tisza TV
+http://www.tiszatv.hu:443/tiszatv.f4v
+
+#EXTINF:-1,Tivikom Ulan-Udje
+http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
+
+#EXTINF:-1,TJK TV
+http://tjktv.ercdn.net/tjktv_576p.m3u8
+
+#EXTINF:-1,Today
+http://i.imgur.com/BTiGp2B.png?tecnotv",Today
+
+#EXTINF:-1,Toddler
+http://i.imgur.com/BTiGp2B.png?tecnotv",Toddler
+
+#EXTINF:-1,TopShop
+http://tv-topshop.netrack.ru/hls/topshop.m3u8
+
+#EXTINF:-1,Tr3ce
+http://vignette4.wikia.nocookie.net/logopedia/images/0/03/Canal_Tr3ce_HD.png/revision/latest?cb=20151214194315,Tr3ce
+
+#EXTINF:-1,Trentino TV (Opt-1)
+http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
+
+#EXTINF:-1,TRO Soyuz
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+
+#EXTINF:-1,Tropicales
+http://i.imgur.com/BTiGp2B.png?tecnotv",Tropicales
+
+#EXTINF:-1,ATVHD
+http://85.132.81.184:8080/atv/index.m3u8
+
+#EXTINF:-1,Sky
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8
+
+#EXTINF:-1,RCG TV2
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+
+#EXTINF:-1,TICAVISION
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+
+#EXTINF:-1,TVN Nicaragua
+http://162.244.81.181:1935/live//Stream1/playlist.m3u8
+
+#EXTINF:-1,Ecuavisa
+http://elcanaldelfutbol.com/static/wowza/test/hls/20001/360p/playlist.m3u8
+
+#EXTINF:-1,Canal Judicial
+http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
+
+#EXTINF:-1,Al Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
+
+#EXTINF:-1,RAINEWS24
+http://b2.stream8.rai.it/live/smil%3Arnews1_android.smil/playlist.m3u8
+
+#EXTINF:-1,VoA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+
+#EXTINF:-1,Syria News
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
+
+#EXTINF:-1,BBC Arabic Televison
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+
+#EXTINF:-1,TRT WORLD
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
+#EXTINF:-1, UMAGTV
+http://edge1.cl.grupoz.cl/itser4/tser4.sdp/chunklist_w638282256.m3u8
+
+#EXTINF:-1, EL PINGUINO TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1, SOBERANIA TV
+http://evo.eltelon.com:1935/live/soberania/chunklist_w1320335487.m3u8
+
+#EXTINF:-1, ROCCO TV
+http://evo.eltelon.com:1935/live/rocco-tv/chunklist_w1064108788.m3u8
+
+#EXTINF:-1,UA TV
+http://v3.tustreaming.cl/tvautonoma/live1/playlist.m3u8
+
+#EXTINF:-1,TV B
+https://593b04c4c5670.streamlock.net/8134/8134/chunklist_w1803894255.m3u8
+
+#EXTINF:-1, TELECARIBE DEPORTES
+http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
+
+#EXTINF:-1, TELEMUNDO
+http://6bc79edb.ulkakak.pw/iptv/CHPLNSPSC3DXKY/1080/index.m3u8
+
+#EXTINF:-1, TVP ARGENTINA
+https://stream.solumedia.com.ar/c11/myStream/playlist.m3u8
+
+#EXTINF:-1,  NET TV
+https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1, 13 MAX ARGENTINA
+http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
+
+#EXTINF:-1, CN 3
+http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lbschools.net/Asset/Images/OMS/edTV.png" group-title="CHILE",ED Tv
+https://593b04c4c5670.streamlock.net/8070/8070/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/5muDweJ.png" group-title="CHILE",Maxima Tv HD
+http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_cnnchile.png/600px-Logo_cnnchile.png" group-title="CHILE",CNN
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8?iptvgratis?chile.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jcGbgZc.png" group-title="CHILE",Chilevision
+http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8?xtreamiptv.m3u8
+
+#EXTINF:0 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/bolivia-deportes.png?fit=500%2C300" group-title="DEPORTES",Bolivia Deportes
+http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1392318959/logo_cdo.png" group-title="DEPORTES",CDO Basico
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/b27Bk9b.png" group-title="DEPORTES",Real Madrid TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?xtreamiptv.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/3GIGy3P.png" group-title="DEPORTES",Sevilla FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/250px-Fox_Sports_Logo.svg.png" group-title="DEPORTES" ,Fox Sports Racing
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/russel/images/3/3f/ESPN_2_Logo.png/revision/latest?cb=20180812071744" group-title="DEPORTES" ,ESPN 2 USA
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-fmwFOCSFHRE/WVbriBZ6nLI/AAAAAAAAOYc/nyadJ4Lj610PGkyVW3uJNNTxkmtlt5xiQCLcBGAs/s320/ALL%2BSports.png" group-title="DEPORTES",All Sports
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="https://mlblogsjoefrisaro.files.wordpress.com/2010/03/mlbnetwork.png" group-title="DEPORTES",MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_37194.png" group-title="AUTOS", Garage TV
+http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hr/thumb/b/b0/Fashion_tv.png/120px-Fashion_tv.png" group-title="MODA", Fashion Tv
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/ua/HDFL.png" group-title="MODA",HD Fashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="http://images.lacarmina.com/homepage/content/publishers_travel.png" group-title="CULTURA",Travel HD
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="NOTICIAS", DW Latino
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/509_300.png" group-title="NOTICIAS",CGTN 1
+https://livees.cgtn.com/1000e/prog_index.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="http://haber.sol.org.tr/sites/default/files/styles/newsimagestyle_615x410/public/20110201141238cnn_turk_logosu.png" group-title="NOTICIAS",CNN Turkia
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1,Canal 9 Salta
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,ENTRETENIMIENTO:Telesur (Costa Rica)
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+
+#EXTINF:-1,Entretenimiento:Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+
+#EXTINF:-1,MUSICA:Hit TV (Espana)
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
+
+#EXTINF:-1,MUSICA:Futuro 88.9 (Chile)
+http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
+
+#EXTINF:-1,[COLOR WHITE] [/COLOR] BANDA MAX
+http://189.216.247.113/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
+
+#EXTINF:-1,[COLOR WHITE] [/COLOR] NICK_JR
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
+
+#EXTINF:-1,CULTURA:Silence TV
+http://bit.ly/2wxlPQD
+
+#EXTINF:-1,PIGUINO TV HD
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+
+#EXTINF:-1,CANAL WOW
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
+
+#EXTINF:-1,WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+
+#EXTINF:-1,PortalFoxMix Tv
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
+
+#EXTINF:-1 tvg-logo="http://i43.tinypic.com/znx7v9.jpg" group-title="IZZI", TNT
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i61.tinypic.com/2yovqqh.jpg" group-title="IZZI", Space
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/635px-Logo_Golden_TV.svg.png" group-title="IZZI",Golden
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i58.tinypic.com/11ryvsw.jpg" group-title="IZZI", Nat Geo Wild
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="IZZI",NICK
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
+
+#EXTINF:-1,COLOMBIA Canal CNC Medellin | SD
+http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
+
+#EXTINF:-1 tvg-logo="https://gfx.videobuster.de/archive/v/cwiIRYplRhEAbg_kzaC5YDAcz0lMkawqCUyRqglMkZpbWGZJTJGanBlZyUyRmIwZt3ZMmExYTRlYmTy6_AxZGKpNWNmZDFlLmpwZyZyPXfvOA/prometheus.jpg" group-title="MOVIES",Prometeus 2012 HD
+https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/55/b1/f9/55b1f928966e3936dc58d91f6a6662e5.jpg" group-title="MOVIES",Interstellar
+https://archive.org/download/Interstellar20014PelixMax/Interstellar%20(2014).mp4
+
+#EXTINF:-1 tvg-logo="http://bucket1.clanacion.com.ar/anexos/fotos/cartelera/mi-villano-favorito-3-3d-c_7856_poster2.jpg" group-title="MOVIES",Mi Villano Favorito 3 HD
+https://archive.org/download/VillanoTercero2017/Villano%20Tercero%202017.mp4
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/8b/14/80/8b14802f53d2cb5b5dd25e58c210f135--transformers--transformers-the-last-knight-poster.jpg" group-title="MOVIES",Transformers: el último caballero
+https://archive.org/download/Saldelclosetcaabllero2017/Saldelclosetcaabllero2017.mp4
+
+#EXTINF:-1 tvg-logo="http://www.tangodiscos.com.co/sites/default/files/7707334658640.jpg" group-title="MOVIES" group-title="MOVIES",Los Ilusionistas
+https://ia601907.us.archive.org/25/items/Los.Ilusionistas/Los.Ilusionistas.mp4
+
+#EXTINF:-1 tvg-logo="https" group-title="MOVIES",Cars 2
+https://ia800801.us.archive.org/30/items/MilOchoMil005/MilOchoMil_005.mp4
+
+#EXTINF:-1 tvg-logo="https" group-title="MOVIES",Alicia En El Pais de Las Maravillas
+https://ia800809.us.archive.org/16/items/MilOchoMil001/MilOchoMil_001.mp4
+
+#EXTINF:-1 tvg-logo="https" group-title="MOVIES",VALERIAN Y LA CIUDAD DE MIL PLANETAS
+https://ia800803.us.archive.org/21/items/ValeSRREGIO/ValeSRREGIO.mp4
+
+#EXTINF:-1 tvg-logo="https" group-title="MOVIES",ATOMICA
+https://ia800101.us.archive.org/27/items/AtoSRRegio/AtoSRRegio.mp4
+
+#EXTINF:-1 tvg-logo="https" group-title="MOVIES",La Momia
+https://ia600801.us.archive.org/23/items/CalaveraTieneHambre/calavera%20tiene%20hambre.mp4
+
+#EXTINF:-1 tvg-logo="https" group-title="MOVIES",HUYE GET OUT
+https://ia800803.us.archive.org/14/items/Cheverefans0012017/cheverefans%200012017.mp4
+
+#EXTINF:-1 tvg-logo="https" group-title="MOVIES",STRIPTEASE
+https://ia800803.us.archive.org/22/items/Cheverefans0032017.mkv/Cheverefans%200032017.mkv.mp4
+
+#EXTINF:-1 tvg-logo="https" group-title="MOVIES",Bambi
+https://ia800804.us.archive.org/12/items/MilOchoMil003/MilOchoMil_003.mp4
+
+#EXTINF:-1 tvg-logo="https" group-title="MOVIES", ESPIA POR ACCIDENTE
+http://discontrol@media-es-am.crackle.com/1/_/d0/5jmyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="https" group-title="MOVIES", FISTA DE BODAS
+http://discontrol@media-es-am.crackle.com/1/m/h0/lcjyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1 tvg-logo="https" group-title="MOVIES",  HALLOWEN
+http://discontrol@media-es-am.crackle.com/1/r/v0/dpoyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1 tvg-logo="https" group-title="MOVIES", HERMANOS GRIMM
+http://discontrol@media-es-am.crackle.com/1/c/r0/9qhyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="https" group-title="MOVIES",ILUCIONISTA
+http://discontrol@media-es-am.crackle.com/1/o/j0/zghyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="https" group-title="MOVIES",IMPACTO MORTAL
+http://discontrol@media-es-am.crackle.com/1/v/f0/h7gyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="https" group-title="MOVIES",LA PANTERA ROSA
+http://media-es-am.crackle.com/1/t/f0/cjkyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="https" group-title="MOVIES",SACRIFICIO
+http://discontrol@media-es-am.crackle.com/1/s/f0/9ikyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/y5ubgda2yge72wy/un%20perdedor.jpg" group-title="MOVIES",UN PERDEDOR SIN SUERTE
+http://media-es-am.crackle.com/1/b/_0/qkpyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/hfwvm6r4yx3gj1s/unvuelo.jpg" group-title="MOVIES",UN VUELO DE LOCURA
+http://discontrol@media-es-am.crackle.com/1/q/f0/ylkyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/mc74itm3ibvi3ef/robocop.jpg" group-title="MOVIES",ROBOCOP DEFENSOR DEL FUTURO
+http://media-es-am.crackle.com/1/t/n0/wohyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/ajlzgd3c8t4ai2w/zona%20de%20miedo.jpg" group-title="MOVIES", ZONA DE MIEDO
+http://media-es-am.crackle.com/1/w/h0/qdjyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/pyikxp92lwce7jz/daniel.jpg" group-title="MOVIES", DANIEL EL TRAVIESO (CLASICA)
+https://ia800605.us.archive.org/3/items/31052017_201705678678687687/31052017.mp4
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/19pm1z4zr8if9gh/deadpool.jpg" group-title="MOVIES",Deadpool
+https://ia800108.us.archive.org/24/items/DeSRREGIO_201802/DeSRREGIO.mp4
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/puuppo3e30bknzg/civilwar.jpg" group-title="MOVIES",Civil War
+https://ia800103.us.archive.org/23/items/CiWaSRREGIO/CiWaSRREGIO.mp4
+
+#EXTINF:-1 tvg-logo="https://lasentinel.net/wp-content/uploads/sites/5/2017/11/ENT-Mudbound_IMG-2.jpg", Mudbound |
+http://srregio.xyz/mudbound
+
+#EXTINF:-1 tvg-logo="https://www.elmulticine.com/imagenes/carteles/7/inside-cartel-b.jpg", Terror en la Oscuridad CAST |
+http://srregio.xyz/insidecast
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/teaser-trailer.com/wp-content/uploads/The-Cured-Philippines-poster.jpg?ssl=1", The Cured |
+http://srregio.xyz/thecure
+
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/r_1280_720/medias/nmedia/18/66/99/88/20350578.jpg", Los Extranos |
+http://regiotv.xyz/losextranos
+
+#EXTINF:-1 tvg-logo="https://dld73rc7kvi9r.cloudfront.net/cineimage/poster/large/banner-5857152831507565202.jpg", Hasta Pronto Christoper Robin |
+http://regiotv.xyz/christoperrobin
+
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/86/21/14/19828283.jpg", Talento De Barrio | T
+http://regiotv.xyz/talentodebarrio
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QhVGoY0iE7o/WlO7gegXBkI/AAAAAAAACHs/VM5rexxAYVUhfula67f7r7gpOuq_6akIgCLcBGAs/s1600/Mom%2BAnd%2BDad.jpg", Mom & Dad SUB |
+http://regiotv.xyz/momanddad
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QhVGoY0iE7o/WlO7gegXBkI/AAAAAAAACHs/VM5rexxAYVUhfula67f7r7gpOuq_6akIgCLcBGAs/s1600/Mom%2BAnd%2BDad.jpg", Mom & Dad |
+http://regiotv.xyz/momanddadLAT
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/24_horas_para_vivir.jpg", 24hrs Para Sobrevivir SUB |
+http://regiotv.xyz/24hrssobrevivir
+
+#EXTINF:-1 tvg-logo="http://style.shockvisual.net/wp-content/uploads/2018/04/pesadilla.jpg", Pesadilla Siniestra |
+http://regiotv.xyz/pesadillasiniestra
+
+#EXTINF:-1 tvg-logo="http://fdzeta.com/subir/images/jLGYP.jpg", Todo Poderoso |
+https://bit.ly/2GajoTS
+
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/14/03/04/12/57/369750.jpg", American Pie |
+https://bit.ly/2KS5ucG
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/95/6e/17/956e17f1164ebb2a6d9a95e6a89f4041.jpg", La Leyenda de la Nahuala |
+https://bit.ly/2wBzaYz
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-nFLhtyQDFR4/Vux-PnZCpZI/AAAAAAAAirU/F3mcY7HNSn067Zy3LkRDonZbjMMM3GxkQ/s00/Que_Culpa_Tiene_el_Ni%25C3%25B1o_Poster_JPosters.jpg", Que Culpa Tiene el Nino |
+https://bit.ly/2wBG4x8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/cdn.cinepapaya.com/stat/img/static-cp/cine/movietranslation/3-idiotas-poster-1494884216.jpg?resize=692%2C1024&ssl=1", 3 idiotas |
+http://srregio.xyz/regioflix/3idiotas
+
+#EXTINF:-1 tvg-logo="http://www.cailegdl.com/wp-content/uploads/2018/03/red_sparrow_poster.jpg", Operacion Red Sparrow |
+http://regiotv.xyz/regioflix/redsparrow
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-0dx-Z5jsVyw/Ws5bDjzstgI/AAAAAAAAoq0/Cbhps_UNSJQN_dBN7i16qSUUuH2PWjiMQCLcBGAs/s1600/Anon_Poster_UK_JPosters.jpg", Anon |
+http://srregio.xyz/regioflix/anon
+
+#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/592f3443db29d6c96a19b5dc/t/59f10287b7411c32b423485c/1508967068270/Samson.png", Samson |
+http://srregio.xyz/regioflix/samson
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-C2P_LCyOn6Q/WjJGd2Z-JZI/AAAAAAAAaiU/RU9mzczQwWgHFqvl__LPSRH9gn5yYsW4ACLcBGAs/s1600/1517%2Btres%2Ba%2Bparis.jpg", 15:17 Tren a Paris |
+http://srregio.xyz/regioflix/trenaparis
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5MjQ0OTA4OF5BMl5BanBnXkFtZTcwNTkxODYyOQ@@._V1_UY268_CR3,0,182,268_AL_.jpg", Nosotros Los Nobles |
+https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+
+#EXTINF:-1 tvg-logo="http://www.joblo.com/posters/images/full/cloverfield-3-poster-xl.jpg", The Cloverfield Paradox |
+https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.traileraddict.com/content/vertical-entertainment/terminus-poster.jpg", Terminus |
+https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gh9OaWVcL.jpg", Deadpool |
+https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.proximosestrenos.com.ar/wp-content/uploads/2015/04/poster-intensamente.jpg", Intensamente |
+https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/10/jigsaw-poster.jpg", JIGSAW VIII |
+https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="https://larryfire.files.wordpress.com/2016/09/18.jpg", Doctor Strange |
+https://ia801505.us.archive.org/11/items/dsSRREGIO/dsSRREGIO.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg", Redada Asesina |
+https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg", SAW VIII SUBTITULADO |
+https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn.cinematerial.com/p/297x/i38iqtjb/konvert-russian-movie-poster-md.jpg", Konvert SUBTITULADO |
+https://archive.org/download/KonSRREGIO/KonSRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/e3/be/cf/e3becf68be3b70267da3bc3def5ed075.jpg", Civil War |
+https://archive.org/download/CiWaSRREGIO/CiWaSRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="http://multianime.com.mx/wp-content/uploads/2017/06/melanie-zombie-jpg.jpg", Melanie Apocalipsis Zombie |
+https://archive.org/download/meapzoSRRREGIO/meapzoSRRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/doblaje/images/b/b3/Fragile-2.jpg/revision/latest?cb=20131104070609&path-prefix=es", Fragiles |
+https://archive.org/download/FraSRREGIO/FraSRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/a2/5f/28/a25f2804fc990551b81458dc2c261140.jpg", Atomica |
+https://archive.org/download/AtoSRRegio/AtoSRRegio.mkv
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/gam_man_da_song_si-869494436-large.jpg", Zombiology |
+https://archive.org/download/Zy.SRREGIO/Zy.SRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/house_of_the_witch_night_of_the_witch_tv-754308582-large.jpg", La Noche de la Bruja |
+https://archive.org/download/howibr.SRREGIO/h0us3.0f.th3.w1tch.SRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="http://cdn.bloody-disgusting.com/wp-content/uploads/2016/08/ouija_two_ver4_xlg.jpg", Quija |
+https://archive.org/download/quiSRREGIO/quiSRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="https://images.moviepilot.com/images/c_limit,q_auto:good,w_600/gr7omjwa0gueamswfgbc/jeepers-creepers-3-poster-revealed-but-are-the-fan-posters-better.jpg", Jeepers Creepers 3 |
+https://archive.org/download/JeeCre3SRREGIO/JeeCre3SRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="http://www.aytojaen.es/portal/RecursosWeb/IMAGENES/1/0_16765_1.jpg", Valerian y la ciudad de los mil planetas |
+https://archive.org/download/ValeSRREGIO/ValeSRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="https://imagessl6.casadellibro.com/m/ig/6/2650976.jpg", El Rostro De Un Angel |
+https://archive.org/download/angelSRREGIO/el.rostro.de.un.angelSRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5NTE5OTI2MV5BMl5BanBnXkFtZTgwNzc1NzY1NDE@._V1_.jpg", Una Loca Pelicula de The Walking Dead |
+https://archive.org/download/DocumentalZombieSRREGIO/The%20Walking%20DeadSRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="http://www.miracine.com/imagenes/peliculas/Sangre-por-sangre.jpg", Sangre por Sangre |
+https://archive.org/download/54n6r3.SrRegio/Sangre.por.Sangre.SrRegio.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/09/06/11/27/0502981.jpg", Wheelman |
+https://archive.org/download/96352487.SRREGIO.NET/96352487.SRREGIO.NET.mp4
+
+#EXTINF:-1 tvg-logo="http://www.dreadcentral.com/wp-content/uploads/2016/03/amityville_the_awakening.jpg", Amytiville El Despertar |
+https://archive.org/download/4w4k3n1ng.SRREGIO/4w4k3n1ng.SRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/L.O.R.D_Legend_of_Ravaging_Dynasties_poster.jpeg", L.O.R.D The Legend Of Ravaging Dynasties |
+https://archive.org/download/L.SRREGIOt/L.SRREGIOt.mkv
+
+#EXTINF:-1 tvg-logo="https://imgc.allpostersimages.com/img/print/posters/remember-the-titans_a-G-8032900-0.jpg", Duelo de Titanes |
+https://archive.org/download/dudtitSRREGIO/Duelo%20de%20Titanes.SRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="http://photos1.blogger.com/blogger/3339/858/1600/rv_bigreleaseposter.jpg", Locas Vacaciones Sobre Ruedas |
+https://archive.org/download/PacruedSRREGIO.NET/PacruedSRREGIO.NET.mkv
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-8liUO6T7xKk/WN6efg85dzI/AAAAAAAAT6k/lpWPvh7Bkogfe6YzYKSzuvaFWcUjqjVIwCK4B/s1600/17492367_1249808975105083_2074598002289798083_o.jpg", Annabelle La Creacion |
+https://archive.org/download/4nnSRREGIO.NET/4nnSRREGIO.NET.mkv
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/61/55/32/61553207d1d9594c8d0313fcdd145d63.jpg", Colors CASTELLANO |
+https://archive.org/download/SRREGIO.NETColores/Cos.7p.CAS.avi.mp4
+
+#EXTINF:-1 tvg-logo="https://movierob.files.wordpress.com/2017/04/get-out.jpg?w=203&h=300", Huye |
+https://ia601500.us.archive.org/27/items/Cheverefans0012017/cheverefans%200012017.mp4?null=
+
+#EXTINF:-1, Capital 21 CDMX
+http://23.227.189.81/ciudadtv/abr_ciudadtv/playlist.m3u8
+
+#EXTINF:-1,CULTURA:CGTN Documentary
+http://live.cgtn.com/cctv-d.m3u8
+
+#EXTINF:-1,NOTICIAS:CGTN 2
+http://live.cgtn.com/cctv-e.m3u8
+
+#EXTINF:-1,CHILE:CHV 1 HD
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,CHILE:CHV 4 SD
+http://live.hls.http.chv.ztreaming.com/chvhdtablet/chv-tablet.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,COLOMBIA:Canal Capital HD
+http://us-b2-p-e-sx6.cdn.mdstrm.com/live-stream/57d01d6c28b263eb73b59a5a/publish/media_500.m3u8?dnt=true&es=us-b2-p-e-sx6.cdn.mdstrm.com&ote=1506105524968&ot=PhcZX6iEf6naqlTvLiSrJA&proto=http
+
+#EXTINF:-1,MTV LIVE
+http://189.216.247.113/Content/HLS/Live/Channel(MTV_Live_HD)/index.m3u8
+
+#EXTINF:-1,TravelHD
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+
+#EXTINF:-1,MEXICO:Ocho Tv
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/index_2200_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,MEXICO:RTQ Queretaro
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+
+#EXTINF:-1,EspaÒa:Teleformula
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+
+#EXTINF:-1,Chileiptv:La Pintana TV
+http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8
+
+#EXTINF:-1,Chileiptv:CampusTv
+http://unlimited6-cl.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
+
+#EXTINF:-1,Chileiptv:—uble Tv
+https://593b04c4c5670.streamlock.net:443/tvdaniel/tvdaniel/playlist.m3u8
+
+#EXTINF:-1,Chileiptv:Genial Tv
+http://v3.tustreaming.cl/genialtv/live1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,Chileiptv:Al Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+
+#EXTINF:-1,Chileiptv:INT NHK Japan
+https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+
+#EXTINF:-1,Chileiptv:FR France 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+#EXTINF:-1,Chileiptv:RU 24KPbIM
+http://vid.techbee.pro:8080/crimea24/index.m3u8
+
+#EXTINF:-1,ENTRETENIMIENTO:Canal 9 (Argentina)
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+#EXTINF:-1,DIGITAL PERU TV
+http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/master.m3u8
+
+#EXTINF:-1,TELEMEDELLIN
+http://level3itvo.cdnar.net/itvmedia/14/1/channel_000.m3u8
+
+#EXTINF:-1,IB3
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_2.m3u8
+
+#EXTINF:-1,RTPA
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+
+#EXTINF:-1,SAN ROQUE TV
+http://188.165.135.22/sanroque/mystream/chunklist_w1703138822.m3u8
+
+#EXTINF:-1,24/7 Noticias
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+
+#EXTINF:-1,CANAL M
+http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8
+
+#EXTINF:-1,TV 13
+http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
+
+#EXTINF:-1,BRAZIL:Aperipe TV
+http://wz-brasil1.comets.com.br/tvaperipe/aovivo/playlist.m3u8
+
+#EXTINF:-1,BRAZIL:E-Parana
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1,BRAZIL:RecordTV Espirito Santo
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+
+#EXTINF:-1,BRAZIL:Rede TV Rondonia
+http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
+
+#EXTINF:-1,BRAZIL:TVE Bahia
+http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+
+#EXTINF:-1,BRAZIL:TVE Rio Grande do Sul (Opt-1)
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1,BRAZIL:TVE Rio Grande do Sul (Opt-2)
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1,BRAZIL:TV Brasil Animada
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+
+#EXTINF:-1,BRAZIL:TV Diario
+http://slrp.sambavideos.sambatech.com:80/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/live.m3u8
+
+#EXTINF:-1,BRAZIL:TV Diario do Sertao
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+
+#EXTINF:-1,BRAZIL:TV Gazeta
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:-1,BRAZIL:TV Geral
+http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8
+
+#EXTINF:-1,BRAZIL:TV MCJ
+http://wse5.player.tv.br:1935/tvmcj/tvmcj/playlist.m3u8
+
+#EXTINF:-1,BRAZIL:Web TV Minas
+http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
+
+#EXTINF:-1,ARGENTINA:America HD
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
+#EXTINF:-1,Tv Man·
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0117
+
+#EXTINF:-1,Canal U CORDOBA
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0118
+
+#EXTINF:-1,UN3
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0064
+
+#EXTINF:-1,DW
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0015
+
+#EXTINF:-1,CGTN EspaÒol
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0011
+
+#EXTINF:-1,ST Santa Fe:5RTv - CTV - Recreo - ST Santa Fe
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0193
+
+#EXTINF:-1,ME Mendoza:Acequia - 29.1TV - Mendoza  TV - ME Mendoza
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0158
+
+#EXTINF:-1,AR:LU82 Canal 10 - 43.1TV - Mar del Plata TV - BA Buenos Aires
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089
+
+#EXTINF:-1,AR:Play - 98.1 TV - Marcos Juarez - CO Cordoba
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0128
+
+#EXTINF:-1,9 TV - Paran· - ER Entre Rios
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0144
+
+#EXTINF:-1,5RTv RECREO SANTA FE
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0200
+
+#EXTINF:-1,CANAL 2 de Jujuy
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0151
+
+#EXTINF:-1,ARGENTINA:Canal 4 Posadas
+http://184.154.28.210:1935/canal4/canal4/live.m3u8
+
+#EXTINF:-1,ARGENTINA:Canal 26 Buenos Aires (Opt-2)
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
+
+#EXTINF:-1,ARGENTINA:El 1 Web TV La Matanza
+http://server4.stweb.tv/unlam/ngrp:video1_all/playlist.m3u8
+
+#EXTINF:-1,ARGENTINA:Net TV
+http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1,ARGENTINA:TECtv
+http://lsd2-latam.secure2.footprint.net/hls-live/streamroot_lsd2latam-tectv/_definst_/live.m3u8
+
+#EXTINF:-1,PERU:BHtv (Opt-1)
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1,PERU:BHtv (Opt-2)
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1,PERU:Capital TV (Opt-2)
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live.m3u8
+
+#EXTINF:-1,PERU:Digital TV 2
+http://uvodscp-lh.akamaihd.net:80/i/ped002rtmp_1@460476/index_1_av-p.m3u8
+
+#EXTINF:-1,PERU:Radio San Borja 91.1 FM Lima
+https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
+
+#EXTINF:-1,NRJ HITS TV Live
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,U TV Live
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,Radio Polar Tv
+http://evo.eltelon.com:1935/live/archi-polar/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,Radio Pop
+http://s6.jcwebnew.com:7320/stream
+
+#EXTINF:-1,Hotmixradio 80¥S
+http://streaming.hotmix-radio.net/hotmixradio-80-128.mp3
+
+#EXTINF:-1,Desierto de Atacama TV Atacama
+http://unlimited6-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8
+
+#EXTINF:-1,Holvoet Copiapo
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8?
+
+#EXTINF:-1,VTV Valle de Aconcagua
+http://cdn.streamingmedia.cl:1935/live/vtv2//livestream1/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,VTV  HD
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
+
+#EXTINF:-1,RTV Vida
+http://178.32.53.254/radiovida/mobile/chunklist_w1681702694.m3u8
+
+#EXTINF:-1,TNE Tv
+http://video.crearchile.info:8080/live/tnetv1/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,El Mesias Tv
+http://server120416w1.a1network.net:1935/elmesias/elmesias.sdp/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,Tv Cret
+http://radiocret.net:1935/live/tvcret.sdp/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,Enlace Juvenil
+http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,Comunion TV
+http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,CTNi
+http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,RTV
+http://178.32.53.254/radiovida/mobile/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,CHILE:Pandero Music
+http://evo.eltelon.com:1935/panderocl/smil:panderocl.smil/chunklist_w229718808_b1936705.m3u8
+
+#EXTINF:-1,LATINO:TV Marti
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+
+#EXTINF:-1,Latinos:TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?Latinos.m3u8
+
+#EXTINF:-1,Latinos:CNN
+http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L1AkNUo.jpg" group-title="CHILE",VC Online HD
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ctn2B3v.png" group-title="CHILE",31 Tendencias Prime
+https://v3.tustreaming.cl/tendenciastv/live1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png" group-title="ARGENTINA",America SD
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/Promar_tv_Venezuela.jpg" group-title="VENEZUELA",Promar TV
+http://vpn58.hdtv.lorini.net/promar/promar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Y9BkR86cEgMjBCHqPjBXdW7D_Lw5hmw5nkURoCh6bLqjAiD57JnmqwGS6FfVQNiytWk=h310" group-title="ECUADOR",Centro Ecuador
+http://unsecure.streann.com/loadbalancer/services/public/channels/57cef28b2cdc6843385b86ce/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/06/Radio-Hechos-Ecuador.jpg" group-title="ECUADOR",Hechos Ecuador
+http://37.187.7.106/hechostv/live.m3u8
+
+#EXTINF:-1  tvg-logo="http://www.rpcradio.com/images/a/logo-rpcradio.png" group-title="PANAMA",RPC Radio
+http://cdnlive.medcom.com.pa/rpcradio/source/chunks.m3u8
+
+#EXTINF:-1  tvg-logo="http://images.telemetro.com/radio/Especial-Telemetro-Radio_MEDDIR20160128_0004_47.jpg" group-title="PANAMA",Telemetro Radio
+http://cdnlive.medcom.com.pa/tmradio/source/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/bhj6YkMyoHo/hqdefault.jpg" group-title="DOMINICAN REP",MicroVision Canal 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="http://live.campushd.tv/wp-content/uploads/2017/04/LOGO-CAMPUS.png",Campus HD
+http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
+
+#EXTINF:-1 tvg-logo="http://yusnaby.com/wp-content/uploads/tvmarti.jpg" group-title="CUBA", Tv Marti
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/EWcqEk5WMIM/maxresdefault.jpg" group-title="BRAZIL",Amazon Sat
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
+
+#EXTINF:-1  tvg-logo="http://i.imgur.com/SYPYeHt.jpg" group-title="BRAZIL",Cine+
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1  tvg-logo="http://www.g2ptv.com.br/wp-content/uploads/2017/06/g2ptv-logo.png" group-title="BRAZIL",G2P TV
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
+
+#EXTINF:-1  tvg-logo="http://listaiptvbrasil.com/logos/recordtv.png" group-title="BRAZIL",RecordTV Mozambique
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
+
+#EXTINF:-1  tvg-logo="http://s23.postimg.org/bxsx521vv/download.png" group-title="BRAZIL",Rede Minas
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title="BRAZIL",Rede TV
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8
+
+#EXTINF:-1  tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="BRAZIL",SBT Piaui
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1677441762/logo_nova_400x400.jpg" group-title="BRAZIL",TVN
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
+
+#EXTINF:-1  tvg-logo="http://180graus.com/res/imagens/portal/2013/06/29/fdf-300x250e.jpg" group-title="BRAZIL",TV Antares
+http://srv3.zoeweb.tv:1935/z99-live/stream/livestream.m3u8
+
+#EXTINF:-1  tvg-logo="http://www3.al.sp.gov.br/repositorio/noticia/N-06-2015/fg172134.jpg" group-title="BRAZIL",TV Assembleia SP
+http://srv3.zoeweb.tv:1935/z93-live/stream/livestream.m3u8
+
+#EXTINF:-1  tvg-logo="http://s16.postimg.org/4rt4ter79/TV_INES.png" group-title="BRAZIL",TV INES
+http://liveabr2.sambatech.com.br/abr/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestreamabr.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/HFyrVaS.png" group-title="HAITI",Radio TeleBoston
+http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/vV08W1S.png" group-title="USA",Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/YajfXJ1.png" group-title="USA",Beach TV - 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/YajfXJ1.png" group-title="USA",Beach TV - Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/YajfXJ1.png" group-title="USA",Beach TV - Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/nSMaujc.png" group-title="USA",Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/f5ZtDhj.png" group-title="USA",Buffalo TV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BYUtv_logo.svg/1200px-BYUtv_logo.svg.png" group-title="USA",BYUtv
+https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="USA",Classic Arts Showcase
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+
+#EXTINF:-1  tvg-logo="http://sbgi.net/wp-content/uploads/2015/11/comet-logo.jpg" group-title="USA",Comet TV (Geo)
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aPGyO9l.png" group-title="USA",Daytona Beach TV
+http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/xGjchpW.png" group-title="USA",District of Columbia Network
+http://video.oct.dc.gov/out/u/DCN.m3u8
+
+#EXTINF:-1  tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/c7/54/1a/c7541a96a5381202932406956ac33206.jpg" group-title="MUSICA",Metal TV
+http://autopilot.myowntv.org/content/33816/index.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/xBgH1Tw.jpg" group-title="RADIOTV",Maxima Radio y Videos
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.radiocandela.cl/website/templates/common/images/candela-logo-2017.png" group-title="RADIOTV",Candela Tv
+http://unlimited1-cl.dps.live/candelatv/candelatv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/mqdefault_zpsdijxexti.jpg" group-title="RADIOTV", Radio La Clave Tv
+http://unlimited5-cl.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.csvrenca.webnode.cl/200001127-92f9593f5c/Radio-Cooperativa.jpg" group-title="RADIOTV", Radio Cooperativa Tv
+http://unlimited1-cl.dps.live/coopetv/coopetv.smil/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:0 tvg-logo="http://us0-cdn.onlineradiobox.com/img/logo/8/3228.v3.png" group-title="RADIOTV",Radio Camila Tv
+http://190.107.176.55:1935/live/archi-camila/chunklist_w555256191.m3u8
+
+#EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4835/square_150x150-2.jpg" group-title="RADIOTV",Radio Agricultura Tv
+https://unlimited1-cl.dps.live/921tv/921tv.smil/921tv/livestream1/chunks.m3u8
+#EXTM3U
+#EXTM3U
+--------------------------------Arab-channels-------------------------------------
 #EXTINF:-1,Al Hurra
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
@@ -330,9 +2417,6 @@ http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nabdsyria
 
 #EXTINF:-1,Amen FM 89.5
 http://185.27.116.54:1935/live/amn/chunklist_w1521888123.m3u8
-
-#EXTINF:-1,Al Aqsa
-http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
 
 #EXTINF:-1,Al Sharqiya
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
@@ -501,7 +2585,9 @@ http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
 
 #EXTINF:-1,Tamazight
 http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
-
+#EXTM3U
+#EXTM3U
+---------all-channels-------
 #EXTINF:0 group-title="AF: Afghanistan",AF: 1TV ENTERTAINMENT PASHTO/PERSIAN
 http://38.101.217.15:1935/ilink/live1tv/playlist.m3u8
 
@@ -511,14 +2597,26 @@ http://95.85.47.43/218tv/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="AF: Afghanistan",AF: AL HADATH
 http://starmena.ercdn.net/libya-alhadath/libya-alhadath.m3u8
 
+#EXTINF:0 group-title="AF: Afghanistan",AF: AL MANAR
+http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
+
 #EXTINF:0 group-title="AF: Afghanistan",AF: AL NABAA
 http://cdg3.edge.tmed.pw/alnabaatv/abr/alnabaatv/live_1024p/chunks.m3u8
+
+#EXTINF:0 group-title="AF: Afghanistan",AF: AL RAI
+http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
+
+#EXTINF:0 group-title="AF: Afghanistan",AF: AL SHARQIYA
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 
 #EXTINF:0 group-title="AF: Afghanistan",AF: AL WATAN
 http://streaming.i-sat.tv:1935/live/libyaelwatan/chunklist_w391917388.m3u8
 
 #EXTINF:0 group-title="AF: Afghanistan",AF: ANDISHEH TV
 http://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/index.m3u8
+
+#EXTINF:0 group-title="AF: Afghanistan",AF: ANN
+http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
 
 #EXTINF:0 group-title="AF: Afghanistan",AF: APADANA TV
 http://stream.aeducationaltv.org/watch/playlist.m3u8
@@ -531,6 +2629,9 @@ http://iriptv.com:1935/iriptv/dreamlandtv.stream/dreamlandtv.m3u8
 
 #EXTINF:0 group-title="AF: Afghanistan",AF: FUTURE
 http://streamer11.elementssys.com:8080/demo/rasmyah/index.m3u8
+
+#EXTINF:0 group-title="AF: Afghanistan",AF: HIGH VISION TV
+http://204.174.104.71:88/HIGHVISION_WEB_1205/highvision/tracks-v1a1/index.m3u8
 
 #EXTINF:0 group-title="AF: Afghanistan",AF: IRIB 1
 http://cdn1.live.irib.ir:1935/e-tv/tv1-1mb.stream/playlist.m3u8
@@ -553,8 +2654,20 @@ http://livestream.5centscdn.com/cls040317/0070c5b7ef083bdc8de09065c61a34d8.sdp/i
 #EXTINF:0 group-title="AF: Afghanistan",AF: KTV 1
 http://www.elahmad.com/tv/m3u8/ktv.ts
 
+#EXTINF:0 group-title="AF: Afghanistan",AF: KTV 1 (1+)
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
+
+#EXTINF:0 group-title="AF: Afghanistan",AF: KTV 2
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
+
+#EXTINF:0 group-title="AF: Afghanistan",AF: KTV AL MAJLIS
+https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
+
 #EXTINF:0 group-title="AF: Afghanistan",AF: KTV ETHRAA
 https://svs.itworkscdn.net/ktvethraalive/kethraa.smil/playlist.m3u8
+
+#EXTINF:0 group-title="AF: Afghanistan",AF: KTV PLUS
+https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
 
 #EXTINF:0 group-title="AF: Afghanistan",AF: MELLI TV CHANNEL
 http://208.75.229.50:1935/mellitv/myStream.sdp/playlist.m3u8
@@ -573,6 +2686,9 @@ http://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/i
 
 #EXTINF:0 group-title="AF: Afghanistan",AF: PBC TAPESH TV
 http://iptv.tapesh.tv/tapesh/playlist.m3u8
+
+#EXTINF:0 group-title="AF: Afghanistan",AF: S CHANNEL
+http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
 
 #EXTINF:0 group-title="AF: Afghanistan",AF: S CHANNEL (1+)
 http://1599780955@starmena.ercdn.net/libyaschannel/libyaschannel.m3u8
@@ -598,8 +2714,17 @@ http://media.btbn.tv/mtmtv/live/playlist.m3u8
 #EXTINF:0 group-title="AFR: Africa",AFR: RTV
 http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
 
+#EXTINF:0 group-title="AL: Albania",AL: AOULA LAAYOUNE
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+
+#EXTINF:0 group-title="AL: Albania",AL: DAFRAH TV
+http://live.aldafrah.tv:1935/live/myStream3/playlist.m3u8
+
 #EXTINF:0 group-title="AL: Albania",AL: JAZEERA BALKANS
 http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/800.m3u8
+
+#EXTINF:0 group-title="AL: Albania",AL: MAGHRIBIA (1+)
+http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
 
 #EXTINF:0 group-title="AL: Albania",AL: RROKUM TV
 http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
@@ -631,6 +2756,9 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8
 #EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI TV
 http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/53.m3u8
 
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI TV (1+)
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/53.m3u8
+
 #EXTINF:0 group-title="AR: Arabia",AR: ABUDHABI EMIRAT
 http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/70.m3u8
 
@@ -643,6 +2771,9 @@ http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/69.m3u8
 #EXTINF:0 group-title="AR: Arabia",AR: AD DRAMA (1+)
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/69.m3u8
 
+#EXTINF:0 group-title="AR: Arabia",AR: AL AAN
+http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8
+
 #EXTINF:0 group-title="AR: Arabia",AR: AL HAYAT 2 CH EGYPT
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/FluxusTV.m3u8
 
@@ -651,9 +2782,6 @@ http://acaooyalahd2-lh.akamaihd.net/i/TBN06_delivery@186244/master.m3u8
 
 #EXTINF:0 group-title="AR: Arabia",AR: AL JAZEERA DOCUMENTAIRE
 http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/46.m3u8
-
-#EXTINF:0 group-title="AR: Arabia",AR: AL JAZEERA DOCUMENTAIRE (1+)
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/46.m3u8
 
 #EXTINF:0 group-title="AR: Arabia",AR: AL KARMA LIFESTYLE EG
 http://flash.alkarmatv.com:1935/karmatv_na/karmatv_na1/playlist.m3u8
@@ -748,11 +2876,17 @@ http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
 #EXTINF:0 group-title="AR: Arabia",AR: DUBAI TV HD
 http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/10.m3u8
 
-#EXTINF:0 group-title="AR: Arabia",AR: DUBAI TV (1+) HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/10.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI TV
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/master.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI ZAMAN
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/11.m3u8
 
 #EXTINF:0 group-title="AR: Arabia",AR: DUBAI ZAMAN (1+)
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/11.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: DW GERMANY
+http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
 
 #EXTINF:0 group-title="AR: Arabia",AR: EL 1 WEB TV LA MATANZA
 http://server4.stweb.tv/unlam/ngrp:video1_all/playlist.m3u8
@@ -781,32 +2915,41 @@ http://nana10-hdl.ctedgecdn.net/Nana10-Live/amlst:hd_%2C1000%2C1500%2C1800%2C/ch
 #EXTINF:0 group-title="AR: Arabia",AR: JAME JAM ENTERTAINMENT IR
 http://63.237.48.3/ios/JAME_JAM_TV_NETWORK_1/JAME_JAM_TV_NETWORK_1.m3u8
 
+#EXTINF:0 group-title="AR: Arabia",AR: JORDON TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/74.m3u8
+
 #EXTINF:0 group-title="AR: Arabia",AR: JORDON TV (1+)
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/74.m3u8
 
 #EXTINF:0 group-title="AR: Arabia",AR: KNESSET CHANNEL
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 
+#EXTINF:0 group-title="AR: Arabia",AR: KTV AL ARABI
+https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8
+
 #EXTINF:0 group-title="AR: Arabia",AR: LIBYA HADASH
 http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/79.m3u8
-
-#EXTINF:0 group-title="AR: Arabia",AR: LIBYA HADASH (1+)
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/79.m3u8
 
 #EXTINF:0 group-title="AR: Arabia",AR: LIBYA TV
 http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/81.m3u8
 
-#EXTINF:0 group-title="AR: Arabia",AR: LIBYA TV (1+)
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/81.m3u8
-
 #EXTINF:0 group-title="AR: Arabia",AR: LIBYA218
 http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/77.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: LIBYA218 (1+)
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/77.m3u8
 
 #EXTINF:0 group-title="AR: Arabia",AR: MAKKAH TV
 http://jmc-live.ercdn.net/makkahtv/makkahtv.m3u8
 
 #EXTINF:0 group-title="AR: Arabia",AR: MAKKAH TV (1+)
 http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/89.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: MAKKAH TV (2+)
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/89.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: MASDAR TV
+http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8
 
 #EXTINF:0 group-title="AR: Arabia",AR: MBC 1
 http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/61.m3u8
@@ -832,6 +2975,9 @@ http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w635100631.m3u8
 #EXTINF:0 group-title="AR: Arabia",AR: MTV LEBENON
 http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/103.m3u8
 
+#EXTINF:0 group-title="AR: Arabia",AR: MTV LEBENON (1+)
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/103.m3u8
+
 #EXTINF:0 group-title="AR: Arabia",AR: NOUR DUBAI
 http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/16.m3u8
 
@@ -843,9 +2989,6 @@ http://149.202.79.190:8081/palestiniantv_source/live/chunks.m3u8
 
 #EXTINF:0 group-title="AR: Arabia",AR: SAMA DUBAI HD
 http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/12.m3u8
-
-#EXTINF:0 group-title="AR: Arabia",AR: SAMA DUBAI (1+) HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/12.m3u8
 
 #EXTINF:0 group-title="AR: Arabia",AR: SAMA SYRIA
 http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/36.m3u8
@@ -862,9 +3005,6 @@ http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/1.m3u8
 #EXTINF:0 group-title="AR: Arabia",AR: SAUDI ALIKHBARIYA HD
 http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/3.m3u8
 
-#EXTINF:0 group-title="AR: Arabia",AR: SAUDI ALIKHBARIYA (1+) HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/3.m3u8
-
 #EXTINF:0 group-title="AR: Arabia",AR: SAUDI SONNA HD
 http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/5.m3u8
 
@@ -876,9 +3016,6 @@ http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21T
 
 #EXTINF:0 group-title="AR: Arabia",AR: SYRIAN DRAMA
 http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/29.m3u8
-
-#EXTINF:0 group-title="AR: Arabia",AR: SYRIAN DRAMA (1+)
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/29.m3u8
 
 #EXTINF:0 group-title="AR: Arabia",AR: TAYBA TV SUDAN
 http://tayba.live.net.sa:1935/tayba/taybatv/chunklist_w1376954935.m3u8
@@ -898,8 +3035,14 @@ http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/73.m3u8
 #EXTINF:0 group-title="AR: Arabia",AR: TRT ARABIYA (1+)
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/73.m3u8
 
+#EXTINF:0 group-title="AR: Arabia",AR: TRT TURKEY
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+
 #EXTINF:0 group-title="AR: Arabia",AR: TUNISIE NAT1 TV
 http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/57.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: TUNISIE NAT1 TV (1+)
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/57.m3u8
 
 #EXTINF:0 group-title="AR: Arabia",AR: TUNISIE NAT2 TV
 http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/58.m3u8
@@ -933,9 +3076,6 @@ http://200.115.193.177/live/26hd-720/.m3u8
 
 #EXTINF:0 group-title="ARG: Argentina",ARG: CANAL 4 POSADAS
 http://184.154.28.210:1935/canal4/canal4/live.m3u8
-
-#EXTINF:0 group-title="ARG: Argentina",ARG: CANAL 4 SAN JUAN
-http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist_w931974462.m3u8
 
 #EXTINF:0 group-title="ARG: Argentina",ARG: CANAL 9 BIO BIO TV
 http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8
@@ -1003,9 +3143,6 @@ http://janus-tv-ply.senado.cl/playlist/stream.m3u8
 #EXTINF:0 group-title="ARG: Argentina",ARG: TV2 CHOAPA
 http://unlimited4-cl.dps.live/tv2choapa/tv2choapa.smil/tv2choapa/livestream2/chunks.m3u8
 
-#EXTINF:0 group-title="ARG: Argentina",ARG: TVO SAN VICENTE
-http://wow2.cl.digitalproserver.com/tvo/tvovivo/mp4:livestream1/playlist.m3u8
-
 #EXTINF:0 group-title="ARG: Argentina",ARG: TVRED
 http://li1008-155.members.linode.com:1935/live/myStream/playlist.m3u8
 
@@ -1066,6 +3203,9 @@ https://dpp-live-events.medialaancdn.be/events/hls/aes/vtmnieuws_114_720p.m3u8
 #EXTINF:0 group-title="BG: Bulgaria",BG: TV STARA ZAGORA ENTERTAINMENT BULGARIAN
 http://95.87.0.78:8080/tvstz.m3u8
 
+#EXTINF:0 group-title="CA: Canada",CA: ARRYADIA
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+
 #EXTINF:0 group-title="CA: Canada",CA: ASSEMBLEE NATIONALE DU QUEBEC
 http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
 
@@ -1080,6 +3220,9 @@ https://bobmovies.net/hl/ICanOnlyImagine.2018.1080p.m3u8
 
 #EXTINF:0 group-title="CA: Canada",CA: SPACE (1+)
 http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
+
+#EXTINF:0 group-title="CA: Canada",CA: TAMAZIGHT
+http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 
 #EXTINF:0 group-title="CA: Canada",CA: TELE-QUEBEC
 https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
@@ -1275,6 +3418,24 @@ http://apasfiisl.apa.at/ipad/orf2_q4a/orf.sdp/playlist.m3u8
 
 #EXTINF:0 group-title="DE: Germany",DE: ORF 3
 http://apasfiisl.apa.at/ipad/orf3_q4a/orf.sdp/playlist.m3u8
+
+#EXTINF:0 group-title="DE: Germany",DE: PL 13 ULICA HD
+http://37.59.34.182:8000/live/POLAND/POLAND/1987.m3u8
+
+#EXTINF:0 group-title="DE: Germany",DE: PL HBO HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2019.m3u8
+
+#EXTINF:0 group-title="DE: Germany",DE: PL HISTORY HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2020.m3u8
+
+#EXTINF:0 group-title="DE: Germany",DE: PL NATIONAL GEO HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2031.m3u8
+
+#EXTINF:0 group-title="DE: Germany",DE: PL NATIONAL GEO
+http://37.59.34.182:8000/live/POLAND/POLAND/2030.m3u8
+
+#EXTINF:0 group-title="DE: Germany",DE: PL POLSAT HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2045.m3u8
 
 #EXTINF:0 group-title="DE: Germany",DE: PL POLSAT
 http://37.59.34.182:8000/live/POLAND/POLAND/2040.m3u8
@@ -1579,9 +3740,6 @@ http://fastway.ddns.net:6421/fastway/live10/index.m3u8
 #EXTINF:0 group-title="IN: India",IN: GABRUU TV
 http://104.237.60.234/live/gabruutv.m3u8
 
-#EXTINF:0 group-title="IN: India",IN: GDNS LUDHIANA
-http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
-
 #EXTINF:0 group-title="IN: India",IN: GLOBAL PUNJAB TV
 http://207.244.112.71/globalpunjabhls/live.m3u8
 
@@ -1696,6 +3854,9 @@ http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
 #EXTINF:0 group-title="IN: India",IN: SABRANG CHANNEL
 http://sydney.live247stream.com:8081/sabrang/tv/sabrang/stream1/chunks.m3u8
 
+#EXTINF:0 group-title="IN: India",IN: SAINT TV
+http://159.203.9.134/hls/saint_tv/saint_tv.m3u8
+
 #EXTINF:0 group-title="IN: India",IN: SAKKAT
 http://linear03hun-lh.akamaihd.net/i/sakkat_1@665240/master.m3u8
 
@@ -1758,6 +3919,9 @@ http://stream2.svbllc.com:1935/tv84/tv84.stream/playlist.m3u8
 
 #EXTINF:0 group-title="IN: India",IN: URDU TV TORONTO
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
+
+#EXTINF:0 group-title="IN: India",IN: VANAVIL PLUS TV
+http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8
 
 #EXTINF:0 group-title="IN: India",IN: VELICHAM TV
 http://edge-ind.inapcdn.in:1935/wrap/smarts4n.stream_aac/playlist.m3u8
@@ -2149,6 +4313,9 @@ http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
 #EXTINF:0 group-title="MX: Mexico",MX: CANAL M
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8
 
+#EXTINF:0 group-title="MX: Mexico",MX: CANAL ONCE NACIONAL
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
+
 #EXTINF:0 group-title="MX: Mexico",MX: CANAR TV
 http://stmv2.srvstm.com/manatv/manatv/playlist.m3u8
 
@@ -2178,9 +4345,6 @@ http://50.30.37.36:1935/live/stream/chunklist_w1329394356.m3u8
 
 #EXTINF:0 group-title="MX: Mexico",MX: CRISTOVISION CA
 http://live10.cdnmedia.tv/cristovisionlive/smil:live.smil/chunklist_b500000.m3u8
-
-#EXTINF:0 group-title="MX: Mexico",MX: CTC TV
-http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
 
 #EXTINF:0 group-title="MX: Mexico",MX: CUENCA VISION
 http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
@@ -2413,9 +4577,6 @@ http://cdnh4.iblups.com/hls/irtp.m3u8
 #EXTINF:0 group-title="MX: Mexico",MX: TVES CANAL 10
 http://198.24.135.42/canal10/canal10/playlist.m3u8
 
-#EXTINF:0 group-title="MX: Mexico",MX: TVO CANAL 23
-http://cdn.elsalvadordigital.com:1935/canal23/canal23/chunklist_w1682980534.m3u8
-
 #EXTINF:0 group-title="MX: Mexico",MX: UCSG
 http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
 
@@ -2466,9 +4627,6 @@ http://highvolume03.streampartner.nl:1935/vleugels_hd5/livestream/playlist.m3u8
 
 #EXTINF:0 group-title="NL: Netherlands",NL: XITE TV 2 HD
 http://highvolume03.streampartner.nl:1935/vleugels_hd2/livestream/playlist.m3u8
-
-#EXTINF:0 group-title="PL: Poland",PL: DLA CIEBIE
-http://94.246.128.53:1935/tv/_definst_/dlaCiebieTv/playlist.m3u8
 
 #EXTINF:0 group-title="PL: Poland",PL: EVPATORIA TV
 http://evpatoriatv.cdnvideo.ru/li/pl.m3u8
@@ -2725,9 +4883,6 @@ http://82.76.40.76:80/utvedge/utvlive/playlist.m3u8
 #EXTINF:0 group-title="RU: Russia",RU: 1 OPT 1
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
 
-#EXTINF:0 group-title="RU: Russia",RU: 360
-https://out2.polyvizor.ru/str/ext_266/playlist.m3u8
-
 #EXTINF:0 group-title="RU: Russia",RU: 360 (1+)
 http://live-cdne13.cdnvideo.ru/cdne13/cdne13_new.sdp/playlist.m3u8
 
@@ -2956,6 +5111,9 @@ http://109.68.190.192:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
 #EXTINF:0 group-title="RU: Russia",RU: SOCHI LIVE TV HD
 http://live-maksmedia.cdnvideo.ru/maksmedia/test.sdp/playlist.m3u8
 
+#EXTINF:0 group-title="RU: Russia",RU: STRK
+http://sochi-strk.ru:1936/strk/strk.stream/playlist.m3u8
+
 #EXTINF:0 group-title="RU: Russia",RU: TBN
 http://109.68.190.192:1935/WEB_TBN/TBN.stream/playlist.m3u8
 
@@ -3033,9 +5191,6 @@ http://ktv026.cdnllnwnl.ds.kylintv.net/nlds/kylin/btv/as/live/btv_4.m3u8
 
 #EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: BN TV
 http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
-
-#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: CABLE TV
-http://202.173.216.8:1935/live/ch8/playlist.m3u8
 
 #EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: CHANNEL 2
 http://stream.rs.co.th/ch2-hi/index.m3u8
@@ -3229,14 +5384,26 @@ http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/783.ts
 #EXTINF:0 group-title="SP: Spain",SP: BARCA TV
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/734.ts
 
-#EXTINF:0 group-title="SP: Spain",SP: BEIN LA LIGA TV 1
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/747.ts
+#EXTINF:0 group-title="SP: Spain",SP: BEIN MAX 1 HD
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/744.ts
 
 #EXTINF:0 group-title="SP: Spain",SP: CALLE 13 HD
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/779.ts
 
+#EXTINF:0 group-title="SP: Spain",SP: CANAL 4
+https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w221845664.m3u8
+
+#EXTINF:0 group-title="SP: Spain",SP: CANAL DECASA
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/765.ts
+
 #EXTINF:0 group-title="SP: Spain",SP: CANAL EXTREMADURA
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
+
+#EXTINF:0 group-title="SP: Spain",SP: CANAL ORBE 21
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/764.ts
+
+#EXTINF:0 group-title="SP: Spain",SP: CANAL PANDA
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/758.ts
 
 #EXTINF:0 group-title="SP: Spain",SP: CANAL SUR FLAMENCO
 https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/chunklist_b2128000.m3u8
@@ -3325,9 +5492,6 @@ https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/index.m3u8
 #EXTINF:0 group-title="SP: Spain",SP: LA LIGA TV BAR
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/752.ts
 
-#EXTINF:0 group-title="SP: Spain",SP: LA OTRA
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
-
 #EXTINF:0 group-title="SP: Spain",SP: LA SXTA HD
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/804.ts
 
@@ -3387,9 +5551,6 @@ http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/741.ts
 
 #EXTINF:0 group-title="SP: Spain",SP: MULTIDEPORTES 2
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/740.ts
-
-#EXTINF:0 group-title="SP: Spain",SP: MULTIFUTBOLL 1
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/738.ts
 
 #EXTINF:0 group-title="SP: Spain",SP: NAT GEO HD
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/778.ts
@@ -4036,12 +6197,6 @@ http://1290922571.rsc.cdn77.org/movies/Bornova-TR-2009.mp4/playlist.m3u8
 #EXTINF:0 group-title="TR: Turkey",TR: BRATZ DANS PERILERI
 http://1290922571.rsc.cdn77.org/moviesnew/tr/animation/BratzDansPerileri.mp4/playlist.m3u8
 
-#EXTINF:0 group-title="TR: Turkey",TR: BRT 1
-http://wms.brtk.net:1935/live/brt1/playlist.m3u8
-
-#EXTINF:0 group-title="TR: Turkey",TR: BRT 2
-http://wms.brtk.net:1935/live/brt2/playlist.m3u8
-
 #EXTINF:0 group-title="TR: Turkey",TR: BU SON OLSUN
 http://1290922571.rsc.cdn77.org/movies/Bu-Son-Olsun-2012.mp4/playlist.m3u8
 
@@ -4263,6 +6418,9 @@ http://1290922571.rsc.cdn77.org/movies/Dokunmayin-Sabanima.mp4/playlist.m3u8
 
 #EXTINF:0 group-title="TR: Turkey",TR: DORT AYAKLI AFACAN
 http://1290922571.rsc.cdn77.org/movies/Dort-Ayakli-Afacan-2009-TR.mp4/playlist.m3u8
+
+#EXTINF:0 group-title="TR: Turkey",TR: DOST TV
+http://yayin.dosttv.com:1935/dosttv/dosttv2/playlist.m3u8
 
 #EXTINF:0 group-title="TR: Turkey",TR: DUGUN DERNEK
 http://1290922571.rsc.cdn77.org/movies/Dugun-Dernek.mp4/playlist.m3u8
@@ -5299,6 +7457,9 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
 #EXTINF:0 group-title="TR: Turkey",TR: TRT BELGESEL HD
 http://www.iptvsaga.com/play/tv3/0061.m3u8
 
+#EXTINF:0 group-title="TR: Turkey",TR: TRT BELGESEL (1+)
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+
 #EXTINF:0 group-title="TR: Turkey",TR: TRT COCUK (1+)
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 
@@ -5737,6 +7898,9 @@ http://cdn10.live-tv.od.ua:8081/odtrkzt/odtrkzt-abr/playlist.m3u8
 #EXTINF:0 group-title="UK: United Kingdom",UK: AL JAZEERA (1+)
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
+#EXTINF:0 group-title="UK: United Kingdom",UK: AL JAZEERA DOCUMENTARY (1+)
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+
 #EXTINF:0 group-title="UK: United Kingdom",UK: ANAIS 18 HD
 http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
 
@@ -5890,6 +8054,9 @@ https://cdn-01.bonus-tv.ru:8090/rtdoc/tracks-v3a1/mono.m3u8
 #EXTINF:0 group-title="UK: United Kingdom",UK: RTE 2
 http://akamai.rasset.ie/hls-live/_definst_/rte2/rte2-720.m3u8
 
+#EXTINF:0 group-title="UK: United Kingdom",UK: SAMA TV
+http://sama-tv.net:1935/live/samatv/playlist.m3u8
+
 #EXTINF:0 group-title="UK: United Kingdom",UK: SANGAT TV
 http://sangattv.flashmediacast.com:1975/live/livestream/playlist.m3u8
 
@@ -5907,15 +8074,6 @@ http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master
 
 #EXTINF:0 group-title="UK: United Kingdom",UK: TRT TURK
 http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
-
-#EXTINF:0 group-title="UK: United Kingdom",UK: TV8
-http://stream-01.sg1.dailymotion.com/dm/3/x6qud17/live.m3u8
-
-#EXTINF:0 group-title="UK: United Kingdom",UK: TV8 (1+)
-http://stream-01.sg1.dailymotion.com/dm/3/x6qud17/live-1.m3u8
-
-#EXTINF:0 group-title="UK: United Kingdom",UK: TV8 (2+)
-http://stream-01.sg1.dailymotion.com/dm/3/x6qud17/live-3.m3u8
 
 #EXTINF:0 group-title="UK: United Kingdom",UK: ZEE 24 GHANTA
 http://z5ams.akamaized.net/24ghanta/tracks-v1a1/index.m3u8
@@ -5938,23 +8096,20 @@ http://z5ams.akamaized.net/rajasthan/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="US: United States",US: 24-7 RETRO TV
 http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
 
-#EXTINF:0 group-title="US: United States",US: 30A TV
-http://30a-tv.com/my999.m3u8
-
 #EXTINF:0 group-title="US: United States",US: 360 NORTH
 http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
 
 #EXTINF:0 group-title="US: United States",US: ADULT SWIM LIVE STREAM
 http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8
 
+#EXTINF:0 group-title="US: United States",US: AL HURRA
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+
 #EXTINF:0 group-title="US: United States",US: AL JAZEERA TEST ENGLISH
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
 
 #EXTINF:0 group-title="US: United States",US: ALBANIAN TV OF
 http://stream.shqiptv.com:7080/altvusa/index.m3u8
-
-#EXTINF:0 group-title="US: United States",US: AMERICAN HORRORS
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
 #EXTINF:0 group-title="US: United States",US: ANIMAL PLANET
 http://80.80.160.168/live/1/live.m3u8
@@ -6042,9 +8197,6 @@ https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 
 #EXTINF:0 group-title="US: United States",US: CLASSIC TV 4U
 https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
-
-#EXTINF:0 group-title="US: United States",US: COLLIER TV
-http://granicusliveus4-a.akamaihd.net/collier/G0056_003/chunklist.m3u8
 
 #EXTINF:0 group-title="US: United States",US: COMBAT GO
 http://bcoveliveios-i.akamaihd.net/hls/live/632424/5725327446001_02/playlist.m3u8
@@ -6180,6 +8332,9 @@ http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo
 
 #EXTINF:0 group-title="US: United States",US: KEY TV
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+
+#EXTINF:0 group-title="US: United States",US: KOOL TV
+http://173.199.158.79:1935/roku/myStream/playlist.m3u8
 
 #EXTINF:0 group-title="US: United States",US: LA36
 http://granicusliveus6-a.akamaihd.net/la36/G0019_002/chunklist_w1442089063.m3u8
@@ -6445,6 +8600,9 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chun
 #EXTINF:0 group-title="WW: World Wide",WW: 324 ENTERTAINMENT ES SPANISH
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8
 
+#EXTINF:0 group-title="WW: World Wide",WW: AL AOULA
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
+
 #EXTINF:0 group-title="WW: World Wide",WW: ANHUI LIFESTYLE CH MANDARIN
 http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/ahtv/as/live/ahtv_4.m3u8
 
@@ -6510,903 +8668,4 @@ https://ua-tv-hls3.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 
 #EXTINF:0 group-title="WW: World Wide",WW: VULSAT TV
 http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
-
-#EXTINF:-1,Sevilla FC
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,Pinguino TV
-http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
-
-#EXTINF:-1,Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/K52brqr.png" group-title="MUSICA",Melody Channel (EU)
-http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hWMFLTh.png" group-title="MUSICA",Music Top (Argentina)
-http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg" group-title="ENTRETENIMIENTO",Telenord 12 (Rep. Dominicana)
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0028&mode=12
-
-#EXTINF:-1,Latinos:TV Chile
-http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
-
-#EXTINF:-1,CNN (Chile)
-http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
-
-#EXTINF:-1,NOTICIAS:CNN Chile
-http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s172053q.png" group-title="MUSICA", PortalFoxMix Tv
-http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8?JoCaRoIPTV.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Radio_5_Logo.svg/2000px-Radio_5_Logo.svg.png" group-title="MUSICA", RADIO 105 TV
-http://fms.105.net:1935/live/105Test1/livestream.m3u8?JoCaRoIPTV.m3u8
-
-#EXTINF:-1,TLX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
-
-#EXTINF:-1 tvg-logo="http://www.pazarlama30.com/wp-content/uploads/2016/04/2d5407b0a92d1b2e_600x400.jpg" tvg-group="MÚSICA", Virgin TV
-http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8?JoCaRoIPTV.m3u8
-
-#EXTINF:-1,Real Madrid TV HD
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
-
-#EXTINF:-1,SAT
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8
-
-#EXTINF:-1, HDFashion
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
-
-#EXTINF:-1,ETB Sat
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
-
-#EXTINF:-1,MILENIO TV
-http://bcoveliveios-i.akamaihd.net:80/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-
-#EXTINF:-1,EFECTO TV
-http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_4_av-p.m3u8
-
-#EXTINF:-1,Ocho TV
-http://bcliveuniv-lh.akamaihd.net:80/i/Live_1@170324/index_2200_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4_4lQS5_e0g/VmfAAPjGsgI/AAAAAAAAAjY/QCMhrAcZUYE/s1600/TEN.jpg" group-title="HONDURAS",TEN 10
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1248000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6xKwAuc.png" group-title="MEXICO",Capital 21 Mexico City
-http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ec/Canal_5_Honduras.png/revision/latest?cb=20180502195430" group-title="HONDURAS", Canal 5
-https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
-
-#EXTINF:-1,MTV (AZ)
-http://85.132.78.6:1935/live/muztv.stream/index.m3u8
-
-#EXTINF:-1,Music Choice Play
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-
-#EXTINF:0,Super 3
-http://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:c33_web/chunklist_b1296000.m3u8
-
-#EXTINF:-1,Andorra TV (Andorra)
-http://194.158.80.31:443/live/rtva/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/hn_si-tv_m.png" group-title="HONDURAS",Si TV
-http://st2.worldkast.com/8030/8030/Sitv-Honduras.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfGRniDsHkP8V0Q55uSLUjNHh4h-coBtHS9Pfg=s900-mo-c-c0xffffffff-rj-k-no" group-title="HONDURAS", EBENEZER HD
-http://hds4.worldkast.com:1935/ebenezertv2/ebenezertv2/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/f3JMNQ5VkadQ9RKEAfor0GqT215e5bN6HEi8Zzf5bvKbrP_PMZ0b2IgYjX0tJDCofAgc=s180" group-title="HONDURAS", VICTORY CHANNEL
-http://hls1.livestreamingcdn.com/livecdn780/myStream.sdp/playlist.m3u8
-
-#EXTINF:-1,Canal Once STD
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
-
-#EXTINF:-1,TVMas Veracruz
-http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
-
-#EXTINF:-1,TVMas Veracruz HD
-http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8
-
-#EXTINF:-1,324 Cataluña | SD
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
-
-#EXTINF:-1,Telemicro Canal 5 OPCION HD RD
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0005&mode=12
-
-#EXTINF:-1,Digital 15 RD
-http://bit.ly/2CLgJ6u
-
-#EXTINF:-1,Digital 15 RD Opcion 2
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0011&mode=12
-
-#EXTINF:-1,TV Más G67
-http://50.7.98.234:1935/rtv/videortv/playlist.m3u
-
-#EXTINF:-1,15 TV
-http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
-
-#EXTINF:-1,Bolivia 2 FTA
-http://streamer1.streamhost.org:1935/salive/GMIalfam/playlist.m3u8
-
-#EXTINF:-1,ENTRETENIMIENTO:Bolivia TV (Bolivia)
-http://api.new.livestream.com/accounts/10468276/events/3485826/live.m3u8
-
-#EXTINF:-1,DOMINICANA:CANAL 5
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0005&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESREPDOM.png
-
-#EXTINF:-1,Music Top (ARG)
-http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
-
-#EXTINF:-1,Canal 26 1
-http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,Canal 26 2
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,Canal 26 3
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,Nacional:Telemax
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-
-#EXTINF:-1,Nacional:Canal 4 Posadas
-http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
-
-#EXTINF:-1,BHTV
-http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8
-
-#EXTINF:-1,Congreso TV
-http://uvodscp-lh.akamaihd.net/i/exitosartmp_1@504435/master.m3u8
-
-#EXTINF:-1,Digital TV CH-1
-http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/index_1_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,News 12 NJ
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12NJ_CENTRAL
-
-#EXTINF:-1,News 12 Weather & Traffic
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NJ
-
-#EXTINF:-1,NOTICIAS:TV Noticias 7.3 (Peru)
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
-
-#EXTINF:-1,Canal BHtv
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,CANAL 6
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
-
-#EXTINF:-1,MUSICA:Power HD (Argentina)
-http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
-
-#EXTINF:-1,RTE News Now
-http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
-
-#EXTINF:-1,MUSICA:PortalFoxMix Tv
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,MUSICA:Music Top Argentina
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,MUSICA:California Music Channel
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
-
-#EXTINF:-1,MUSICA:Dream Tv
-http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,TV Más
-http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?tecnotv.info?iptv.m3u8?hermoso.m3u8?tecnotv.info?iptv.m3u8
-
-#EXTINF:-1,TELEMAR CAMPECHE
-http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
-
-#EXTINF:-1,TC HD COLOMBIA
-http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
-
-#EXTINF:-1,TC HD
-http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
-
-#EXTINF:-1,CILENCE TV
-http://109.236.85.100:8081/sipTV/live/playlist.m3u8?www.tecnotv.info
-
-#EXTINF:-1,TRAVEL HD
-http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
-
-#EXTINF:-1,RETRO MUSIC TV
-http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1652320907.m3u8
-
-#EXTINF:-1,NOTICIAS:CGTN 1
-https://livees.cgtn.com/1000e/prog_index.m3u8
-
-#EXTINF:-1,CHILE:Tv Senado 1 HD
-http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
-
-#EXTINF:-1,CHILE:Tv Senado 2 SD
-http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd
-
-#EXTINF:-1,ARGENTINA:TLX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,COLOMBIA:Canal Capital HD
-https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
-
-#EXTINF:-1,PERU:Canal Capital
-http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,MUSICA:M2o Tv
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,MUSICA:Xite
-http://highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8
-
-#EXTINF:-1,M2OTV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,MLB TV
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8
-
-#EXTINF:-1,group-title="Canales Italianos" Sky TG24 | SD
-http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
-
-#EXTINF:-1,telenord 8
-http://newyorkstreamss2.ddns.net:28987/telenord8/telenord8/chunklist_w588013183.m3u8
-
-#EXTINF:-1,BLOOMBERG
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-
-#EXTINF:-1,TELEMICRO
-http://2.bp.blogspot.com/-f7WYgLyTPZo/VZQWilXAw9I/AAAAAAAALv0/zKc8sNAkREw/s1600/telemicro%2Bviva.png",TELEMICRO
-
-#EXTINF:-1,telemundo
-http://freevectorlogo.net/wp-content/uploads/2011/06/telemundo-logo-vector-200x200.png"
-
-#EXTINF:-1,Telemundo
-http://vignette1.wikia.nocookie.net/inciclopedia/images/7/7a/Telemundo_tv_logo.png/revision/latest?cb=20071120204626,Telemundo
-
-#EXTINF:-1,TeleSafor | HD
-http://video.telesafor.com/hls/video_high.m3u8
-
-#EXTINF:-1,TG4
-http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-
-#EXTINF:-1,The Country Network
-https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
-
-#EXTINF:-1,The Travel Channel
-http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8
-
-#EXTINF:-1,Throwback
-http://i.imgur.com/BTiGp2B.png?tecnotv",Throwback
-
-#EXTINF:-1,Tisza TV
-http://www.tiszatv.hu:443/tiszatv.f4v
-
-#EXTINF:-1,Today
-http://i.imgur.com/BTiGp2B.png?tecnotv",Today
-
-#EXTINF:-1,Toddler
-http://i.imgur.com/BTiGp2B.png?tecnotv",Toddler
-
-#EXTINF:-1,Tr3ce
-http://vignette4.wikia.nocookie.net/logopedia/images/0/03/Canal_Tr3ce_HD.png/revision/latest?cb=20151214194315,Tr3ce
-
-#EXTINF:-1,TRO Soyuz
-http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-
-#EXTINF:-1,Tropicales
-http://i.imgur.com/BTiGp2B.png?tecnotv",Tropicales
-
-#EXTINF:-1,ATVHD
-http://85.132.81.184:8080/atv/index.m3u8
-
-#EXTINF:-1,Sky
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8
-
-#EXTINF:-1,TVN Nicaragua
-http://162.244.81.181:1935/live//Stream1/playlist.m3u8
-
-#EXTINF:-1,Ecuavisa
-http://elcanaldelfutbol.com/static/wowza/test/hls/20001/360p/playlist.m3u8
-
-#EXTINF:-1,Al Jazeera
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
-
-#EXTINF:-1,RAINEWS24
-http://b2.stream8.rai.it/live/smil%3Arnews1_android.smil/playlist.m3u8
-
-#EXTINF:-1,Syria News
-http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
-
-#EXTINF:-1, UMAGTV
-http://edge1.cl.grupoz.cl/itser4/tser4.sdp/chunklist_w638282256.m3u8
-
-#EXTINF:-1, EL PINGUINO TV
-http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1, SOBERANIA TV
-http://evo.eltelon.com:1935/live/soberania/chunklist_w1320335487.m3u8
-
-#EXTINF:-1, ROCCO TV
-http://evo.eltelon.com:1935/live/rocco-tv/chunklist_w1064108788.m3u8
-
-#EXTINF:-1,UA TV
-http://v3.tustreaming.cl/tvautonoma/live1/playlist.m3u8
-
-#EXTINF:-1,TV B
-https://593b04c4c5670.streamlock.net/8134/8134/chunklist_w1803894255.m3u8
-
-#EXTINF:-1, TELECARIBE DEPORTES
-http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
-
-#EXTINF:-1, TELEMUNDO
-http://6bc79edb.ulkakak.pw/iptv/CHPLNSPSC3DXKY/1080/index.m3u8
-
-#EXTINF:-1, TVP ARGENTINA
-https://stream.solumedia.com.ar/c11/myStream/playlist.m3u8
-
-#EXTINF:-1,  NET TV
-https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8
-
-#EXTINF:-1, CN 3
-http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.lbschools.net/Asset/Images/OMS/edTV.png" group-title="CHILE",ED Tv
-https://593b04c4c5670.streamlock.net/8070/8070/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/5muDweJ.png" group-title="CHILE",Maxima Tv HD
-http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8?xtreamiptv.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_cnnchile.png/600px-Logo_cnnchile.png" group-title="CHILE",CNN
-http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8?iptvgratis?chile.m3u8?xtreamiptv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jcGbgZc.png" group-title="CHILE",Chilevision
-http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8?xtreamiptv.m3u8
-
-#EXTINF:0 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/bolivia-deportes.png?fit=500%2C300" group-title="DEPORTES",Bolivia Deportes
-http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1392318959/logo_cdo.png" group-title="DEPORTES",CDO Basico
-http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8?xtreamiptv.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/b27Bk9b.png" group-title="DEPORTES",Real Madrid TV HD
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?xtreamiptv.m3u8
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/3GIGy3P.png" group-title="DEPORTES",Sevilla FC
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?xtreamiptv.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/250px-Fox_Sports_Logo.svg.png" group-title="DEPORTES" ,Fox Sports Racing
-http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/russel/images/3/3f/ESPN_2_Logo.png/revision/latest?cb=20180812071744" group-title="DEPORTES" ,ESPN 2 USA
-http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-fmwFOCSFHRE/WVbriBZ6nLI/AAAAAAAAOYc/nyadJ4Lj610PGkyVW3uJNNTxkmtlt5xiQCLcBGAs/s320/ALL%2BSports.png" group-title="DEPORTES",All Sports
-http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?xtreamiptv.m3u8
-
-#EXTINF:-1 tvg-logo="https://mlblogsjoefrisaro.files.wordpress.com/2010/03/mlbnetwork.png" group-title="DEPORTES",MLB Network
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8?xtreamiptv.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_37194.png" group-title="AUTOS", Garage TV
-http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8?xtreamiptv.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hr/thumb/b/b0/Fashion_tv.png/120px-Fashion_tv.png" group-title="MODA", Fashion Tv
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/ua/HDFL.png" group-title="MODA",HD Fashion
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
-
-#EXTINF:-1 tvg-logo="http://images.lacarmina.com/homepage/content/publishers_travel.png" group-title="CULTURA",Travel HD
-http://31.13.223.104:1935/travel/community.stream/playlist.m3u8?xtreamiptv.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="CULTURA",NASA Space Station 1
-http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8?xtreamiptv.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="NOTICIAS", DW Latino
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?xtreamiptv.m3u8
-
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/509_300.png" group-title="NOTICIAS",CGTN 1
-https://livees.cgtn.com/1000e/prog_index.m3u8?xtreamiptv.m3u8
-
-#EXTINF:-1 tvg-logo="http://haber.sol.org.tr/sites/default/files/styles/newsimagestyle_615x410/public/20110201141238cnn_turk_logosu.png" group-title="NOTICIAS",CNN Turkia
-http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8?xtreamiptv.m3u8
-
-#EXTINF:-1,Canal 9 Salta
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,Entretenimiento:Wow TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
-
-#EXTINF:-1,[COLOR WHITE] [/COLOR] NICK_JR
-http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
-
-#EXTINF:-1,CULTURA:Silence TV
-http://bit.ly/2wxlPQD
-
-#EXTINF:-1,PIGUINO TV HD
-http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
-
-#EXTINF:-1,CANAL WOW
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
-
-#EXTINF:-1,WOW TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
-
-#EXTINF:-1,PortalFoxMix Tv
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="IZZI",NICK
-http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
-
-#EXTINF:-1,COLOMBIA Canal CNC Medellin | SD
-http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
-
-#EXTINF:-1 tvg-logo="https://gfx.videobuster.de/archive/v/cwiIRYplRhEAbg_kzaC5YDAcz0lMkawqCUyRqglMkZpbWGZJTJGanBlZyUyRmIwZt3ZMmExYTRlYmTy6_AxZGKpNWNmZDFlLmpwZyZyPXfvOA/prometheus.jpg" group-title="MOVIES",Prometeus 2012 HD
-https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/55/b1/f9/55b1f928966e3936dc58d91f6a6662e5.jpg" group-title="MOVIES",Interstellar
-https://archive.org/download/Interstellar20014PelixMax/Interstellar%20(2014).mp4
-
-#EXTINF:-1 tvg-logo="http://bucket1.clanacion.com.ar/anexos/fotos/cartelera/mi-villano-favorito-3-3d-c_7856_poster2.jpg" group-title="MOVIES",Mi Villano Favorito 3 HD
-https://archive.org/download/VillanoTercero2017/Villano%20Tercero%202017.mp4
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/8b/14/80/8b14802f53d2cb5b5dd25e58c210f135--transformers--transformers-the-last-knight-poster.jpg" group-title="MOVIES",Transformers: el último caballero
-https://archive.org/download/Saldelclosetcaabllero2017/Saldelclosetcaabllero2017.mp4
-
-#EXTINF:-1 tvg-logo="http://www.tangodiscos.com.co/sites/default/files/7707334658640.jpg" group-title="MOVIES" group-title="MOVIES",Los Ilusionistas
-https://ia601907.us.archive.org/25/items/Los.Ilusionistas/Los.Ilusionistas.mp4
-
-#EXTINF:-1 tvg-logo="https" group-title="MOVIES",Cars 2
-https://ia800801.us.archive.org/30/items/MilOchoMil005/MilOchoMil_005.mp4
-
-#EXTINF:-1 tvg-logo="https" group-title="MOVIES",Alicia En El Pais de Las Maravillas
-https://ia800809.us.archive.org/16/items/MilOchoMil001/MilOchoMil_001.mp4
-
-#EXTINF:-1 tvg-logo="https" group-title="MOVIES",VALERIAN Y LA CIUDAD DE MIL PLANETAS
-https://ia800803.us.archive.org/21/items/ValeSRREGIO/ValeSRREGIO.mp4
-
-#EXTINF:-1 tvg-logo="https" group-title="MOVIES",ATOMICA
-https://ia800101.us.archive.org/27/items/AtoSRRegio/AtoSRRegio.mp4
-
-#EXTINF:-1 tvg-logo="https" group-title="MOVIES",La Momia
-https://ia600801.us.archive.org/23/items/CalaveraTieneHambre/calavera%20tiene%20hambre.mp4
-
-#EXTINF:-1 tvg-logo="https" group-title="MOVIES",HUYE GET OUT
-https://ia800803.us.archive.org/14/items/Cheverefans0012017/cheverefans%200012017.mp4
-
-#EXTINF:-1 tvg-logo="https" group-title="MOVIES",STRIPTEASE
-https://ia800803.us.archive.org/22/items/Cheverefans0032017.mkv/Cheverefans%200032017.mkv.mp4
-
-#EXTINF:-1 tvg-logo="https" group-title="MOVIES",Bambi
-https://ia800804.us.archive.org/12/items/MilOchoMil003/MilOchoMil_003.mp4
-
-#EXTINF:-1 tvg-logo="https" group-title="MOVIES", ESPIA POR ACCIDENTE
-http://discontrol@media-es-am.crackle.com/1/_/d0/5jmyk_480p_1mbps.mp4
-
-#EXTINF:-1 tvg-logo="https" group-title="MOVIES", FISTA DE BODAS
-http://discontrol@media-es-am.crackle.com/1/m/h0/lcjyk_480p_1mbps.mp4?disco
-
-#EXTINF:-1 tvg-logo="https" group-title="MOVIES",  HALLOWEN
-http://discontrol@media-es-am.crackle.com/1/r/v0/dpoyk_480p_1mbps.mp4?disco
-
-#EXTINF:-1 tvg-logo="https" group-title="MOVIES", HERMANOS GRIMM
-http://discontrol@media-es-am.crackle.com/1/c/r0/9qhyk_480p_1mbps.mp4
-
-#EXTINF:-1 tvg-logo="https" group-title="MOVIES",ILUCIONISTA
-http://discontrol@media-es-am.crackle.com/1/o/j0/zghyk_480p_1mbps.mp4
-
-#EXTINF:-1 tvg-logo="https" group-title="MOVIES",IMPACTO MORTAL
-http://discontrol@media-es-am.crackle.com/1/v/f0/h7gyk_480p_1mbps.mp4
-
-#EXTINF:-1 tvg-logo="https" group-title="MOVIES",LA PANTERA ROSA
-http://media-es-am.crackle.com/1/t/f0/cjkyk_480p_1mbps.mp4?
-
-#EXTINF:-1 tvg-logo="https" group-title="MOVIES",SACRIFICIO
-http://discontrol@media-es-am.crackle.com/1/s/f0/9ikyk_480p_1mbps.mp4?
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/y5ubgda2yge72wy/un%20perdedor.jpg" group-title="MOVIES",UN PERDEDOR SIN SUERTE
-http://media-es-am.crackle.com/1/b/_0/qkpyk_480p_1mbps.mp4?
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/hfwvm6r4yx3gj1s/unvuelo.jpg" group-title="MOVIES",UN VUELO DE LOCURA
-http://discontrol@media-es-am.crackle.com/1/q/f0/ylkyk_480p_1mbps.mp4
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/mc74itm3ibvi3ef/robocop.jpg" group-title="MOVIES",ROBOCOP DEFENSOR DEL FUTURO
-http://media-es-am.crackle.com/1/t/n0/wohyk_480p_1mbps.mp4
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/ajlzgd3c8t4ai2w/zona%20de%20miedo.jpg" group-title="MOVIES", ZONA DE MIEDO
-http://media-es-am.crackle.com/1/w/h0/qdjyk_480p_1mbps.mp4
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/pyikxp92lwce7jz/daniel.jpg" group-title="MOVIES", DANIEL EL TRAVIESO (CLASICA)
-https://ia800605.us.archive.org/3/items/31052017_201705678678687687/31052017.mp4
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/19pm1z4zr8if9gh/deadpool.jpg" group-title="MOVIES",Deadpool
-https://ia800108.us.archive.org/24/items/DeSRREGIO_201802/DeSRREGIO.mp4
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/puuppo3e30bknzg/civilwar.jpg" group-title="MOVIES",Civil War
-https://ia800103.us.archive.org/23/items/CiWaSRREGIO/CiWaSRREGIO.mp4
-
-#EXTINF:-1 tvg-logo="https://lasentinel.net/wp-content/uploads/sites/5/2017/11/ENT-Mudbound_IMG-2.jpg", Mudbound |
-http://srregio.xyz/mudbound
-
-#EXTINF:-1 tvg-logo="https://www.elmulticine.com/imagenes/carteles/7/inside-cartel-b.jpg", Terror en la Oscuridad CAST |
-http://srregio.xyz/insidecast
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/teaser-trailer.com/wp-content/uploads/The-Cured-Philippines-poster.jpg?ssl=1", The Cured |
-http://srregio.xyz/thecure
-
-#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/r_1280_720/medias/nmedia/18/66/99/88/20350578.jpg", Los Extranos |
-http://regiotv.xyz/losextranos
-
-#EXTINF:-1 tvg-logo="https://dld73rc7kvi9r.cloudfront.net/cineimage/poster/large/banner-5857152831507565202.jpg", Hasta Pronto Christoper Robin |
-http://regiotv.xyz/christoperrobin
-
-#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/86/21/14/19828283.jpg", Talento De Barrio | T
-http://regiotv.xyz/talentodebarrio
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QhVGoY0iE7o/WlO7gegXBkI/AAAAAAAACHs/VM5rexxAYVUhfula67f7r7gpOuq_6akIgCLcBGAs/s1600/Mom%2BAnd%2BDad.jpg", Mom & Dad SUB |
-http://regiotv.xyz/momanddad
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QhVGoY0iE7o/WlO7gegXBkI/AAAAAAAACHs/VM5rexxAYVUhfula67f7r7gpOuq_6akIgCLcBGAs/s1600/Mom%2BAnd%2BDad.jpg", Mom & Dad |
-http://regiotv.xyz/momanddadLAT
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/24_horas_para_vivir.jpg", 24hrs Para Sobrevivir SUB |
-http://regiotv.xyz/24hrssobrevivir
-
-#EXTINF:-1 tvg-logo="http://style.shockvisual.net/wp-content/uploads/2018/04/pesadilla.jpg", Pesadilla Siniestra |
-http://regiotv.xyz/pesadillasiniestra
-
-#EXTINF:-1 tvg-logo="http://fdzeta.com/subir/images/jLGYP.jpg", Todo Poderoso |
-https://bit.ly/2GajoTS
-
-#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/14/03/04/12/57/369750.jpg", American Pie |
-https://bit.ly/2KS5ucG
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/95/6e/17/956e17f1164ebb2a6d9a95e6a89f4041.jpg", La Leyenda de la Nahuala |
-https://bit.ly/2wBzaYz
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-nFLhtyQDFR4/Vux-PnZCpZI/AAAAAAAAirU/F3mcY7HNSn067Zy3LkRDonZbjMMM3GxkQ/s00/Que_Culpa_Tiene_el_Ni%25C3%25B1o_Poster_JPosters.jpg", Que Culpa Tiene el Nino |
-https://bit.ly/2wBG4x8
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/cdn.cinepapaya.com/stat/img/static-cp/cine/movietranslation/3-idiotas-poster-1494884216.jpg?resize=692%2C1024&ssl=1", 3 idiotas |
-http://srregio.xyz/regioflix/3idiotas
-
-#EXTINF:-1 tvg-logo="http://www.cailegdl.com/wp-content/uploads/2018/03/red_sparrow_poster.jpg", Operacion Red Sparrow |
-http://regiotv.xyz/regioflix/redsparrow
-
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-0dx-Z5jsVyw/Ws5bDjzstgI/AAAAAAAAoq0/Cbhps_UNSJQN_dBN7i16qSUUuH2PWjiMQCLcBGAs/s1600/Anon_Poster_UK_JPosters.jpg", Anon |
-http://srregio.xyz/regioflix/anon
-
-#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/592f3443db29d6c96a19b5dc/t/59f10287b7411c32b423485c/1508967068270/Samson.png", Samson |
-http://srregio.xyz/regioflix/samson
-
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-C2P_LCyOn6Q/WjJGd2Z-JZI/AAAAAAAAaiU/RU9mzczQwWgHFqvl__LPSRH9gn5yYsW4ACLcBGAs/s1600/1517%2Btres%2Ba%2Bparis.jpg", 15:17 Tren a Paris |
-http://srregio.xyz/regioflix/trenaparis
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5MjQ0OTA4OF5BMl5BanBnXkFtZTcwNTkxODYyOQ@@._V1_UY268_CR3,0,182,268_AL_.jpg", Nosotros Los Nobles |
-https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
-
-#EXTINF:-1 tvg-logo="http://www.joblo.com/posters/images/full/cloverfield-3-poster-xl.jpg", The Cloverfield Paradox |
-https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
-
-#EXTINF:-1 tvg-logo="https://cdn.traileraddict.com/content/vertical-entertainment/terminus-poster.jpg", Terminus |
-https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gh9OaWVcL.jpg", Deadpool |
-https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.proximosestrenos.com.ar/wp-content/uploads/2015/04/poster-intensamente.jpg", Intensamente |
-https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/10/jigsaw-poster.jpg", JIGSAW VIII |
-https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
-
-#EXTINF:-1 tvg-logo="https://larryfire.files.wordpress.com/2016/09/18.jpg", Doctor Strange |
-https://ia801505.us.archive.org/11/items/dsSRREGIO/dsSRREGIO.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg", Redada Asesina |
-https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
-
-#EXTINF:-1 tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg", SAW VIII SUBTITULADO |
-https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
-
-#EXTINF:-1 tvg-logo="https://cdn.cinematerial.com/p/297x/i38iqtjb/konvert-russian-movie-poster-md.jpg", Konvert SUBTITULADO |
-https://archive.org/download/KonSRREGIO/KonSRREGIO.mkv
-
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/e3/be/cf/e3becf68be3b70267da3bc3def5ed075.jpg", Civil War |
-https://archive.org/download/CiWaSRREGIO/CiWaSRREGIO.mkv
-
-#EXTINF:-1 tvg-logo="http://multianime.com.mx/wp-content/uploads/2017/06/melanie-zombie-jpg.jpg", Melanie Apocalipsis Zombie |
-https://archive.org/download/meapzoSRRREGIO/meapzoSRRREGIO.mkv
-
-#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/doblaje/images/b/b3/Fragile-2.jpg/revision/latest?cb=20131104070609&path-prefix=es", Fragiles |
-https://archive.org/download/FraSRREGIO/FraSRREGIO.mkv
-
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/a2/5f/28/a25f2804fc990551b81458dc2c261140.jpg", Atomica |
-https://archive.org/download/AtoSRRegio/AtoSRRegio.mkv
-
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/gam_man_da_song_si-869494436-large.jpg", Zombiology |
-https://archive.org/download/Zy.SRREGIO/Zy.SRREGIO.mkv
-
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/house_of_the_witch_night_of_the_witch_tv-754308582-large.jpg", La Noche de la Bruja |
-https://archive.org/download/howibr.SRREGIO/h0us3.0f.th3.w1tch.SRREGIO.mkv
-
-#EXTINF:-1 tvg-logo="http://cdn.bloody-disgusting.com/wp-content/uploads/2016/08/ouija_two_ver4_xlg.jpg", Quija |
-https://archive.org/download/quiSRREGIO/quiSRREGIO.mkv
-
-#EXTINF:-1 tvg-logo="https://images.moviepilot.com/images/c_limit,q_auto:good,w_600/gr7omjwa0gueamswfgbc/jeepers-creepers-3-poster-revealed-but-are-the-fan-posters-better.jpg", Jeepers Creepers 3 |
-https://archive.org/download/JeeCre3SRREGIO/JeeCre3SRREGIO.mkv
-
-#EXTINF:-1 tvg-logo="http://www.aytojaen.es/portal/RecursosWeb/IMAGENES/1/0_16765_1.jpg", Valerian y la ciudad de los mil planetas |
-https://archive.org/download/ValeSRREGIO/ValeSRREGIO.mkv
-
-#EXTINF:-1 tvg-logo="https://imagessl6.casadellibro.com/m/ig/6/2650976.jpg", El Rostro De Un Angel |
-https://archive.org/download/angelSRREGIO/el.rostro.de.un.angelSRREGIO.mkv
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5NTE5OTI2MV5BMl5BanBnXkFtZTgwNzc1NzY1NDE@._V1_.jpg", Una Loca Pelicula de The Walking Dead |
-https://archive.org/download/DocumentalZombieSRREGIO/The%20Walking%20DeadSRREGIO.mkv
-
-#EXTINF:-1 tvg-logo="http://www.miracine.com/imagenes/peliculas/Sangre-por-sangre.jpg", Sangre por Sangre |
-https://archive.org/download/54n6r3.SrRegio/Sangre.por.Sangre.SrRegio.mp4
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/09/06/11/27/0502981.jpg", Wheelman |
-https://archive.org/download/96352487.SRREGIO.NET/96352487.SRREGIO.NET.mp4
-
-#EXTINF:-1 tvg-logo="http://www.dreadcentral.com/wp-content/uploads/2016/03/amityville_the_awakening.jpg", Amytiville El Despertar |
-https://archive.org/download/4w4k3n1ng.SRREGIO/4w4k3n1ng.SRREGIO.mkv
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/L.O.R.D_Legend_of_Ravaging_Dynasties_poster.jpeg", L.O.R.D The Legend Of Ravaging Dynasties |
-https://archive.org/download/L.SRREGIOt/L.SRREGIOt.mkv
-
-#EXTINF:-1 tvg-logo="https://imgc.allpostersimages.com/img/print/posters/remember-the-titans_a-G-8032900-0.jpg", Duelo de Titanes |
-https://archive.org/download/dudtitSRREGIO/Duelo%20de%20Titanes.SRREGIO.mkv
-
-#EXTINF:-1 tvg-logo="http://photos1.blogger.com/blogger/3339/858/1600/rv_bigreleaseposter.jpg", Locas Vacaciones Sobre Ruedas |
-https://archive.org/download/PacruedSRREGIO.NET/PacruedSRREGIO.NET.mkv
-
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-8liUO6T7xKk/WN6efg85dzI/AAAAAAAAT6k/lpWPvh7Bkogfe6YzYKSzuvaFWcUjqjVIwCK4B/s1600/17492367_1249808975105083_2074598002289798083_o.jpg", Annabelle La Creacion |
-https://archive.org/download/4nnSRREGIO.NET/4nnSRREGIO.NET.mkv
-
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/61/55/32/61553207d1d9594c8d0313fcdd145d63.jpg", Colors CASTELLANO |
-https://archive.org/download/SRREGIO.NETColores/Cos.7p.CAS.avi.mp4
-
-#EXTINF:-1 tvg-logo="https://movierob.files.wordpress.com/2017/04/get-out.jpg?w=203&h=300", Huye |
-https://ia601500.us.archive.org/27/items/Cheverefans0012017/cheverefans%200012017.mp4?null=
-
-#EXTINF:-1, Capital 21 CDMX
-http://23.227.189.81/ciudadtv/abr_ciudadtv/playlist.m3u8
-
-#EXTINF:-1,CULTURA:CGTN Documentary
-http://live.cgtn.com/cctv-d.m3u8
-
-#EXTINF:-1,NOTICIAS:CGTN 2
-http://live.cgtn.com/cctv-e.m3u8
-
-#EXTINF:-1,CHILE:CHV 1 HD
-http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,CHILE:CHV 4 SD
-http://live.hls.http.chv.ztreaming.com/chvhdtablet/chv-tablet.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,COLOMBIA:Canal Capital HD
-http://us-b2-p-e-sx6.cdn.mdstrm.com/live-stream/57d01d6c28b263eb73b59a5a/publish/media_500.m3u8?dnt=true&es=us-b2-p-e-sx6.cdn.mdstrm.com&ote=1506105524968&ot=PhcZX6iEf6naqlTvLiSrJA&proto=http
-
-#EXTINF:-1,MTV LIVE
-http://189.216.247.113/Content/HLS/Live/Channel(MTV_Live_HD)/index.m3u8
-
-#EXTINF:-1,MEXICO:Ocho Tv
-http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/index_2200_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,EspaÒa:Teleformula
-http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-
-#EXTINF:-1,Chileiptv:La Pintana TV
-http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8
-
-#EXTINF:-1,Chileiptv:CampusTv
-http://unlimited6-cl.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
-
-#EXTINF:-1,Chileiptv:—uble Tv
-https://593b04c4c5670.streamlock.net:443/tvdaniel/tvdaniel/playlist.m3u8
-
-#EXTINF:-1,Chileiptv:Genial Tv
-http://v3.tustreaming.cl/genialtv/live1/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Chileiptv:INT NHK Japan
-https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
-
-#EXTINF:-1,DIGITAL PERU TV
-http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/master.m3u8
-
-#EXTINF:-1,TELEMEDELLIN
-http://level3itvo.cdnar.net/itvmedia/14/1/channel_000.m3u8
-
-#EXTINF:-1,24/7 Noticias
-http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
-
-#EXTINF:-1,BRAZIL:Aperipe TV
-http://wz-brasil1.comets.com.br/tvaperipe/aovivo/playlist.m3u8
-
-#EXTINF:-1,BRAZIL:E-Parana
-http://200.189.113.201/hls/tve.m3u8
-
-#EXTINF:-1,BRAZIL:RecordTV Espirito Santo
-http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
-
-#EXTINF:-1,BRAZIL:TVE Rio Grande do Sul (Opt-2)
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-
-#EXTINF:-1,BRAZIL:TV Brasil Animada
-http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
-
-#EXTINF:-1,BRAZIL:TV Gazeta
-http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
-
-#EXTINF:-1,ARGENTINA:America HD
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-
-#EXTINF:-1,Tv Man·
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0117
-
-#EXTINF:-1,Canal U CORDOBA
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0118
-
-#EXTINF:-1,UN3
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0064
-
-#EXTINF:-1,DW
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0015
-
-#EXTINF:-1,CGTN EspaÒol
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0011
-
-#EXTINF:-1,ST Santa Fe:5RTv - CTV - Recreo - ST Santa Fe
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0193
-
-#EXTINF:-1,ME Mendoza:Acequia - 29.1TV - Mendoza  TV - ME Mendoza
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0158
-
-#EXTINF:-1,AR:LU82 Canal 10 - 43.1TV - Mar del Plata TV - BA Buenos Aires
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089
-
-#EXTINF:-1,AR:Play - 98.1 TV - Marcos Juarez - CO Cordoba
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0128
-
-#EXTINF:-1,9 TV - Paran· - ER Entre Rios
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0144
-
-#EXTINF:-1,5RTv RECREO SANTA FE
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0200
-
-#EXTINF:-1,CANAL 2 de Jujuy
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0151
-
-#EXTINF:-1,ARGENTINA:TECtv
-http://lsd2-latam.secure2.footprint.net/hls-live/streamroot_lsd2latam-tectv/_definst_/live.m3u8
-
-#EXTINF:-1,PERU:Digital TV 2
-http://uvodscp-lh.akamaihd.net:80/i/ped002rtmp_1@460476/index_1_av-p.m3u8
-
-#EXTINF:-1,PERU:Radio San Borja 91.1 FM Lima
-https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
-
-#EXTINF:-1,NRJ HITS TV Live
-http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,U TV Live
-http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,Radio Polar Tv
-http://evo.eltelon.com:1935/live/archi-polar/playlist.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,Radio Pop
-http://s6.jcwebnew.com:7320/stream
-
-#EXTINF:-1,Hotmixradio 80¥S
-http://streaming.hotmix-radio.net/hotmixradio-80-128.mp3
-
-#EXTINF:-1,Holvoet Copiapo
-http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8?
-
-#EXTINF:-1,VTV Valle de Aconcagua
-http://cdn.streamingmedia.cl:1935/live/vtv2//livestream1/playlist.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,RTV Vida
-http://178.32.53.254/radiovida/mobile/chunklist_w1681702694.m3u8
-
-#EXTINF:-1,TNE Tv
-http://video.crearchile.info:8080/live/tnetv1/playlist.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,El Mesias Tv
-http://server120416w1.a1network.net:1935/elmesias/elmesias.sdp/playlist.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,Tv Cret
-http://radiocret.net:1935/live/tvcret.sdp/playlist.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,Enlace Juvenil
-http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,Comunion TV
-http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,CTNi
-http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,RTV
-http://178.32.53.254/radiovida/mobile/playlist.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,CHILE:Pandero Music
-http://evo.eltelon.com:1935/panderocl/smil:panderocl.smil/chunklist_w229718808_b1936705.m3u8
-
-#EXTINF:-1,Latinos:TLX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?Latinos.m3u8
-
-#EXTINF:-1,Latinos:CNN
-http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L1AkNUo.jpg" group-title="CHILE",VC Online HD
-https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ctn2B3v.png" group-title="CHILE",31 Tendencias Prime
-https://v3.tustreaming.cl/tendenciastv/live1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png" group-title="ARGENTINA",America SD
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/Promar_tv_Venezuela.jpg" group-title="VENEZUELA",Promar TV
-http://vpn58.hdtv.lorini.net/promar/promar/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Y9BkR86cEgMjBCHqPjBXdW7D_Lw5hmw5nkURoCh6bLqjAiD57JnmqwGS6FfVQNiytWk=h310" group-title="ECUADOR",Centro Ecuador
-http://unsecure.streann.com/loadbalancer/services/public/channels/57cef28b2cdc6843385b86ce/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/06/Radio-Hechos-Ecuador.jpg" group-title="ECUADOR",Hechos Ecuador
-http://37.187.7.106/hechostv/live.m3u8
-
-#EXTINF:-1  tvg-logo="http://www.rpcradio.com/images/a/logo-rpcradio.png" group-title="PANAMA",RPC Radio
-http://cdnlive.medcom.com.pa/rpcradio/source/chunks.m3u8
-
-#EXTINF:-1  tvg-logo="http://images.telemetro.com/radio/Especial-Telemetro-Radio_MEDDIR20160128_0004_47.jpg" group-title="PANAMA",Telemetro Radio
-http://cdnlive.medcom.com.pa/tmradio/source/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/bhj6YkMyoHo/hqdefault.jpg" group-title="DOMINICAN REP",MicroVision Canal 10
-http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
-
-#EXTINF:-1 tvg-logo="http://yusnaby.com/wp-content/uploads/tvmarti.jpg" group-title="CUBA", Tv Marti
-http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1  tvg-logo="http://i.imgur.com/SYPYeHt.jpg" group-title="BRAZIL",Cine+
-http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
-
-#EXTINF:-1  tvg-logo="http://listaiptvbrasil.com/logos/recordtv.png" group-title="BRAZIL",RecordTV Mozambique
-http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
-
-#EXTINF:-1  tvg-logo="http://s23.postimg.org/bxsx521vv/download.png" group-title="BRAZIL",Rede Minas
-http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/HFyrVaS.png" group-title="HAITI",Radio TeleBoston
-http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="http://sbgi.net/wp-content/uploads/2015/11/comet-logo.jpg" group-title="USA",Comet TV (Geo)
-http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
-
-#EXTINF:-1  tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/c7/54/1a/c7541a96a5381202932406956ac33206.jpg" group-title="MUSICA",Metal TV
-http://autopilot.myowntv.org/content/33816/index.m3u8
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/xBgH1Tw.jpg" group-title="RADIOTV",Maxima Radio y Videos
-http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
-
-#EXTINF:0 tvg-logo="http://www.radiocandela.cl/website/templates/common/images/candela-logo-2017.png" group-title="RADIOTV",Candela Tv
-http://unlimited1-cl.dps.live/candelatv/candelatv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/mqdefault_zpsdijxexti.jpg" group-title="RADIOTV", Radio La Clave Tv
-http://unlimited5-cl.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://files.csvrenca.webnode.cl/200001127-92f9593f5c/Radio-Cooperativa.jpg" group-title="RADIOTV", Radio Cooperativa Tv
-http://unlimited1-cl.dps.live/coopetv/coopetv.smil/playlist.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:0 tvg-logo="http://us0-cdn.onlineradiobox.com/img/logo/8/3228.v3.png" group-title="RADIOTV",Radio Camila Tv
-http://190.107.176.55:1935/live/archi-camila/chunklist_w555256191.m3u8
-
-#EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4835/square_150x150-2.jpg" group-title="RADIOTV",Radio Agricultura Tv
-https://unlimited1-cl.dps.live/921tv/921tv.smil/921tv/livestream1/chunks.m3u8
+#EXTM3U
