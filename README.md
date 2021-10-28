@@ -177,5 +177,53 @@ https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
 #EXTINF:0,Wanasah (1080p)
 #EXTVLCOPT:network-caching=1000
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:NewRelease From Said_Lachheb_server
+http://www.deadlyblogger.com/NewRelease/nonstop2014.mp4
+#EXTINF:NewRelease From Said_Lachheb_server
+http://cdnvod.setv.ca/hls/Annabelle.2.Creation.2017.720p.BluRay.H264.AAC-RARBG.mp4/master.m3u8
+#EXTINF:NewRelease From Said_Lachheb_server
+https://archive.org/download/GodzillaMonsterPlanet/Godzilla%20Monster%20Planet.mp4
+#EXTINF:NewRelease From Said_Lachheb_server
+http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8
+#EXTINF:NewRelease From Said_Lachheb_server
+http://deadlyblogger.com/NewRelease/wonderwoman.mp4
+#EXTINF:NewRelease From Said_Lachheb_server
+https://archive.org/download/AlmostChristmas20161080pRemux/Almost%20Christmas%20(2016)%201080p%20Remux.mp4
+#EXTINF:NewRelease From Said_Lachheb_server
+https://ia601501.us.archive.org/22/items/LaMaravillasDeLaVida201702/LaMaravillasDeLaVida2017_02.mp4
+#EXTINF:NewRelease From Said_Lachheb_server
+https://archive.org/download/NocturnalAnimals20161080pRemux/Nocturnal%20Animals%20(2016)%201080p%20Remux.mp4
+#EXTINF:NewRelease From Said_Lachheb_server
+http://deadlyblogger.com/NewRelease/rogue1.mp4
+#EXTINF:NewRelease From Said_Lachheb_server
+https://archive.org/download/RulesDontApply20161080pRemux/Rules%20Dont%20Apply%20(2016)%201080p%20Remux.mp4
+#EXTINF:NewRelease From Said_Lachheb_server
+http://deadlyblogger.com/NewRelease/xmen2016.mp4
+#EXTINF:NewRelease From Said_Lachheb_server
+https://archive.org/download/Home.2015.720p.YIFYTopArchive.IR/Home.2015.720p.YIFY_TopArchive.IR.mp4
+#EXTINF:NewRelease From Said_Lachheb_server
+http://deadlyblogger.com/NewRelease/hateful2015.mp4
+#EXTINF:NewRelease From Said_Lachheb_server
+https://archive.org/download/TheTransporterRefueled20151080pBluRayX264DTSJYK/The%20Transporter%20Refueled%202015%201080p%20BluRay%20x264%20DTS-JYK.mp4
+#EXTINF:NewRelease From Said_Lachheb_server
+http://www.deadlyblogger.com/NewRelease/haunted2.mp4
+#EXTINF:NewRelease From Said_Lachheb_server
+https://archive.org/download/BuckWild2013720p/Buck.Wild.2013.720p.BluRay.x264.YIFY.mp4
+#EXTINF:NewRelease From Said_Lachheb_server
+https://archive.org/download/FreeFall2014720p/Free%20Fall%20(2014)%20720p.mp4
+#EXTINF:NewRelease From Said_Lachheb_server
+http://deadlyblogger.com/NewRelease/getonup.mp4
+#EXTINF:NewRelease From Said_Lachheb_server
+http://deadlyblogger.com/NewRelease/guardians2014.mp4
+#EXTINF:NewRelease From Said_Lachheb_server
+http://deadlyblogger.com/NewRelease/johnwick.mp4
+#EXTINF:NewRelease From Said_Lachheb_server
+http://www.deadlyblogger.com/NewRelease/maleficent.mp4
+#EXTINF:NewRelease From Said_Lachheb_server
+http://www.deadlyblogger.com/NewRelease/sherman2014.mp4
+#EXTINF:NewRelease From Said_Lachheb_server
+http://www.deadlyblogger.com/NewRelease/needforspeed.mp4
+#EXTINF:NewRelease From Said_Lachheb_server
+http://www.deadlyblogger.com/NewRelease/nonstop2014.mp4
 
 
